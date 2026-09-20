@@ -1,0 +1,4 @@
+interface:
+  display_name: "CMO Core"
+  short_description: "Route CMO work through authority and evidence"
+  default_prompt: "Use $cmo-core to route and execute this CMO OS task safely."

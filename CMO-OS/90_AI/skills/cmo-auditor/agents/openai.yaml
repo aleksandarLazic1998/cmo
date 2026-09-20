@@ -1,0 +1,4 @@
+interface:
+  display_name: "CMO Auditor"
+  short_description: "Audit CMO evidence, decisions, and integrations"
+  default_prompt: "Use $cmo-auditor to audit this CMO OS result independently."
