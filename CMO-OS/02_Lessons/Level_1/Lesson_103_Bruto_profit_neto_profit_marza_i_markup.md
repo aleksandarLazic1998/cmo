@@ -24,7 +24,7 @@ Marža i markup koriste isti bruto profit u brojniku, ali različit imenilac. Za
 ## New terms
 
 - **Bruto marža / Gross margin:** Bruto profit ÷ prihod.
-- **Markup / Markup:** Bruto profit ÷ trošak robe.
+- **Uvećanje u odnosu na nabavni trošak / Markup:** Bruto profit ÷ trošak robe.
 - **Neto profit / Net profit:** Rezultat posle svih relevantnih rashoda.
 
 ## Realistična `[FIXTURE]` simulacija — Uređaj sa troškom 8.000 RSD

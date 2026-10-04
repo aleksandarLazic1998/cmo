@@ -243,14 +243,14 @@ Knjiga je praktični offer-design i direct-response marketing framework zasnovan
 
 ## CMO OS connections
 
-- Lessons 201–205 — customer problem, market, alternatives, segment i evidence.
-- Lessons 301–305 — value proposition, offer, pricing, proof i terms.
-- Lessons 401–405 — response, funnel, conversion, fulfillment i retention.
+- Lessons 301–304 — customer problem, market, alternatives, segment i evidence.
+- Lessons 401–404 — value proposition, offer, pricing, proof i terms.
+- Lessons 501–505 — response, funnel, conversion, fulfillment i retention.
 - Lessons 501–505 — gross profit, cash, CAC, LTV/payback i margin/capacity.
-- Lessons 601–605 — delivery design, reusable assets, quality, bottleneck i exceptions.
-- Lessons 701–705 — role impact, workload, incentives, customer boundaries i culture.
-- Lessons 801–805 — offer experiment, stage conversion, cohort, guardrails i review.
-- Lessons 901–905 — evidence quality, arithmetic reconciliation, causality, ethics/privacy i decision record.
+- Lessons 701–704 — delivery design, reusable assets, quality, bottleneck i exceptions.
+- Lessons 901–904 — role impact, workload, incentives, customer boundaries i culture.
+- Lessons 801–804 — offer experiment, stage conversion, cohort, guardrails i review.
+- Lessons 801–804 — evidence quality, arithmetic reconciliation, causality, ethics/privacy i decision record.
 - Lessons 1001–1005 — market choice, differentiation, constraint, resource allocation i feedback.
 - `BKB-CUS-001` — profit-bearing customer fit.
 - `BKB-POS-001/002/003` — linked positioning hypothesis, market-frame choice and propagation.

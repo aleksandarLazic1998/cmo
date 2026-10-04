@@ -142,3 +142,15 @@ Uporedi dva `[FIXTURE]` segmenta: jedan sa većim LTV-om i visokim support cost-
 Najvredniji princip izvora je: **ne optimizuj acquisition prema broju kupaca; optimizuj ceo customer-economic system prema dokazivo profitabilnom fit-u.**
 
 Princip se zadržava uz obaveznu korekciju: customer value nije jedna brojka, a korelacija buyer behavior-a nije automatski uzrok.
+
+## Current full reread — 2026-10-04
+
+[FACT] U ovoj sesiji pročitan je extractable tekst svih PDF pp. 1–8; svih osam rendera pregledano je na contact sheet-u, a image-only okviri na pp. 4, 5, 7 i 8 dodatno su pročitani na prikazu stranice. Originalni izvor i istorijski completion ostaju isti.
+
+- [SOURCE CLAIM] P. 4: ista procentna promena konverzije daje različitu apsolutnu vrednost zavisno od obima klijenta. Vrednosna cena nije dokaz da je prihod isto što i profit.
+- [FACT] Račun u okviru p. 4 nije vremenski usklađen: mesečni prihod 100.000→140.000 USD znači 40.000 USD dodatnog mesečnog prihoda. Naknada od 10% toga je 4.000 mesečno ili 48.000 godišnje, ne navedenih 40.000 godišnje. Za veliki primer odgovarajuće vrednosti su 400.000 mesečno i 4.800.000 godišnje, ne navedenih 4.000.000 godišnje. Pretpostavke stalnog saobraćaja, cene i 12 identičnih meseci ne dokazuju stvarni rezultat.
+- [SOURCE CLAIM] P. 5, okvir za početak bez kupaca: početi od poznatog domena i užeg segmenta koji se može dobro uslužiti; customer survey ponoviti kada postoje kupci. To je korisna hipoteza, ne dokaz univerzalne prednosti iskustva.
+- [SOURCE CLAIM] P. 7: autor vezuje zadržavanje kupaca i ponovnu kupovinu za vrednost, ali tvrdnje o lakšim enterprise klijentima i valuation multiple-u ne prenose se bez dokaza o trošku isporuke, koncentraciji i ciklusu naplate.
+- [SOURCE CLAIM] P. 8: završni promotivni okvir sadrži tvrdnje o portfolio rastu profita i poziv na prijavu. To je marketing autora, ne nezavisna validacija njegovog metoda ili CMO OS benchmark.
+
+Ova dopuna ne prenosi demografske kvalifikatore u stvarni ICP i ne menja Learning Progress. Evidence: `90_AI/audits/2026-10-04_full_corpus_reread/reading_evidence.json`.

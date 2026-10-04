@@ -4,11 +4,11 @@ System version: `CMO-OS 2.0.0`
 Curriculum version: `2026.08-expanded`  
 Status: `active`
 
-Roadmap definiše program, ne tvrdi šta je Aleksandar završio. Live napredak, dokaz kompetencije, snage i slabosti postoje samo u `10_Daily/Learning_Progress.md`. Veze između koncepata postoje u `01_Knowledge/Knowledge_Graph.md`.
+Roadmap definiše program, ne tvrdi šta je trenutni učenik završio. Live napredak, dokaz kompetencije, snage i slabosti postoje samo u `10_Daily/Learning_Progress.md`. Veze između koncepata postoje u `01_Knowledge/Knowledge_Graph.md`.
 
 ## Cilj programa
 
-Razviti Aleksandra od početnika bez formalnog poslovnog obrazovanja do osobe koja može da razume, vodi, meri i unapređuje mali i rastući biznis kao komercijalni lider i budući CEO.
+Razviti trenutnog učenika od osnovnih poslovnih pojmova do osobe koja može da razume, vodi, meri i unapređuje mali i rastući biznis kao komercijalni lider i budući CEO.
 
 Put razvoja:
 
@@ -16,16 +16,16 @@ Put razvoja:
 
 ## Metod učenja
 
-**Teach → Explain → Example → Practice → Test → Feedback → Apply → Document**
+**Kompletna teorija → pitanja i pojašnjenja → vođeni primeri → samostalne vežbe → test → feedback i ocena → potvrđen upis → sledeća lekcija**
 
-Svaki novi stručni izraz mora prvo biti objašnjen običnim srpskim jezikom, zatim naveden na srpskom i engleskom, pa prikazan kroz broj ili poslovni primer. Znanje se ne smatra završenim dok Aleksandar ne može da:
+Svaki novi stručni izraz mora prvo biti objašnjen običnim srpskim jezikom, zatim naveden na srpskom i engleskom, pa prikazan kroz broj ili poslovni primer. Znanje se ne smatra završenim dok učenik ne može da:
 
 1. objasni koncept svojim rečima;
 2. primeni ga na `[FIXTURE]` poslovnom primeru;
 3. izračuna rezultat kada tema ima brojeve;
 4. donese i obrazloži poslovnu odluku.
 
-Prolaz zahteva najmanje 80/100 i dokaz praktične primene. Svaka lekcija koristi `99_Templates/Lesson_Template.md` i `04_SOP/lesson_lifecycle.md`.
+Prolaz zahteva najmanje 80/100 i najmanje 15/25 u svakoj od četiri oblasti, samostalnu praktičnu primenu, obrazloženu odluku i ispravljene ključne greške. Svaka lekcija koristi `99_Templates/Lesson_Template.md` i `04_SOP/lesson_lifecycle.md`.
 
 Lekcija može biti unapred izrađena i auditirana kao `AUTHORED`. To ne znači da je `ACTIVE` ili `COMPLETED`: lični status i dalje postoji samo u `10_Daily/Learning_Progress.md`, prema ADR 004.
 
@@ -61,9 +61,10 @@ Detaljan redosled i prerequisites postoje u `02_Lessons/LESSON_CATALOG.md`.
 Sledeći nivo se ne otvara samo na osnovu razgovora ili samoprocene. Potrebni su:
 
 - sve obavezne lekcije nivoa završene;
-- najmanje 80/100 na svakoj završnoj proceni;
+- najmanje 80/100 i najmanje 15/25 u svakoj oblasti na svakoj završnoj proceni;
+- samostalna praktična primena;
 - ispravljene ključne greške;
-- integracioni scenario nivoa u kojem Aleksandar donosi odluku;
+- integracioni scenario nivoa u kojem učenik donosi odluku;
 - ažurirani Learning Progress i Knowledge Graph.
 
 Ako nedostaju definicija, podatak ili važeći izvor, koristi se `[UNKNOWN]`. Pretpostavka se nikada ne predstavlja kao činjenica.
@@ -79,7 +80,7 @@ Ako nedostaju definicija, podatak ili važeći izvor, koristi se `[UNKNOWN]`. Pr
 ### Sledeće
 
 - Završiti Level 0 i Level 1 redom iz Lesson Catalog-a.
-- Koristiti unapred izrađene `AUTHORED` lekcije redom; ne menjati `ACTIVE` ili `COMPLETED` bez potvrđenog evidence-a.
+- Koristiti unapred izrađene `AUTHORED` lekcije redom; `COMPLETED` zahteva potvrđen evidence, a `ACTIVE` može administrativno označiti početni fokus nove instance uz prethodni backup i izričit zahtev.
 - Dodavati trajne pojmove u Knowledge tek nakon obrađene i proverene lekcije.
 
 ### Kasnije

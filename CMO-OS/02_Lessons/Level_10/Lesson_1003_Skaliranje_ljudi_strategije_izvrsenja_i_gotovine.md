@@ -24,8 +24,8 @@ Skaliranje uvećava ono što već postoji. Ako su ekonomika, proces ili liderstv
 ## New terms
 
 - **Skaliranje / Scaling:** Rast obima uz očuvanje ili poboljšanje kvaliteta i ekonomike.
-- **Operating leverage / Operating leverage:** Rast rezultata brži od određenih fiksnih troškova.
-- **Growth constraint / Growth constraint:** Ograničenje koje određuje bezbedan tempo rasta.
+- **Uticaj fiksnih troškova na promenu rezultata / Operating leverage:** Rast rezultata brži od određenih fiksnih troškova.
+- **Ograničenje rasta / Growth constraint:** Ograničenje koje određuje bezbedan tempo rasta.
 
 ## Realistična `[FIXTURE]` simulacija — Dupliranje prodaje
 

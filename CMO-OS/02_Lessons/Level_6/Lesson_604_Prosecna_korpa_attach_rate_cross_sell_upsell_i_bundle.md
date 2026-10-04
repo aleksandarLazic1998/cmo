@@ -23,9 +23,9 @@ Etička granica je fit: dodatak mora imati objašnjenu vrednost i slobodan izbor
 
 ## New terms
 
-- **Attach rate / Attach rate:** Kupovine sa dodatkom ÷ glavne kupovine.
-- **Cross-sell / Cross-sell:** Ponuda povezanog proizvoda za drugu potrebu.
-- **Upsell / Upsell:** Prelazak na vredniju verziju istog rešenja.
+- **Udeo osnovnih kupovina uz dodatak / Attach rate:** Kupovine sa dodatkom ÷ glavne kupovine.
+- **Prodaja povezanog dodatnog proizvoda / Cross-sell:** Ponuda povezanog proizvoda za drugu potrebu.
+- **Prelazak na vredniju opciju / Upsell:** Prelazak na vredniju verziju istog rešenja.
 
 ## Realistična `[FIXTURE]` simulacija — Laptop i zaštitna torba
 
@@ -90,4 +90,4 @@ Knjige su sekundarni izvori. Ova lekcija je originalna CMO OS sinteza i ne kopir
 
 ## Local authority boundary
 
-Vezivanje proizvoda, prikaz cene paketa i uslovi povraćaja su regulisani. Primer je `[FIXTURE]`; bundle, cross-sell i upsell ne smeju uslovljavati kupovinu ni skrivati stavku na računu — uskladiti sa propisima o zaštiti potrošača i stručnom proverom.
+Vezivanje proizvoda, prikaz cene paketa i uslovi povraćaja su regulisani. Primer je `[FIXTURE]`; bundle, cross-sell i upsell moraju imati jasno prikazan sadržaj, ukupnu cenu i dobrovoljan izbor; ne skrivati doplate niti predstavljati paket kao zakonski obavezan. Dozvoljenost konkretnog vezivanja proizvoda i uslove povraćaja proveriti prema važećim pravilima — uskladiti sa propisima o zaštiti potrošača i stručnom proverom.

@@ -1,0 +1,33 @@
+{
+  "scope": "local document audit, not student grading or app runtime",
+  "commands": [
+    {
+      "command": "python3 90_AI/audits/2026-10-04_local_instance/validate.py",
+      "exit_code": 1,
+      "result": "10 BK-018 assertions unresolved; all other source and document assertions passed"
+    },
+    {
+      "command": "python3 90_AI/audits/2026-10-04_local_instance/validate.py --documents-only",
+      "exit_code": 1,
+      "result": "rechecked changed documents, retained 10 source failures; reused extraction only after protected source hash verification"
+    },
+    {
+      "command": "python3 90_AI/audits/2026-10-04_local_instance/audit_checks.py",
+      "exit_code": 0,
+      "result": "80 checks PASS; 4611 original protected files unchanged"
+    },
+    {
+      "command": "git diff --check",
+      "exit_code": 0,
+      "result": "PASS after removing newly added trailing whitespace"
+    }
+  ],
+  "not_run": [
+    "lessons:audit",
+    "lint",
+    "production build",
+    "browser runtime"
+  ],
+  "not_run_reason": "application manifests, source and runner absent",
+  "tracked_files_changed": 60
+}

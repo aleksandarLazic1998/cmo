@@ -232,15 +232,15 @@ Knjiga je autorov proprietary small-business framework, razvijen kroz njegovu ko
 
 ## CMO OS connections
 
-- Lessons 101–105 — owner purpose, business definition i evidence tags.
-- Lessons 201–205 — customer problem, alternatives, segmentation i validation.
-- Lessons 301–305 — value proposition, offer i promise boundaries.
-- Lessons 401–405 — lead generation, conversion, fulfillment i handoffs.
+- Lessons 001–003 — owner purpose, business definition i evidence tags.
+- Lessons 301–304 — customer problem, alternatives, segmentation i validation.
+- Lessons 401–404 — value proposition, offer i promise boundaries.
+- Lessons 501–505 — lead generation, conversion, fulfillment i handoffs.
 - Lessons 501–505 — revenue, gross profit, cash, unit economics i opportunity gate.
-- Lessons 601–605 — process map, SOP, capacity, quality, exceptions i continuous improvement.
-- Lessons 701–705 — roles, management, culture, hiring, onboarding i development.
-- Lessons 801–805 — funnel benchmark, conversion, cost, leading/lagging i review cadence.
-- Lessons 901–905 — source quality, experiment design, privacy, uncertainty i decision evidence.
+- Lessons 701–704 — process map, SOP, capacity, quality, exceptions i continuous improvement.
+- Lessons 901–904 — roles, management, culture, hiring, onboarding i development.
+- Lessons 801–804 — funnel benchmark, conversion, cost, leading/lagging i review cadence.
+- Lessons 801–804 — source quality, experiment design, privacy, uncertainty i decision evidence.
 - Lessons 1001–1005 — objective, constraint, resource choice, execution i feedback.
 - `BKB-OPS-002` — owner independence as controlled outcome transfer.
 - `BKB-OPS-003/004` — total-system output and managerial leverage.

@@ -157,12 +157,12 @@ Knjiga je poslovna basna: Alex Stapleton i Ted Gordon su izmišljeni/amalgam lik
 
 - `KG-CUS-001`–`KG-CUS-002` — valuable/problem fit i proof.
 - `KG-FIN-001`–`KG-FIN-006` — revenue recognition, costs, gross profit/margin, operating/net result.
-- Lessons 401–405 — positioning, value, offer, price i commercial plan.
+- Lessons 401–404 — positioning, value, offer, price i commercial plan.
 - Lessons 501–505 — sales engine, qualification, channels i unit economics.
-- Lessons 601–605 — operations, SOP, capacity, quality i constraints.
-- Lessons 701–705 — people, roles, incentives i management systems.
-- Lessons 801–805 — cash, working capital, forecast i financial decision-making.
-- Lessons 901–905 — KPI, attribution, scenario i controls.
+- Lessons 701–704 — operations, SOP, capacity, quality i constraints.
+- Lessons 901–904 — people, roles, incentives i management systems.
+- Lessons 201–206 — cash, working capital, forecast i financial decision-making.
+- Lessons 801–804 — KPI, attribution, scenario i controls.
 - Lessons 1001–1002 — focus, trade-offs i coherent action.
 
 ## CMO OS founder-independence protocol

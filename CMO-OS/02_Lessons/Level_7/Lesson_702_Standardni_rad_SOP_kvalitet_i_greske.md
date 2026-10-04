@@ -25,7 +25,7 @@ Kvalitet se gradi u procesu: definiši šta je dobro, proveri kritične tačke i
 
 - **Standardni rad / Standard work:** Najbolji trenutno poznat ponovljiv način rada.
 - **SOP / Standard operating procedure:** Dokumentovan proces sa owner-om i kontrolama.
-- **First-pass yield / First-pass yield:** Udeo koji prođe bez popravke iz prvog pokušaja.
+- **Udeo ispravnih isporuka iz prvog pokušaja / First-pass yield:** Udeo koji prođe bez popravke iz prvog pokušaja.
 
 ## Realistična `[FIXTURE]` simulacija — Priprema uređaja za kupca
 

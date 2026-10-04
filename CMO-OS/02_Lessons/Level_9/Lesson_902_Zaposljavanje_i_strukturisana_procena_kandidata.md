@@ -25,7 +25,7 @@ Proces mora biti fer, zakonit i vezan za posao. Lične karakteristike koje nisu 
 
 - **Strukturisani intervju / Structured interview:** Ista relevantna pitanja i rubrika za sve kandidate.
 - **Rubrika / Scoring rubric:** Unapred definisani kriterijumi ocene dokaza.
-- **Selection evidence / Selection evidence:** Primeri ponašanja i rezultata relevantni za ulogu.
+- **Dokaz za izbor kandidata / Selection evidence:** Primeri ponašanja i rezultata relevantni za ulogu.
 
 ## Realistična `[FIXTURE]` simulacija — Izbor između dva kandidata
 
@@ -46,8 +46,8 @@ A ima odličan utisak 9/10, ali malo dokaza; B ima 7/10 utisak i jake primere za
 ### Inputs
 
 - 4 kriterijuma po 25 poena
-- A: 70/100
-- B: 88/100
+- A: 20 + 20 + 20 + 10 = 70/100
+- B: 22 + 22 + 22 + 22 = 88/100; svaki kriterijum je iznad 15/25
 - kritični minimum po kriterijumu 15/25
 
 ### Decision

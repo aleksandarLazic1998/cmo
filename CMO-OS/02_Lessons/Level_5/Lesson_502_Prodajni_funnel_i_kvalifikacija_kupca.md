@@ -23,7 +23,7 @@ Konverzija se uvek vezuje za dve faze, period i populaciju. Bez toga procenat iz
 
 ## New terms
 
-- **Lead / Lead:** Kontakt ili nalog koji može imati interesovanje.
+- **Potencijalni prodajni kontakt / Lead:** Kontakt ili nalog koji može imati interesovanje.
 - **Kvalifikovana prilika / Qualified opportunity:** Kupac sa potvrđenim problemom, fit-om i procesom odluke.
 - **Konverzija / Conversion rate:** Broj koji je prešao u sledeću fazu ÷ broj na ulazu faze.
 
@@ -40,7 +40,7 @@ Ušlo je 100 leadova, 40 je kvalifikovano, 20 je dobilo ponudu, a 8 je kupilo.
 - **VAT / tax basis:** nije relevantan
 - **Inclusions:** samo eksplicitno navedeni ulazi
 - **Exclusions:** stvarni Tehnocentar/PostHog podaci i sve nenavedene stavke
-- **Assumptions:** faze su međusobno isključive i definicije stabilne
+- **Assumptions:** ista ulazna kohorta ima dovoljno vremena za praćenje; brojevi kumulativno pokazuju koliko je leadova stiglo do svake faze. Kupac koji je kupio prethodno je bio kvalifikovan i dobio ponudu; ovi skupovi nisu međusobno isključivi. Trenutni status jednog lead-a može biti jedna faza, ali snapshot statusa nije ovaj obračun konverzije
 - **Formula / denominator:** Lead→kvalifikovan 40%; ponuda→dobijeno 40%; lead→kupac 8%.
 
 ### Inputs

@@ -161,9 +161,9 @@ Knjiga predstavlja komercijalni ghSMART hiring framework iz 2008. godine. Kombin
 
 ## CMO OS connections
 
-- Lessons 601–605 — process, capacity, quality and constraints.
-- Lessons 701–705 — role design, hiring, management, incentives and culture.
-- Lessons 901–905 — measurement, causal limits, data quality and decision records.
+- Lessons 701–704 — process, capacity, quality and constraints.
+- Lessons 901–904 — role design, hiring, management, incentives and culture.
+- Lessons 801–804 — measurement, causal limits, data quality and decision records.
 - Lessons 1001–1002 — strategy-to-role alignment and focus.
 - `BKB-OPS-002` — founder independence as controlled outcome transfer.
 - `BKB-STR-001` — evidence mora moći promeniti hiring decision.

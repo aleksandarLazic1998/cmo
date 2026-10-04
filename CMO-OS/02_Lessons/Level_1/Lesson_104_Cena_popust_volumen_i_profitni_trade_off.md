@@ -15,7 +15,7 @@ Proceni kada veća prodaja smanjuje rezultat.
 
 Popust snižava profit po jedinici. Da bi ukupan profit ostao isti, količina mora porasti dovoljno da nadoknadi izgubljeni doprinos na svakoj prodaji.
 
-Zato nije dovoljno pitati „koliko više komada prodajemo“. Treba izračunati novu contribution margin i potreban dodatni volumen, uz ograničenje kapaciteta i zaliha.
+Zato nije dovoljno pitati „koliko više komada prodajemo“. Treba izračunati novi doprinos pokriću po jedinici (contribution margin: prodajna cena minus relevantni varijabilni trošak) i potreban dodatni volumen, uz ograničenje kapaciteta i zaliha.
 
 ## Visual model
 
@@ -41,7 +41,7 @@ Cena je 10.000 RSD, varijabilni trošak 6.000, a prodaja 100 komada. Razmatra se
 - **Inclusions:** samo eksplicitno navedeni ulazi
 - **Exclusions:** stvarni Tehnocentar/PostHog podaci i sve nenavedene stavke
 - **Assumptions:** varijabilni trošak ostaje 6.000 RSD; nema kanibalizacije
-- **Formula / denominator:** Za istih 400.000 RSD doprinosa treba 400.000 ÷ 3.000 = 134 komada, odnosno najmanje 34% više.
+- **Formula / denominator:** Za istih 400.000 RSD doprinosa treba 400.000 ÷ 3.000 = 133,33…; za cele komade zaokruži naviše na 134 komada, odnosno najmanje 34% više.
 
 ### Inputs
 

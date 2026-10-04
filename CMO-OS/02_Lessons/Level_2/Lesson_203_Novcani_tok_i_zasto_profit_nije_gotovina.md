@@ -41,7 +41,7 @@ Firma proda robu za 500.000 RSD uz trošak 350.000, ali kupac plaća za 60 dana;
 - **Inclusions:** samo eksplicitno navedeni ulazi
 - **Exclusions:** stvarni Tehnocentar/PostHog podaci i sve nenavedene stavke
 - **Assumptions:** nema avansa i nema druge raspoložive gotovine
-- **Formula / denominator:** Profit +150.000 RSD; trenutni priliv 0 RSD; potreban novac za dobavljača 350.000 RSD.
+- **Formula / denominator:** Bruto profit +150.000 RSD; trenutni priliv 0 RSD; potreban novac za dobavljača 350.000 RSD.
 
 ### Inputs
 
@@ -73,7 +73,7 @@ Napravi 8-nedeljni cash-flow raspored za tri prodaje i dva dobavljača sa razli�
 Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Profit meri obračunski rezultat, a cash flow stvarno kretanje gotovine.
-2. U primeru profit može biti 150.000 RSD dok je trenutni priliv 0 RSD.
+2. U primeru bruto profit može biti 150.000 RSD dok je trenutni priliv 0 RSD.
 3. Pre posla na odloženo treba uporediti naplatu, plaćanje i raspoloživu gotovinu.
 4. Profitabilan posao se može odbiti ili promeniti ako stvara neprihvatljiv likvidnosni rizik.
 

@@ -64,7 +64,7 @@ Menadžer vidi da premium model nosi 60% prihoda uz 40% količine.
 
 ## Practical exercise
 
-Izračunaj prihod i prosečnu cenu za 3 proizvoda sa različitim količinama. Zatim promeni miks bez promene ukupne količine.
+U novom `[FIXTURE]` scenariju izaberi tri proizvoda sa različitim količinama i cenama, zapiši ulaze, pa izračunaj prihod i prosečnu cenu. Promeni miks bez promene ukupne količine i obrazloži efekat. Primer sa dva modela ispod služi vođenoj proveri formule, ne predstavlja rešenje tvog zadatka sa tri proizvoda.
 
 **Rešenje za proveru:** Bazni primer: prihod 6 × 4.000 + 4 × 9.000 = 60.000 RSD; prosečna cena 60.000 ÷ 10 = 6.000 RSD. Promena miksa na 4 osnovna i 6 premium, uz istih 10 jedinica: prihod 16.000 + 54.000 = 70.000 RSD i prosečna cena 7.000 RSD — količina je ista, prihod veći samo zbog miksa.
 

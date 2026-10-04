@@ -26,6 +26,7 @@ Ubrzavanje dela koji nije usko grlo često samo stvara red i više rada u toku. 
 - **Proces / Process:** Povezan niz koraka koji stvara definisan ishod.
 - **Kapacitet / Capacity:** Maksimalni održivi obim u periodu.
 - **Usko grlo / Bottleneck:** Korak koji ograničava protok celog sistema.
+- **Rad u toku / Work in progress (WIP):** Poslovi koji su ušli u proces, a još nisu završeni; u servisu to su primljeni uređaji koji čekaju ili prolaze obradu.
 
 ## Realistična `[FIXTURE]` simulacija — Servis uređaja
 

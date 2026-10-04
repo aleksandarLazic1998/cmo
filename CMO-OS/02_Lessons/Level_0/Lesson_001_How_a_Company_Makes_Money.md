@@ -9,13 +9,13 @@ evidence_mode: `[FIXTURE]`
 
 ## Learning objective
 
-Razlikuje vrednost za kupca, prihod, bruto profit i neto rezultat, i objašnjava zašto veći promet nije automatski bolji posao.
+Razlikuje vrednost za kupca, prihod, bruto profit i neto rezultat.
 
 ## Teach & explain
 
 Kupac ne kupuje proizvod, nego rešenje svog problema. Firma naplati tu vrednost i time nastaje prihod. Prihod nije zarada: iz njega se prvo plaća roba koja je prodata.
 
-Ono što ostane posle direktnog troška je bruto profit. Iz bruto profita se pokrivaju plate, zakup, marketing i dostava — tek posle toga postoji neto profit. Zato menadžer ne slavi promet, nego pita koliko je od tog prometa zaista ostalo.
+U ovoj trgovinskoj simulaciji bruto profit je prihod umanjen za trošak prodate robe. Iz njega se pokrivaju operativni rashodi, a za puni neto profit firme moraju se uključiti i svi ostali relevantni rashodi, kamate i porezi. Iznos posle samo navedenog operativnog troška zovemo neto doprinosom vežbe, ne punim neto profitom firme. Zato menadžer ne slavi promet, nego pita koliko je od tog prometa zaista ostalo.
 
 ## Visual model
 
@@ -55,7 +55,10 @@ Napomena: Figma/FigJam je verifikovana vizuelna integracija, ali nije source of 
 - **Vrednost za kupca / Customer value:** Korist i rešeni problem zbog kojih kupac bira ponudu.
 - **Prihod / Revenue:** Vrednost prodaje pre bilo kakvog odbitka.
 - **Nabavna cena, trošak prodate robe / Cost of goods sold:** Direktni trošak baš onog proizvoda koji je prodat.
-- **Bruto profit / Gross profit:** Prihod umanjen za direktni trošak prodate robe.
+- **Bruto profit / Gross profit:** Prihod umanjen za trošak prodate robe; u telefonu iz primera 60.000 − 50.000 = 10.000 RSD.
+- **Bruto marža / Gross margin:** Udeo bruto profita u prihodu; 10.000 ÷ 60.000 × 100 = 16,7%.
+- **Operativni rashodi / Operating expenses:** Troškovi poslovanja poput zakupa i plata; u vežbi je pripisano 3.000 RSD jednoj prodaji.
+- **Neto profit / Net profit:** Rezultat firme posle svih relevantnih rashoda, kamata i poreza; ovde nije izračunat, jer nisu dati svi ulazi. Posle navedenih 3.000 RSD ostaje samo 7.000 RSD neto doprinosa vežbe.
 
 ## Realistična `[FIXTURE]` simulacija — Prodaja telefona u prodavnici tehnike
 
@@ -142,7 +145,7 @@ Knjige su sekundarni izvori. Ova lekcija je originalna CMO OS sinteza i ne kopir
 
 ## Lesson completion
 
-Status: `AUTHORED` / `ACTIVE` je dozvoljeno tek nakon potvrđenog evidence-a u `10_Daily/Learning_Progress.md`.
+Status sadržaja: `AUTHORED`. `ACTIVE` označava izabrani fokus u `10_Daily/Learning_Progress.md`, a `COMPLETED` se upisuje tek posle potvrđenog assessment evidence-a. Izbor fokusa nije položen ispit.
 
 ## Knowledge storage
 

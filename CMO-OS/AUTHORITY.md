@@ -23,7 +23,7 @@ Autoritet je vezan za domen, ne za linearnu hijerarhiju fajlova. Dokument je aut
 | Customer evidence | `07_Customer/` | VOC, segmenti i potvrđene potrebe. |
 | Competition evidence | `08_Competition/` | Izvor i datum obavezni. |
 | Company facts | `09_Company/<company>/` | Samo potvrđeni podaci ili eksplicitni UNKNOWN. |
-| Lični learning state | `10_Daily/Learning_Progress.md` | Aleksandarov state; nikad u template/CLAUDE. |
+| Lični learning state | `10_Daily/Learning_Progress.md` | State trenutnog učenika; nikad u template/CLAUDE. |
 | Research evidence | `11_Research/` | Samo stvarno istraživački sadržaj. |
 | Sastanci | `12_Meetings/` | Zapis i action items. |
 | Poslovne odluke | `13_Decisions/business/` | ADR/decision record. |

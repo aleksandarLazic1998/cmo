@@ -25,7 +25,7 @@ Good-Better-Best organizuje jasne korake vrednosti. Svaki nivo treba da ima stva
 
 - **Širina asortimana / Assortment breadth:** Broj različitih potreba ili linija koje ponuda pokriva.
 - **Dubina asortimana / Assortment depth:** Broj varijanti unutar iste potrebe.
-- **Good-Better-Best / Good-Better-Best:** Tri jasna nivoa vrednosti i cene.
+- **Osnovna, bolja i najbolja opcija / Good-Better-Best:** Tri jasna nivoa vrednosti i cene.
 
 ## Realistična `[FIXTURE]` simulacija — Slušalice u tri nivoa
 

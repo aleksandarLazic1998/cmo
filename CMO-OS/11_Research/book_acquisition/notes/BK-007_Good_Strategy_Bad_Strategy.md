@@ -167,7 +167,7 @@ Knjiga **nije**: empirijski dokazan model sa merljivom stopom uspeha, statistič
 
 `[SOURCE CLAIM]` Sud se poboljšava samo uz **pisano pred-obavezivanje**: zapiši svoju procenu pre diskusije, inače ćeš posle misliti „i ja sam na to pomislio“ i ništa nećeš naučiti.
 
-`[INFERENCE]` Ovo je jedina tehnika u knjizi koja direktno gradi ličnu sposobnost i zato ulazi u Morijartijev metod predavanja: pre svake lekcije i svake simulacije, Aleksandar zapisuje dijagnozu i odluku; posle se poredi. Panel of experts CMO OS zadržava kao tehniku kritike sa jasnom ogradom — to je vežba mašte, nikada izvor činjenica; ono što „Jobs bi rekao“ nije podatak.
+`[INFERENCE]` Ovo je jedina tehnika u knjizi koja direktno gradi ličnu sposobnost i zato ulazi u Morijartijev metod predavanja: u praktičnoj fazi, kada student već razume pojmove, zapisuje dijagnozu i odluku u novom [FIXTURE] scenariju; posle se poredi. Tokom teorijskog predavanja ne traži se zadatak ni odluka. Panel of experts CMO OS zadržava kao tehniku kritike sa jasnom ogradom — to je vežba mašte, nikada izvor činjenica; ono što „Jobs bi rekao“ nije podatak.
 
 ### 15. Zadržati glavu: zatvoreni krug i inside view
 

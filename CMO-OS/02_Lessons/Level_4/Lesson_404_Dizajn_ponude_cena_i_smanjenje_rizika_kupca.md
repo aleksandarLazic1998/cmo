@@ -24,8 +24,8 @@ Rizik kupca se može smanjiti probnim periodom, jasnim scope-om, etapnim plaćan
 ## New terms
 
 - **Dizajn ponude / Offer design:** Konstrukcija vrednosti, cene, uslova i dokaza.
-- **Risk reversal / Risk reversal:** Mehanizam koji deo neizvesnosti prebacuje sa kupca.
-- **Scope / Scope:** Jasna granica šta ponuda uključuje i ne uključuje.
+- **Preuzimanje dela rizika kupca / Risk reversal:** Mehanizam koji deo neizvesnosti prebacuje sa kupca.
+- **Obuhvat ponude / Scope:** Jasna granica šta ponuda uključuje i ne uključuje.
 
 ## Realistična `[FIXTURE]` simulacija — Paket instalacije
 
@@ -47,7 +47,7 @@ Osnovna instalacija košta 5.000 RSD i traje do 2 sata; dodatni sat košta 2.000
 
 - cena 5.000
 - direktni trošak 2.500
-- 10% slučajeva traži dodatni sat
+- 10% osnovnih instalacija zahteva besplatnu ponovnu posetu po garanciji; dodatni rad izvan ugovorenog scope-a posebno se naplaćuje
 - garancija ponovne posete ako osnovni scope nije završen
 
 ### Decision

@@ -25,7 +25,7 @@ Merenje treba da prati put od troška do kvalitetnog ishoda, uz guardrail za pro
 
 - **Kanal / Channel:** Put preko kojeg poruka i ponuda stižu do kupca.
 - **Kampanja / Campaign:** Vremenski ograničena aktivnost sa ciljem i budžetom.
-- **Attribution / Attribution:** Pravilo pripisivanja rezultata dodirnim tačkama.
+- **Pripisivanje rezultata kanalu / Attribution:** Pravilo pripisivanja rezultata dodirnim tačkama.
 
 ## Realistična `[FIXTURE]` simulacija — Dva marketinška kanala
 
@@ -83,6 +83,6 @@ Canonical prolaz zahteva najmanje 80/100, najmanje 15/25 u svakoj oblasti, demon
 ## Sources and limits
 
 - CMO OS originalna sinteza · bez prepisivanja knjiga
-- Korpus: `BKB-GTM-002`, `BKB-MET-001` · BK-017 (merenje kanala) · BK-014 p. 406 (KPI) — prihod sam nije KPI
+- Korpus: `BKB-GTM-002`, `BKB-MET-001` · BK-017 (merenje kanala) · BK-014 p. 406 (KPI) — prihod može biti outcome KPI kada je vezan za cilj, definiciju i odluku, ali sam ne meri profitabilnost ni uzročni efekat kampanje
 
 Knjige su sekundarni izvori. Ova lekcija je originalna CMO OS sinteza i ne kopira dostavljene knjige.

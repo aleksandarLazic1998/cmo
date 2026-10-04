@@ -24,8 +24,8 @@ Dobro vlasničko razmišljanje gleda i drugu posledicu: šta odluka donosi danas
 ## New terms
 
 - **Ishod / Outcome:** Merljiva promena koja nastaje posle aktivnosti.
-- **Trade-off / Trade-off:** Svesno prihvatanje jedne mane radi važnije koristi.
-- **Opportunity cost / Opportunity cost:** Vrednost najbolje propuštene alternative.
+- **Kompromis između ciljeva / Trade-off:** Svesno prihvatanje jedne mane radi važnije koristi.
+- **Propuštena korist najbolje alternative / Opportunity cost:** Vrednost najbolje propuštene alternative.
 
 ## Realistična `[FIXTURE]` simulacija — Hitna kampanja ili sređivanje ponude
 
@@ -40,8 +40,8 @@ Vlasnik ima 8 sati. Kampanja može dovesti 20 leadova, ali ponuda još nema jasn
 - **VAT / tax basis:** nije relevantan
 - **Inclusions:** samo eksplicitno navedeni ulazi
 - **Exclusions:** stvarni Tehnocentar/PostHog podaci i sve nenavedene stavke
-- **Assumptions:** bez jasne ponude prodaja se ne može pouzdano zatvoriti
-- **Formula / denominator:** 20 leadova × 0% spremne ponude = 0 pouzdano zatvorenih prodaja.
+- **Assumptions:** bez jasne ponude i dokaza o konverziji broj zatvorenih prodaja ne može se pouzdano proceniti
+- **Formula / denominator:** Broj prodaja je `[UNKNOWN]`: nejasna ponuda ne dokazuje stopu konverzije od 0%. Broj leadova sam ne daje broj prodaja bez potvrđene stope konverzije.
 
 ### Inputs
 

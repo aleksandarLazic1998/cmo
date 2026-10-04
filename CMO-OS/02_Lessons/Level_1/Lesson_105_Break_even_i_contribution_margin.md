@@ -23,9 +23,9 @@ Break-even nije cilj rasta; to je granica bez profita i gubitka u datim pretpost
 
 ## New terms
 
-- **Contribution margin / Contribution margin:** Cena minus relevantni varijabilni trošak.
+- **Doprinos pokriću / Contribution margin:** Cena minus relevantni varijabilni trošak.
 - **Break-even / Break-even point:** Tačka u kojoj je rezultat nula.
-- **Margin of safety / Margin of safety:** Koliko je planirana prodaja iznad break-even-a.
+- **Sigurnosni prostor iznad praga rentabilnosti / Margin of safety:** Razlika planirane prodaje i break-even količine; kao procenat deli se planiranom prodajom: (plan − break-even) ÷ plan × 100.
 
 ## Realistična `[FIXTURE]` simulacija — Servisna usluga
 

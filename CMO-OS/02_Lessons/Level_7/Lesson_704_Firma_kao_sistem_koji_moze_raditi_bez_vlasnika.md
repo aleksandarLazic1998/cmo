@@ -23,8 +23,8 @@ Cilj nije ukloniti vlasnika iz strategije, već iz uloge univerzalnog uskog grla
 
 ## New terms
 
-- **Owner dependency / Owner dependency:** Stepen u kojem posao zavisi od lične intervencije vlasnika.
-- **Decision rights / Decision rights:** Jasno pravo ko donosi koju vrstu odluke.
+- **Zavisnost procesa od vlasnika / Owner dependency:** Stepen u kojem posao zavisi od lične intervencije vlasnika.
+- **Ovlašćenja za odlučivanje / Decision rights:** Jasno pravo ko donosi koju vrstu odluke.
 - **Prenosivost / Transferability:** Sposobnost sistema da radi pod drugim odgovornim vođstvom.
 
 ## Realistična `[FIXTURE]` simulacija — Sedmodnevno odsustvo

@@ -23,9 +23,9 @@ Dobar review odvaja informaciju, odluku i akciju. Svaka akcija ima jednog odgovo
 
 ## New terms
 
-- **Business review / Business review:** Ritual pregleda rezultata i donošenja korektivnih odluka.
-- **Action owner / Action owner:** Jedna osoba odgovorna da akcija dođe do ishoda.
-- **Closed loop / Closed loop:** Provera da li je akcija zaista promenila rezultat.
+- **Pregled poslovnog rezultata / Business review:** Ritual pregleda rezultata i donošenja korektivnih odluka.
+- **Odgovorna osoba za akciju / Action owner:** Jedna osoba odgovorna da akcija dođe do ishoda.
+- **Provera sprovođenja i efekta akcije / Closed loop:** Provera da li je akcija zaista promenila rezultat.
 
 ## Realistična `[FIXTURE]` simulacija — Mesečni review
 

@@ -224,12 +224,12 @@ Knjiga je iskustveni management sistem zasnovan pretežno na Intel-u, manufactur
 
 ## CMO OS connections
 
-- Lessons 401–405 — funnel, channel i handoff kao tok sa output/quality signalima.
+- Lessons 501–504 — funnel, channel i handoff kao tok sa output/quality signalima.
 - Lessons 501–505 — revenue, margin, CAC i LTV kao paired commercial metrics.
-- Lessons 601–605 — process map, capacity, quality, bottleneck i continuous improvement.
-- Lessons 701–705 — role design, management, incentives, training i culture.
-- Lessons 801–805 — scorecard, leading/lagging indicators, forecast i cadence.
-- Lessons 901–905 — data quality, causal limits, uncertainty i decision records.
+- Lessons 701–704 — process map, capacity, quality, bottleneck i continuous improvement.
+- Lessons 901–904 — role design, management, incentives, training i culture.
+- Lessons 801–804 — scorecard, leading/lagging indicators, forecast i cadence.
+- Lessons 801–804 — data quality, causal limits, uncertainty i decision records.
 - Lessons 1001–1005 — strategy, constraint, resource choice i execution feedback.
 - `BKB-OPS-002` — founder independence as controlled transfer.
 - `BKB-PEO-001/002` — role and hiring evidence.

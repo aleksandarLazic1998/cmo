@@ -9,11 +9,11 @@ evidence_mode: `[FIXTURE]`
 
 ## Learning objective
 
-Planira bazni, bolji i lošiji ishod sa pretpostavkama.
+Planira bazni, bolji i lošiji ishod, uključujući pipeline-to-revenue forecast.
 
 ## Teach & explain
 
-Budžet je odobren plan resursa, forecast je najnovija procena ishoda, a scenario pokazuje kako rezultat izgleda pod različitim pretpostavkama. Forecast nije obećanje niti treba da se menja da bi izgledao kao budžet.
+Budžet je odobren plan resursa, forecast je najnovija procena ishoda sa navedenim metodom i neizvesnošću, a scenario pokazuje kako rezultat izgleda pod različitim pretpostavkama. Forecast nije obećanje niti treba da se menja da bi izgledao kao budžet.
 
 Pipeline-to-revenue forecast množi vrednost prilika verovatnoćom samo kada su faze i verovatnoće kalibrisane. Uz weighted iznos treba prikazati i rizik koncentracije, vremena i kapaciteta.
 
@@ -24,8 +24,8 @@ Pipeline-to-revenue forecast množi vrednost prilika verovatnoćom samo kada su 
 ## New terms
 
 - **Budžet / Budget:** Odobren plan ciljeva i resursa.
-- **Forecast / Forecast:** Aktuelna procena najverovatnijeg ishoda.
-- **Weighted pipeline / Weighted pipeline:** Vrednost prilike × kalibrisana verovatnoća zatvaranja.
+- **Aktuelna procena budućeg ishoda / Forecast:** Aktuelna procena ishoda; ponderisani prosek predstavlja očekivanu vrednost, koja ne mora biti najverovatniji pojedinačni ishod.
+- **Prodajne prilike ponderisane verovatnoćom / Weighted pipeline:** Vrednost prilike × kalibrisana verovatnoća zatvaranja.
 
 ## Realistična `[FIXTURE]` simulacija — Pipeline forecast
 
@@ -40,7 +40,7 @@ Tri prilike: 500.000 RSD na 80%, 300.000 na 50% i 200.000 na 20%.
 - **VAT / tax basis:** vrednosti na istoj komercijalnoj osnovi
 - **Inclusions:** samo eksplicitno navedeni ulazi
 - **Exclusions:** stvarni Tehnocentar/PostHog podaci i sve nenavedene stavke
-- **Assumptions:** verovatnoće su istorijski kalibrisane i prilike nezavisne
+- **Assumptions:** verovatnoće su zadati [FIXTURE] ulazi, ne rezultat stvarne istorijske kalibracije; za upotrebu van simulacije kalibracija mora biti dokazana. Svaki dobijeni posao u modelu zatvara se i isporučuje/priznaje u istom mesecu; inače weighted bookings nisu prihod. Nezavisnost se pretpostavlja za scenarije rizika, a nije potrebna za zbir očekivanih vrednosti
 - **Formula / denominator:** Weighted forecast = 400.000 + 150.000 + 40.000 = 590.000 RSD; jaz prema budžetu 110.000 RSD.
 
 ### Inputs

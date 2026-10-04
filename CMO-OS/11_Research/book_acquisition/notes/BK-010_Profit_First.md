@@ -210,14 +210,14 @@ Knjiga je secondary source za behavioral cash-allocation disciplinu. Autor svoju
 ## CMO OS connections
 
 - Lessons 101–105 — evidence tags, source quality, authority i hidden assumptions.
-- Lessons 201–205 — customer/market evidence pre revenue target-a.
-- Lessons 301–305 — offer payments, guarantees, fulfillment i obligation reserve.
-- Lessons 401–405 — billed, collected, recognized i fulfilled moraju ostati odvojeni.
-- Lessons 501–505 — profit layers, owner pay, tax, cash, liabilities, working capital i full economics.
-- Lessons 601–605 — expense cuts kroz constraint, quality, throughput i resilience.
-- Lessons 701–705 — role authority, segregation of duties, employment guardrails i accountability.
-- Lessons 801–805 — named allocation metric, source, cadence, counter-metric i exception trigger.
-- Lessons 901–905 — historical/current separation, privacy/security i professional validation.
+- Lessons 301–304 — customer/market evidence pre revenue target-a.
+- Lessons 401–404 — offer payments, guarantees, fulfillment i obligation reserve.
+- Lessons 501–505 — billed, collected, recognized i fulfilled moraju ostati odvojeni.
+- Lessons 201–206 — profit layers, owner pay, tax, cash, liabilities, working capital i full economics.
+- Lessons 701–704 — expense cuts kroz constraint, quality, throughput i resilience.
+- Lessons 901–904 — role authority, segregation of duties, employment guardrails i accountability.
+- Lessons 801–804 — named allocation metric, source, cadence, counter-metric i exception trigger.
+- Lessons 206, 801–803, 1004 — historical/current separation, privacy/security i professional validation.
 - Lessons 1001–1005 — distributions, reserves, debt i reinvestment kao capital-allocation odluke.
 - `BKB-FIN-001` — profit/cash reconciliation.
 - `BKB-FIN-002` — three-statement evidence chain.

@@ -9,7 +9,7 @@ evidence_mode: `[FIXTURE]`
 
 ## Learning objective
 
-Razlikuje traffic driver, profit driver i stratešku ulogu proizvoda.
+Razlikuje traffic driver, profit driver i stratešku ulogu proizvoda i dobavljača.
 
 ## Teach & explain
 
@@ -23,9 +23,9 @@ Retail ekonomija uključuje i dobavljača: nabavna cena, rok plaćanja, dostupno
 
 ## New terms
 
-- **Traffic driver / Traffic driver:** Proizvod ili kategorija koja dovodi kupce.
-- **Profit driver / Profit driver:** Element koji nosi značajan doprinos profitu.
-- **Supplier economics / Supplier economics:** Ukupan efekat cene, uslova, bonusa i rizika dobavljača.
+- **Proizvod koji privlači kupce / Traffic driver:** Proizvod ili kategorija koja dovodi kupce.
+- **Nosilac profita / Profit driver:** Element koji nosi značajan doprinos profitu.
+- **Ekonomika odnosa sa dobavljačem / Supplier economics:** Ukupan efekat cene, uslova, bonusa i rizika dobavljača.
 
 ## Realistična `[FIXTURE]` simulacija — Laptop i dodatna oprema
 

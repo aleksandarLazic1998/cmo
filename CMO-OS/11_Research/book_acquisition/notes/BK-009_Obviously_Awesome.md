@@ -180,9 +180,9 @@ Tri stila su:
 - `KG-CUS-002` — outcome vrednost i dokaz.
 - `KG-FIN-003`–`KG-FIN-006` — gross profit, margin, operating/net result kao correction za best-fit i market choice.
 - Lessons 301–304 — problem, segment, razgovor, validacija.
-- Lessons 401–405 — positioning, value proposition, offer, pricing i plan.
+- Lessons 401–404 — positioning, value proposition, offer, pricing i plan.
 - Lessons 501–505 — sales process, qualification, conversation, funnel/channel i unit economics.
-- Lessons 901–905 — measurement, attribution i decision quality.
+- Lessons 801–804 — measurement, attribution i decision quality.
 - Lessons 1001–1002 — strategy kernel, focus i coherent action.
 
 ## CMO OS positioning decision protocol

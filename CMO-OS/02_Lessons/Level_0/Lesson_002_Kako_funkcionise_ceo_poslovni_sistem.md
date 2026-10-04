@@ -41,7 +41,7 @@ Kupac želi laptop za rad do petka, ali marketing obećava rok koji zaliha ne mo
 - **Inclusions:** samo eksplicitno navedeni ulazi
 - **Exclusions:** stvarni Tehnocentar/PostHog podaci i sve nenavedene stavke
 - **Assumptions:** rok dobavljača je potvrđen i nema skrivene zalihe
-- **Formula / denominator:** Obećanje 3 dana − mogućnost 5 dana = 2 dana jaza.
+- **Formula / denominator:** Mogućnost 5 dana − obećanje 3 dana = 2 dana kašnjenja prema obećanom roku.
 
 ### Inputs
 

@@ -24,8 +24,8 @@ Integracioni scenario traži jasan problem, podatke i nepoznanice, opcije, prepo
 ## New terms
 
 - **Integraciona odluka / Integrated decision:** Izbor koji eksplicitno povezuje više poslovnih domena.
-- **Decision memo / Decision memo:** Kratak zapis problema, evidence-a, opcija i odluke.
-- **Post-decision review / Post-decision review:** Provera pretpostavki i rezultata nakon odluke.
+- **Zapis obrazložene odluke / Decision memo:** Kratak zapis problema, evidence-a, opcija i odluke.
+- **Naknadna provera odluke / Post-decision review:** Provera pretpostavki i rezultata nakon odluke.
 
 ## Realistična `[FIXTURE]` simulacija — Otvaranje B2B servisnog paketa
 
@@ -36,12 +36,12 @@ Potražnja postoji, ali servis je blizu kapaciteta. Pilot može početi sa 15 kl
 - **Source / method:** CMO OS original authored simulation
 - **Period / as-of:** N/A — simulirani scenario
 - **Grain / population:** jedan simulirani integracioni pilot
-- **Unit / currency:** RSD, klijenti, sati i 90 dana
+- **Unit / currency:** RSD i sati po simuliranom mesecu; pilot traje tri meseca (90 dana je pojednostavljeni planski horizont)
 - **VAT / tax basis:** sve vrednosti na istoj osnovi; poreski efekti nisu uključeni
 - **Inclusions:** samo eksplicitno navedeni ulazi
 - **Exclusions:** stvarni Tehnocentar/PostHog podaci i sve nenavedene stavke
-- **Assumptions:** prosečno korišćenje 4 sata, nema dodatne opreme ni churn-a u pilotu
-- **Formula / denominator:** Prihod 180.000; doprinos 105.000; posle fiksnog troška 45.000 RSD. Potrebno vreme 60 sati, ostaje 15 sati rezerve.
+- **Assumptions:** svakog meseca svih 15 klijenata plaća 12.000 RSD, koristi prosečno 4 sata i daje 7.000 RSD doprinosa. Fiksni trošak 60.000 RSD i slobodan kapacitet 75 sati odnose se na svaki mesec; nema dodatne opreme, churn-a ni kašnjenja naplate
+- **Formula / denominator:** Mesečno: prihod 180.000; doprinos 105.000; posle navedenog fiksnog troška 45.000 RSD. Potrebno 60 od 75 sati mesečno, ostaje 15 sati rezerve. Za tri takva meseca: 540.000 RSD prihoda i 135.000 RSD rezultata posle navedenog fiksnog troška; to nije puni neto profit firme.
 
 ### Inputs
 
@@ -74,7 +74,7 @@ Napiši CEO memo: Problem → Data → Analysis → Options → Recommendation �
 Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. CEO scenario povezuje kupca, finansije, operacije, ljude, rizik i strategiju.
-2. Pilot daje 45.000 RSD doprinosa posle navedenog fiksnog troška i koristi 60 od 75 sati.
+2. Pilot mesečno daje 45.000 RSD posle navedenog fiksnog troška i koristi 60 od 75 raspoloživih sati; tri meseca daju 135.000 RSD na istim pretpostavkama.
 3. Pre odluke treba odvojiti `[FACT]`, `[FIXTURE]`, `[ASSUMPTION]` i `[UNKNOWN]` i definisati stop uslov.
 4. Ograničeni pilot sa KPI-jima je jači od punog skaliranja kada ključne pretpostavke još nisu potvrđene.
 

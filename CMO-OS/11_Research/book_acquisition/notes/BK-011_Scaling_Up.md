@@ -64,7 +64,7 @@ Rast ne ubija firmu zbog nedostatka prilika, nego zbog **kompleksnosti koja rast
 
 `[SOURCE CLAIM]` Svaka firma u svakom trenutku ima problem u tačno jednoj od četiri oblasti: People (da li bih ih sve ponovo zaposlio), Strategy (rast prihoda i bruto marže), Execution (procesi bez drame), Cash (izvori keša). 4D okvir dodaje redosled: Driver (lider) → Demands (zahtevi rasta) → Disciplines (rutine) → Decisions.
 
-`[CMO OS correction]` Model se koristi kao **dijagnostička sekvenca, ne kao obavezan raspored rada**. U CMO OS-u važi pravilo: ako Cash nije obezbeđen, sve ostale tri odluke se zamrzavaju na nivou održavanja. Knjiga to implicitno priznaje („ne možeš izdržati ni dan bez keša“) ali ne pretvara u redosled.
+`[CMO OS correction]` Model se koristi kao **dijagnostička sekvenca, ne kao obavezan raspored rada**. U CMO OS-u važi pravilo: cash rizik ograničava dodatno ulaganje; dijagnoza i ispravka People/Strategy/Execution uzroka se nastavljaju kada mogu rešiti likvidnosni problem bez neprihvatljivog odliva. Knjiga to implicitno priznaje („ne možeš izdržati ni dan bez keša“) ali ne pretvara u redosled.
 
 ### 2. Tri barijere i Valleys of Death
 
@@ -176,15 +176,15 @@ Rast ne ubija firmu zbog nedostatka prilika, nego zbog **kompleksnosti koja rast
 
 `[SOURCE CLAIM]` Cena, obim, COGS, operativni troškovi, potraživanja, zalihe, obaveze. Promena od 1% ili jednog dana na svakoj daje merljiv efekat na keš i EBIT; u slučaju Gary's Furniture ukupno preko $1M keša i preko $900k EBIT-a; realno se bira kombinacija (−5 dana potraživanja, −15 dana zaliha → +$1,7M).
 
-`[CMO OS correction — redosled poluga]` Knjiga nabraja poluge ravnopravno. U CMO OS-u one nisu ravnopravne: **cena i obim menjaju odnos sa tržištem, ostalih pet menjaju samo unutrašnji tok.** Cena se ne pomera „za 1%“ kao računska vežba — svaka promena cene je poruka kupcu i mora proći kroz `04_SOP` proceduru pre nego što uđe u model.
+`[CMO OS correction — redosled poluga]` Knjiga nabraja poluge ravnopravno. U CMO OS-u one nisu ravnopravne: **svaka poluga može imati spoljne posledice**: trošak i zalihe utiču na kvalitet/dostupnost, rokovi na kupce i dobavljače, a cena i obim na tražnju. Računska analiza scenarija nije spoljna izmena cene; može modelirati promenu od 1% uz označene pretpostavke. Stvarna promena cene je poruka kupcu i pre izvršenja zahteva odgovarajuće ovlašćenje i `04_SOP` proceduru.
 
-`[CMO OS correction — dijagnostika „growing broke“]` Poređenje **bruto marže po dinaru prihoda naspram obrtnog kapitala po dinaru prihoda** je najprenosiviji pojedinačni test u celoj knjizi i usvaja se kao stalni indikator: ako je obrtni kapital po jedinici prihoda veći od bruto marže po jedinici prihoda, rast prodaje smanjuje keš i ekspanzija se zaustavlja dok se odnos ne obrne.
+`[CMO OS correction — dijagnostika „growing broke“]` Poređenje bruto marže i operativnog obrtnog kapitala po dinaru prihoda je screening heuristika sa eksplicitnim periodom, ne dokaz bankrota niti automatska zabrana rasta. Odluku potvrđuje dodatni cash-flow raspored: naplata, tekući odlivi, promena obrtnog kapitala, capex, porezi, finansiranje i cash rezerva. Važe `BKB-FIN-002/003/005` i precedencija BK-006.
 
 ### 18. Marketing kao funkcija
 
 `[SOURCE CLAIM]` Marketing je „prvi po redu nedostatak“ rastućih firmi — ne kao kampanja nego kao **nepostojeća funkcija** koja treba da generiše dovoljan tok i kupaca i kandidata da firma može da kaže „ne“.
 
-`[CMO OS correction]` Ovo je najvrednija tvrdnja knjige za CMO OS i usvaja se u celini, uz operativnu posledicu: dok marketing ne proizvodi **višak** prilika, nijedna od strategija odbijanja iz 7 Strata (niša, „usudi se biti loš“, odbijanje pogrešnog kupca) nije primenljiva. Redosled je obavezan: prvo tok, pa selekcija.
+`[CMO OS correction]` Potražnju, selekciju kupaca, kapacitet i gotovinu proveravamo zajedno. Višak prilika olakšava izbor, ali nije preduslov za odbijanje posla sa negativnim doprinosom, neprihvatljivim rizikom ili neizvodljivom isporukom. Nema univerzalnog redosleda „prvo tok, pa selekcija“; odluka zavisi od dokumentovanog ograničenja i ekonomike konkretnog posla.
 
 ## Assumptions, limits and risks
 
@@ -251,10 +251,10 @@ Firma raste, a odlučivanje i keš ne prate rast; nije jasno koja od četiri odl
 - Broj prilika (kupci i kandidati) u poslednjih 30 dana i broj odbijenih.
 
 ### Analysis
-1. Izračunaj marginal cash flow test. Ako obrtni kapital po dinaru prihoda premašuje bruto maržu po dinaru prihoda → uzrok je **Cash**, ostalo čeka.
-2. Ako je test u redu, proveri tok prilika. Ako firma ne odbija ništa → uzrok je **marketing funkcija** (Strategy/Barrier).
-3. Ako tok postoji, prebroj funkcije i procese bez nosioca. Ako ih ima → uzrok je **People/Execution**, i prvi potez je FACe, ne novo zapošljavanje.
-4. Tek ako su prva tri čista, otvara se pitanje **Strategy** u smislu 7 Strata.
+1. Izračunaj screening odnos sa navedenim periodom, zatim dodatni cash-flow raspored. Ako plan prelazi dozvoljeni cash rizik, prilagodi ulaganje ili finansiranje i paralelno ispitaj njegove uzroke; jedan odnos ne dokazuje uzrok niti bankrot.
+2. Proveri tok, kvalitet i ekonomiku prilika. Nepostojanje odbijenih kupaca samo po sebi ne dokazuje nedostatak marketing funkcije; proveri i fit, profit, kapacitet i politiku selekcije.
+3. Proveri funkcije i procese bez nosioca, veštine i tok rada. To su mogući People/Execution uzroci; dokumentovan nalaz bira između jasnijih ovlašćenja, treninga, procesne promene ili zapošljavanja.
+4. Strategiju, ostala ograničenja i gotovinu procenjuj zajedno. Nema obaveznog čekanja da prethodna tri pitanja budu „čista“; odluka mora pokazati dijagnozu, alternative, cash scenario i guardrail-e.
 
 ### Options
 - A: Cash-first — jedna poluga iz Power of One po kvartalu, uz zabranu poluga koje krše rokove prema dobavljačima.

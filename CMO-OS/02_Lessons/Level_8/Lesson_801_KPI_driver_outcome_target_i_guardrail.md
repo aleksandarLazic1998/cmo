@@ -23,8 +23,8 @@ Dobar KPI ima formulu, grain, period, owner-a, izvor, prag i odluku koju pokreć
 
 ## New terms
 
-- **Outcome KPI / Outcome KPI:** Mera konačnog poslovnog ishoda.
-- **Driver KPI / Driver KPI:** Mera aktivnosti ili uslova koji utiču na ishod.
+- **Pokazatelj ostvarenog ishoda / Outcome KPI:** Mera konačnog poslovnog ishoda.
+- **Pokazatelj aktivnosti koja utiče na ishod / Driver KPI:** Mera aktivnosti ili uslova koji utiču na ishod.
 - **Guardrail / Guardrail metric:** Mera koja štiti od štetne optimizacije.
 
 ## Realistična `[FIXTURE]` simulacija — Brža isporuka

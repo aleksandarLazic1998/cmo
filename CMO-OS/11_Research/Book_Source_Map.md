@@ -1,11 +1,13 @@
 # Book Source Map
 
 Status: `active research map`  
-Last reviewed: `2026-08-23`
+Last reviewed: `2026-10-04`
 
 ## Svrha
 
-Ovaj dokument mapira dostavljene knjige na CMO OS curriculum. Knjige su sekundarni izvori, a ne source of truth za curriculum, Aleksandarov napredak, Tehnocentar podatke ili važeće propise.
+Ovaj dokument mapira dostavljene knjige na CMO OS curriculum. Knjige su sekundarni izvori, a ne source of truth za curriculum, napredak trenutnog učenika, Tehnocentar podatke ili važeće propise.
+
+Glavna cloud ulazna tačka za pretragu znanja je `Knowledge_Base_Index.md`.
 
 ## Pravila korišćenja
 
@@ -15,6 +17,10 @@ Ovaj dokument mapira dostavljene knjige na CMO OS curriculum. Knjige su sekundar
 4. Tvrdnje iz knjige proveravaju se prema kontekstu i drugim izvorima. Popularna poslovna metoda nije automatski univerzalna činjenica.
 5. Licenca porekla dostavljenih kopija nije potvrđena. Korisnik treba da koristi zakonito pribavljene kopije; CMO OS ih ne premešta u svoju bazu.
 6. Za pravo, poreze i računovodstvene zahteve Srbije koriste se aktuelni zvanični izvori, ne ove knjige.
+
+## Lokalni izvori — 2026-10-04
+
+PDF biblioteka je `../../Books/`, relativno prema ovom dokumentu (u ovom checkout-u `/workspace/cmo/Books`). Trenutno vezivanje fajlova, provereni identiteti i razlika između nasleđenog completion-a i novog audita opisani su u `book_acquisition/Book_Reading_Ledger.md`. Istorijski lokatori u beleškama i coverage dokumentima čuvaju provenance; nisu aktivne putanje za otvaranje fajlova.
 
 ## Mapa izvora
 

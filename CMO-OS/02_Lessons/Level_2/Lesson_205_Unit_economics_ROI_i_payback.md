@@ -23,7 +23,7 @@ Dobar procenat nije dovoljan bez perioda, rizika i apsolutnog iznosa. Brz povrat
 
 ## New terms
 
-- **Unit economics / Unit economics:** Prihod i relevantni troškovi po jedinici analize.
+- **Ekonomika jedne jedinice / Unit economics:** Prihod i relevantni troškovi po jedinici analize.
 - **ROI / Return on investment:** Neto korist ÷ ulaganje.
 - **Payback / Payback period:** Vreme potrebno da kumulativni priliv vrati ulaganje.
 
@@ -40,7 +40,7 @@ Oprema košta 600.000 RSD i donosi procenjenih 75.000 RSD mesečnog dodatnog dop
 - **VAT / tax basis:** iznosi na istoj pojednostavljenoj osnovi
 - **Inclusions:** samo eksplicitno navedeni ulazi
 - **Exclusions:** stvarni Tehnocentar/PostHog podaci i sve nenavedene stavke
-- **Assumptions:** doprinos je stabilan 12 meseci; bez vrednosti novca u vremenu
+- **Assumptions:** 75.000 RSD je u modelu stabilan mesečni dodatni neto novčani priliv posle svih tekućih dodatnih odliva; nema promene obrtnog kapitala, dodatnog capex-a ni preostale vrednosti na kraju 12 meseci; porezi, finansiranje i vrednost novca u vremenu nisu modelovani. Ako se doprinos ne naplaćuje u istom mesecu, cash payback se ne dobija ovom podelom
 - **Formula / denominator:** Payback = 600.000 ÷ 75.000 = 8 meseci; jednogodišnja korist 900.000; jednostavni ROI = (900.000 − 600.000) ÷ 600.000 = 50%.
 
 ### Inputs

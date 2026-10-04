@@ -23,8 +23,8 @@ Teška odluka ne sme nastati iz jednog lošeg dana ili lične nesklonosti. Dokum
 
 ## New terms
 
-- **Feedback / Feedback:** Konkretna povratna informacija radi promene ponašanja ili rezultata.
-- **Coaching / Coaching:** Razvoj razmišljanja i sposobnosti kroz pitanja, praksu i podršku.
+- **Povratna informacija / Feedback:** Konkretna povratna informacija radi promene ponašanja ili rezultata.
+- **Razvoj sposobnosti kroz vođenje i vežbu / Coaching:** Razvoj razmišljanja i sposobnosti kroz pitanja, praksu i podršku.
 - **Performance plan / Performance improvement plan:** Dokumentovan period očekivanja, podrške i provere učinka.
 
 ## Realistična `[FIXTURE]` simulacija — Kašnjenje izveštaja

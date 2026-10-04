@@ -1,13 +1,13 @@
 # Book Knowledge Base
 
 Status: `active — full mandatory corpus`  
-Last updated: `2026-08-23`  
+Last updated: `2026-10-04`
 Completed sources: `18/18`  
 Completed PDF pages: `4,558/4,558`
 
 ## Authority and use
 
-Ovaj dokument integriše samo knjige koje imaju `COMPLETED` status u `book_acquisition/Book_Reading_Ledger.md`. On je research synthesis, ne company truth, ne dokaz Aleksandarove kompetencije i ne autoritet za važeće pravo ili poreze.
+Ovaj dokument integriše samo knjige koje imaju `COMPLETED` status u `book_acquisition/Book_Reading_Ledger.md`. On je research synthesis, ne company truth, ne dokaz kompetencije trenutnog učenika i ne autoritet za važeće pravo ili poreze.
 
 Svaka tvrdnja zadržava provenance i razliku između:
 
@@ -16,7 +16,11 @@ Svaka tvrdnja zadržava provenance i razliku između:
 - `[FACT]` — proverena činjenica sa odgovarajućim evidence-om;
 - `[UNKNOWN]` — tvrdnja kojoj nedostaje dovoljan dokaz.
 
-`[FACT]` Svih 18 validnih obaveznih izvora prošlo je full-book completion gate 2026-08-23. Mandatory corpus je zatvoren. Knowledge base ostaje otvoren za nove izvore, ali više nije blokiran nedovršenim izvorima.
+`[FACT]` Istorijski ledger i auditi od 2026-08-23 beleže full-book completion za 18 validnih obaveznih izvora. To opisuje sačuvani zapis, a ne novu potvrdu svake izvorne tvrdnje ili ponovno čitanje u ovom auditu.
+
+## Current audit boundary — 2026-10-04
+
+Nasleđeni completion i sinteze zadržavaju originalni datum i provenance. Ovaj audit ne predstavlja novo potpuno čitanje 4.558 stranica. Za lokalno otvaranje izvora koristi `Current local source binding` u ledgeru. Otvoren nalaz F22 za BK-018 sprečava tvrdnju da su svi istorijski tekstualni dokazi sada ponovo potvrđeni. Ciljane korekcije ispod rešavaju neslaganja sa evidence pravilima i mentorskim protokolom; ne menjaju curriculum ni lični napredak.
 
 ## Integrated concepts
 
@@ -1299,10 +1303,10 @@ Two-axis workshop scenarios may omit correlated, tail and rights risks. High-sta
 
 - Sprovođenje promene u većoj organizaciji: BK-011 *Scaling Up* — `INTEGRATED 2026-08-23` (vidi `BKB-OPS-011`, `BKB-PEO-005`, `BKB-GRO-002`)
 
-### BKB-GRO-002 — Three growth barriers as a forced diagnostic sequence
+### BKB-GRO-002 — Three growth barriers as a context-dependent diagnostic sequence
 
 **Definition**  
-`[INFERENCE]` Rast se ne zaustavlja zbog nedostatka prilika nego zbog kompleksnosti koja nadraste sisteme. Tri uzroka se proveravaju **redom, ne paralelno**: (1) nedovoljno lidera sposobnih da predviđaju, delegiraju i ponavljaju; (2) neskalabilna infrastruktura — sistemi, prostor, podaci; (3) nepostojeća marketing **funkcija**, ne kampanja. CMO OS ispred sva tri stavlja keš test iz `BKB-FIN-005`: ako rast pije keš, ostala tri pitanja čekaju.
+`[INFERENCE]` Rast može ograničiti tražnja, gotovina ili kompleksnost koja nadraste sisteme. Prema konkretnim dokazima proveravaju se tri moguća sistemska uzroka: (1) nedovoljno lidera sposobnih da predviđaju, delegiraju i ponavljaju; (2) neskalabilna infrastruktura — sistemi, prostor, podaci; (3) nepostojeća marketing **funkcija**, ne kampanja. CMO OS uz njih proverava gotovinu kroz `BKB-FIN-005`; negativan cash scenario ograničava novo ulaganje, ali ne odlaže dijagnozu i ispravku uzroka koji taj problem stvara.
 
 **Current provenance**
 
@@ -1320,7 +1324,7 @@ Two-axis workshop scenarios may omit correlated, tail and rights risks. High-sta
 
 `[INFERENCE]` Brojevi zaposlenih su američki kontekst iz 2014. i ne prenose se. Prag se meri lokalno: datum kada jedna osoba prvi put više ne zna imena i tekuće zadatke svih ostalih.
 
-`[INFERENCE]` Redosled je obavezan i ima operativnu posledicu: dok marketing ne proizvodi **višak prilika**, nijedna strategija odbijanja (niša, „usudi se biti loš“, odbijanje pogrešnog kupca) nije primenljiva. Prvo tok, pa selekcija.
+`[INFERENCE]` Redosled se bira prema dokazanoj prepreki i riziku. Nepostojanje viška prilika ne obavezuje firmu da prihvati posao sa negativnim doprinosom, neostvarivim rokom ili lošim fit-om. Tok i selekcija proveravaju se zajedno sa profitom, gotovinom i kapacitetom.
 
 **Connections**
 
@@ -1389,7 +1393,7 @@ Two-axis workshop scenarios may omit correlated, tail and rights risks. High-sta
 
 `[INFERENCE]` Pravilo „ne gledaj unazad“ se prihvata na dnevnom nivou, ali se **jednom nedeljno svesno gleda unazad** — bez pogleda na odstupanja nema učenja.
 
-`[INFERENCE]` Svaka materijalna izmena dobija mesto u ritmu prema `04_SOP/change_discipline.md`; ad hoc odluka van ritma se ne evidentira kao odluka.
+`[INFERENCE]` Svaka materijalna izmena dobija mesto u ritmu prema `04_SOP/change_discipline.md`; i ad hoc odluka se evidentira sa owner-om, razlogom, ovlašćenjem i datumom naknadnog pregleda. Ritam nije razlog da stvarna odluka ostane bez traga.
 
 **Connections**
 
@@ -1473,7 +1477,7 @@ Two-axis workshop scenarios may omit correlated, tail and rights risks. High-sta
 ### BKB-FIN-005 — Marginal cash flow test: growing broke
 
 **Definition**  
-`[INFERENCE]` Jedan test pokazuje da li rast prodaje donosi ili odnosi keš: uporedi **bruto maržu po dinaru prihoda** sa **obrtnim kapitalom po dinaru prihoda** (potraživanja + zalihe − obaveze, podeljeno prihodom). Ako je obrtni kapital po jedinici prihoda veći od bruto marže po jedinici prihoda, svaka nova prodaja smanjuje keš — firma „raste u bankrot“ — i ekspanzija se zaustavlja dok se odnos ne obrne.
+`[INFERENCE]` Poređenje bruto marže i operativnog obrtnog kapitala po dinaru prihoda je screening heuristika iz BK-011, ne dokaz da svaka nova prodaja smanjuje keš. Stanje kapitala deli se prihodom za tačno naveden period; promena tog perioda menja odnos. Za odluku se modeliraju dodatni naplaćeni prilivi minus dodatni tekući odlivi, ulaganje u obrtni kapital i capex, uz poreze, finansiranje, rokove i postojeću gotovinu. Negativan dodatni cash flow tokom rasta može biti finansiran i nije sam po sebi bankrot; neprihvatljiv pad ispod dokumentovane cash rezerve blokira konkretan plan dok se ne prilagodi ili finansira. Finansijske definicije imaju precedenciju iz `BKB-FIN-002` i `BKB-FIN-003`.
 
 **Current provenance**
 
@@ -1492,13 +1496,13 @@ Two-axis workshop scenarios may omit correlated, tail and rights risks. High-sta
 
 **CMO OS correction**
 
-`[INFERENCE]` Sedam poluga nisu ravnopravne. Cena i obim menjaju odnos sa tržištem; ostalih pet menjaju samo unutrašnji tok. Cena se ne pomera „za 1%“ kao računska vežba — svaka promena cene je poruka kupcu i prolazi kroz `04_SOP` proceduru.
+`[INFERENCE]` Sedam poluga nisu ravnopravne. Cena i obim neposredno menjaju komercijalne uslove; i ostale poluge mogu menjati odnose sa kupcima i dobavljačima, kvalitet, kapacitet i gotovinu. Cena se ne pomera „za 1%“ kao računska vežba — svaka promena cene je poruka kupcu i prolazi kroz `04_SOP` proceduru.
 
 `[INFERENCE]` Poluga „uspori plaćanje dobavljačima“ važi **samo do ugovorenog roka**; produženje preko roka bez dogovora je prenošenje sopstvenog problema likvidnosti na manju firmu i ne broji se kao poboljšanje.
 
 `[INFERENCE]` Avans od kupca se evidentira kao obaveza prema kupcu, ne kao prihod.
 
-`[INFERENCE]` Redosled prioriteta keša: porez i zakonske obaveze → dug → rezerva od dva meseca troškova → tek onda raspodela.
+`[INFERENCE]` Cash prioriteti se vezuju za konkretna dospeća, zakonske i ugovorne obaveze i dokumentovanu likvidnosnu rezervu. Dva meseca troškova su knjiška heuristika, ne univerzalni minimum; raspodela se procenjuje tek posle provere obaveza i downside cash scenarija.
 
 **Connections**
 
@@ -1523,13 +1527,13 @@ Two-axis workshop scenarios may omit correlated, tail and rights risks. High-sta
 
 **Source contribution**
 
-`[FACT]` Nijedan od 48 zakona nije testiran; svaki je ilustrovan sa po dva istorijska slučaja koje je autor izabrao znajući ishod unapred.
+`[INFERENCE]` Istorijske ilustracije u BK-001 ne predstavljaju kontrolisani test uzročnog efekta. Broj primera po zakonu nije ovde potvrđen kao konstantan; tvrdnja da zakoni nikada nigde nisu testirani ostaje `[UNKNOWN]`.
 
-`[FACT]` Nema nijedne fusnote ni broja stranice u izvorima; bibliografija postoji, ali se nijedna tvrdnja ne može pratiti do konkretnog mesta.
+`[INFERENCE]` Bibliografija i istorijska ilustracija sami ne potvrđuju uzročnost. Za konkretnu tvrdnju traži proverljiv locator i nezavisan dokaz; blanket tvrdnja da nijedna tvrdnja nema proverljivu referencu nije potvrđena ovim auditom.
 
 **CMO OS correction**
 
-`[INFERENCE]` Ovo je **selekcija na zavisnu promenljivu**: uzrok se pripisuje retroaktivno, a broj onih koji su isto postupili i propali se ne navodi jer istorija ne beleži poražene. Test se primenjuje i unazad, na već obrađene izvore korpusa, i unapred, na svaki novi.
+`[INFERENCE]` Ovo je **selekcija na zavisnu promenljivu**: uzrok može biti pripisan retroaktivno iz odabranih ishoda, bez uporedne grupe i jasnog denominatora. Istorija može beležiti i neuspehe; problem je način uzorkovanja i dokazivanja, ne navodna zabrana takvih zapisa. Test se primenjuje i unazad, na već obrađene izvore korpusa, i unapred, na svaki novi.
 
 `[INFERENCE]` Praktičan oblik testa: pre usvajanja tvrdnje, napiši šta bi u stvarnosti moralo da se dogodi da bi ona bila pogrešna. Ako se to ne može napisati, tvrdnja ulazi u kanon kao zapažanje, ne kao pravilo.
 
@@ -1542,10 +1546,10 @@ Two-axis workshop scenarios may omit correlated, tail and rights risks. High-sta
 
 - Opšti okvir za procenu poslovnih tvrdnji: BK-014 *The Personal MBA*
 
-### BKB-PEO-006 — Envy as the predictable price of visible success
+### BKB-PEO-006 — Status-related conflict as an evidence-limited hypothesis
 
 **Definition**  
-`[INFERENCE]` Vidljiv uspeh pouzdano proizvodi zavist kod onih koji su ostali na istom mestu, a zavist se nikad ne priznaje i zato se javlja prerušena: kao **preterana hvala** (postavljanje merila koje ne možeš ispuniti), kao **hiperkritika i javno omalovažavanje**, i kao **pripisivanje tvog uspeha sreći ili nepoštenju**. Prepoznavanje maske je jedina odbrana, jer se protiv zavisti ne može argumentovati — svako objašnjenje je potvrđuje.
+`[INFERENCE]` Promena statusa može biti kontekst konflikta, ali pohvala, kritika i neslaganje nisu dokaz zavisti. Model iz BK-001 služi samo kao hipoteza za prepoznavanje mogućeg obrasca; konkretan motiv ostaje [UNKNOWN] bez dokaza. Proveravaju se sadržaj primedbe, raspodela odgovornosti, resursi i druga objašnjenja, prema `BKB-PEO-003` i `BKB-PEO-004`. Ni pozitivan ni negativan odgovor ne sme automatski potvrditi hipotezu.
 
 **Current provenance**
 
@@ -1563,9 +1567,9 @@ Two-axis workshop scenarios may omit correlated, tail and rights risks. High-sta
 
 `[INFERENCE]` **Odbacuje se preporučeni odgovor izvora** — glumljenje mane ili bezopasnog poroka radi odvraćanja zavisti. To je opet obmana i, kad se otkrije, potvrđuje sumnju u sve ostalo.
 
-`[INFERENCE]` Usvaja se neteatralni odgovor: umanji spoljašnje znake razlike, uključi one koje si prestigao u ono što gradiš, i pripiši zaslugu okolnostima **samo tamo gde je stvarno bilo okolnosti**. Lažna skromnost se prepoznaje i pogoršava problem.
+`[INFERENCE]` Ne usvaja se preskriptivni odgovor iz BK-001. Otvorena komunikacija i tačno pripisivanje doprinosa imaju nezavisno uporište u BK-008 i evidence discipline; ne predstavljaju tehniku upravljanja navodnom zavišću.
 
-`[INFERENCE]` Kad zavist već postoji i pređe u aktivno podrivanje, jedini pouzdan potez je razdvajanje. Objašnjavanje ne pomaže.
+`[INFERENCE]` Ako postoji dokaz štetnog ponašanja, dokumentuj ponašanje i posledicu, omogući odgovor i primeni proporcionalan fer postupak. Razdvajanje nije jedini niti automatski postupak; formalna odluka traži odgovarajući dokaz, ovlašćenje i stručnu proveru.
 
 **Connections**
 
@@ -1579,7 +1583,7 @@ Two-axis workshop scenarios may omit correlated, tail and rights risks. High-sta
 ### BKB-GTM-004 — Demonstration instead of argument
 
 **Definition**  
-`[INFERENCE]` Reči pozivaju na protivrečenje: sagovornik čuje tvrdnju i odmah traži razlog da je odbije, jer je pristanak na tuđi argument doživljen kao gubitak. Pokazan rezultat ne poziva ni na šta — nema šta da se ospori. Zato se u ubeđivanju bira **promena ugla gledanja sagovornika** umesto navođenja razloga.
+`[INFERENCE]` Transparentna demonstracija može dopuniti argument merljivim dokazom. Prikazani rezultat i dalje može biti osporen zbog izbora uzorka, uslova, metodologije ili alternativnog objašnjenja. Ova preporuka se zasniva na BK-009, BK-013, BK-018 i `BKB-MET-001`, a ne na preskriptivnom sloju BK-001.
 
 **Current provenance**
 
@@ -1596,7 +1600,7 @@ Two-axis workshop scenarios may omit correlated, tail and rights risks. High-sta
 
 **CMO OS correction**
 
-`[INFERENCE]` **Povlači se granica koju izvor ne povlači.** Christopher Wren koji gradi lažne stubove da umiri gradonačelnika obmanjuje naručioca i taj primer se odbacuje. Michelangelo koji Soderinija dovodi bliže ne obmanjuje ga nego mu menja perspektivu i taj primer se usvaja.
+`[INFERENCE]` **Povlači se granica koju izvor ne povlači.** Christopher Wren koji gradi lažne stubove da umiri gradonačelnika obmanjuje naručioca i taj primer se odbacuje. U izvornom PDF-u, pp. 93–94, Michelangelo uz promenu položaja posmatrača glumi doterivanje nosa i pušta prethodno prikupljenu prašinu, dok nos ne menja. Zato se i taj konkretni postupak odbacuje kao obmana; poštena demonstracija mora otvoreno prikazati šta je stvarno promenjeno.
 
 `[INFERENCE]` Test razlike: da li bi sagovornik, kada bi video ceo tvoj postupak od početka, i dalje pristao. Ako da — to je demonstracija. Ako ne — to je obmana i ne koristi se, bez obzira na to koliko je delotvorna.
 
@@ -1616,7 +1620,7 @@ Two-axis workshop scenarios may omit correlated, tail and rights risks. High-sta
 **Potvrđuje bez izmene**
 
 - `BKB-OPS-*` o ograničenju: `Constraint` i Goldrattovih pet fokusirajućih koraka reprodukovani su verno (p. 387).
-- `BKB-MET-*` o merenju: „prihod nije KPI“, najviše 3–5 KPI-jeva po sistemu, nijedna mera izolovano (pp. 406–413).
+- `BKB-MET-*` o merenju: upozorenje da prihod sam ne otkriva uzrok ni profitabilnost, mali broj relevantnih KPI-jeva i uparivanje mera; prihod može biti outcome KPI kada ima cilj, definiciju i odluku (pp. 406–413).
 - `BKB-VAL-*` o validaciji: Shadow Testing i Minimum Viable Offer poklapaju se sa BK-017 i BK-018.
 - `BKB-PEO-005` o jedinstvenoj odgovornosti: `Bystander Apathy` (p. 355) dolazi do istog zaključka nezavisnim putem.
 

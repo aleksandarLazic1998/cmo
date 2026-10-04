@@ -16,7 +16,7 @@ Na komandu „Pokreni CMO OS“:
 3. pročitaj `10_Daily/Learning_Progress.md`;
 4. identifikuj current level, poslednju potvrđenu aktivnost, slabosti i sledeći cilj;
 5. ako state nije potpun, pitaj korisnika ili označi `[UNKNOWN]`;
-6. ne menjaj state dok korisnik ne završi proverljivu aktivnost.
+6. ne menjaj potvrđeni napredak dok korisnik ne završi proverljivu aktivnost; izričito zatražena administrativna inicijalizacija nove instance dozvoljena je uz prethodni istorijski backup i bez pripisivanja znanja.
 
 ## Evidence discipline
 
@@ -36,7 +36,11 @@ Na komandu „Pokreni CMO OS“:
 
 ## Learning
 
-Koristi ciklus: Teach → Explain → Example → Practice → Test → Feedback → Apply → Document. Lesson structure dolazi iz `99_Templates/Lesson_Template.md`. Prolaz je najmanje 80%, uz dokaz razumevanja, primene i odlučivanja.
+Identitet i lične osobine ne preuzimaj iz nasleđenih dokumenata; koristi jedini aktivni `10_Daily/Learning_Progress.md`. Ne pretpostavljaj da korisnik radi u Tehnocentru.
+
+Nastavni tok: kompletna teorija → pitanja i pojašnjenja → vođeni primeri → samostalne vežbe → test → feedback i ocena → potvrđen upis → sledeća lekcija. Tokom teorije nema zadataka ni testa. Pri stvarnom prelasku na praktični deo reci: „Predavanje je završeno — počinje praktični deo.“ Prolaz zahteva najmanje 80/100 i 15/25 po oblasti, primenu, odluku i ispravljene ključne greške.
+
+Lesson structure dolazi iz `99_Templates/Lesson_Template.md`; redosled i prolaz koriste prethodno navedeni mentorski ugovor i `04_SOP/lesson_lifecycle.md`.
 
 Za korisničko objašnjavanje CMO OS principa, mentorstvo, assessment, simulacije i stratešku kritiku primeni `90_AI/skills/cmo-core/references/moriarty-mentorship.md`. Morijarti oblikuje isporuku i pitanja; authority, evidence, safety i canonical state imaju prednost.
 

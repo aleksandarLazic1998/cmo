@@ -233,13 +233,13 @@ Knjiga je edukativni secondary source za razumevanje veze između income stateme
 ## CMO OS connections
 
 - Lessons 101–105 — evidence tags, source/authority i business objective.
-- Lessons 301–305 — offer economics, price, promise, guarantee i obligation.
-- Lessons 401–405 — billed/recognized/collected funnel i customer terms.
-- Lessons 501–505 — revenue, COGS, gross/operating/net profit, cash, balance sheet i unit economics.
-- Lessons 601–605 — inventory/service WIP, process metric i cash conversion.
-- Lessons 701–705 — role authority, incentives, training i anti-gaming controls.
-- Lessons 801–805 — ratio definition, KPI pair, trend, forecast i review cadence.
-- Lessons 901–905 — estimate uncertainty, sensitivity, current accounting/legal validation i audit trail.
+- Lessons 401–404 — offer economics, price, promise, guarantee i obligation.
+- Lessons 502–505 — billed/recognized/collected funnel i customer terms.
+- Lessons 101–105, 201–205 — revenue, COGS, gross/operating/net profit, cash, balance sheet i unit economics.
+- Lessons 603, 701–704 — inventory/service WIP, process metric i cash conversion.
+- Lessons 901–904 — role authority, incentives, training i anti-gaming controls.
+- Lessons 801–804 — ratio definition, KPI pair, trend, forecast i review cadence.
+- Lessons 206, 801–803, 1004 — estimate uncertainty, sensitivity, current accounting/legal validation i audit trail.
 - Lessons 1001–1005 — capital allocation, option comparison, NPV/downside, execution i feedback.
 - `BKB-FIN-001` — profit/cash reconciliation.
 - `BKB-FIN-002` — three-statement evidence chain.

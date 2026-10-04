@@ -1,0 +1,472 @@
+{
+  "scope": "fixture arithmetic, policy simulation and preservation; no student score",
+  "checks": [
+    {
+      "case": "001 gross profit",
+      "actual": 10000,
+      "expected": 10000,
+      "passed": true
+    },
+    {
+      "case": "001 after operating cost, not full net profit",
+      "actual": 8000,
+      "expected": 8000,
+      "passed": true
+    },
+    {
+      "case": "001 margin percent",
+      "actual": 16.666666666666664,
+      "expected": 16.666666666666668,
+      "passed": true
+    },
+    {
+      "case": "002 delay days",
+      "actual": 2,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "case": "101 weighted average price",
+      "actual": 6000.0,
+      "expected": 6000,
+      "passed": true
+    },
+    {
+      "case": "101 changed mix",
+      "actual": 70000,
+      "expected": 70000,
+      "passed": true
+    },
+    {
+      "case": "102 variable cost total",
+      "actual": 3020000,
+      "expected": 3020000,
+      "passed": true
+    },
+    {
+      "case": "103 margin percent",
+      "actual": 28.57142857142857,
+      "expected": 28.571428571428573,
+      "passed": true
+    },
+    {
+      "case": "103 markup percent",
+      "actual": 40.0,
+      "expected": 40,
+      "passed": true
+    },
+    {
+      "case": "104 required indivisible units",
+      "actual": 134,
+      "expected": 134,
+      "passed": true
+    },
+    {
+      "case": "104 15 percent discount required units",
+      "actual": 160.0,
+      "expected": 160,
+      "passed": true
+    },
+    {
+      "case": "105 break even indivisible units",
+      "actual": 56,
+      "expected": 56,
+      "passed": true
+    },
+    {
+      "case": "105 20 percent safety margin units",
+      "actual": 70,
+      "expected": 70,
+      "passed": true
+    },
+    {
+      "case": "201 operating profit",
+      "actual": 100000,
+      "expected": 100000,
+      "passed": true
+    },
+    {
+      "case": "202 collection total assets change",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "case": "203 gross profit",
+      "actual": 150000,
+      "expected": 150000,
+      "passed": true
+    },
+    {
+      "case": "204 old CCC days",
+      "actual": 35,
+      "expected": 35,
+      "passed": true
+    },
+    {
+      "case": "204 revised CCC days",
+      "actual": 30,
+      "expected": 30,
+      "passed": true
+    },
+    {
+      "case": "205 cash payback months",
+      "actual": 8.0,
+      "expected": 8,
+      "passed": true
+    },
+    {
+      "case": "205 simple first year ROI percent",
+      "actual": 50.0,
+      "expected": 50,
+      "passed": true
+    },
+    {
+      "case": "205 downside cash flow",
+      "actual": 56250.0,
+      "expected": 56250,
+      "passed": true
+    },
+    {
+      "case": "206 pre-tax upper bound only",
+      "actual": 400000,
+      "expected": 400000,
+      "passed": true
+    },
+    {
+      "case": "301 useful work gap hours",
+      "actual": 5,
+      "expected": 5,
+      "passed": true
+    },
+    {
+      "case": "302 segment problem fraction",
+      "actual": 0.75,
+      "expected": 0.75,
+      "passed": true
+    },
+    {
+      "case": "304 commitment conversion",
+      "actual": 0.26,
+      "expected": 0.26,
+      "passed": true
+    },
+    {
+      "case": "401 revenue",
+      "actual": 160000,
+      "expected": 160000,
+      "passed": true
+    },
+    {
+      "case": "401 maximum average service time",
+      "actual": 4.0,
+      "expected": 4,
+      "passed": true
+    },
+    {
+      "case": "402 exposed labor hours",
+      "actual": 24,
+      "expected": 24,
+      "passed": true
+    },
+    {
+      "case": "403 saved downtime hours",
+      "actual": 10,
+      "expected": 10,
+      "passed": true
+    },
+    {
+      "case": "404 expected contribution",
+      "actual": 2250.0,
+      "expected": 2250,
+      "passed": true
+    },
+    {
+      "case": "501 failure percent",
+      "actual": 30,
+      "expected": 30,
+      "passed": true
+    },
+    {
+      "case": "502 actual lead to customer conversion",
+      "actual": 0.08,
+      "expected": 0.08,
+      "passed": true
+    },
+    {
+      "case": "503 implicit implementation price per hour",
+      "actual": 1500.0,
+      "expected": 1500,
+      "passed": true
+    },
+    {
+      "case": "504 campaign A cost per customer",
+      "actual": 10000.0,
+      "expected": 10000,
+      "passed": true
+    },
+    {
+      "case": "504 campaign B cost per customer",
+      "actual": 8000.0,
+      "expected": 8000,
+      "passed": true
+    },
+    {
+      "case": "505 LTV CAC ratio",
+      "actual": 3.2,
+      "expected": 3.2,
+      "passed": true
+    },
+    {
+      "case": "505 conditional cash payback months",
+      "actual": 2.5,
+      "expected": 2.5,
+      "passed": true
+    },
+    {
+      "case": "601 gross profit before unconfirmed bonus",
+      "actual": 720000,
+      "expected": 720000,
+      "passed": true
+    },
+    {
+      "case": "602 total gross profit",
+      "actual": 215000,
+      "expected": 215000,
+      "passed": true
+    },
+    {
+      "case": "603 reorder point units",
+      "actual": 40,
+      "expected": 40,
+      "passed": true
+    },
+    {
+      "case": "603 MOQ excess above independent planned lot",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "case": "603 downside reorder point",
+      "actual": 31.0,
+      "expected": 31,
+      "passed": true
+    },
+    {
+      "case": "604 incremental accessory gross profit",
+      "actual": 16000,
+      "expected": 16000,
+      "passed": true
+    },
+    {
+      "case": "605 conditional incremental result",
+      "actual": 60000,
+      "expected": 60000,
+      "passed": true
+    },
+    {
+      "case": "701 bottleneck daily capacity",
+      "actual": 12,
+      "expected": 12,
+      "passed": true
+    },
+    {
+      "case": "702 avoided rework cost",
+      "actual": 9000,
+      "expected": 9000,
+      "passed": true
+    },
+    {
+      "case": "703 owner time released",
+      "actual": 3.5,
+      "expected": 3.5,
+      "passed": true
+    },
+    {
+      "case": "703 new total team hours",
+      "actual": 2.0,
+      "expected": 2,
+      "passed": true
+    },
+    {
+      "case": "704 independently processed additional decisions",
+      "actual": 21.999999999999996,
+      "expected": 22,
+      "passed": true
+    },
+    {
+      "case": "801 outcome target gap percentage points",
+      "actual": 13,
+      "expected": 13,
+      "passed": true
+    },
+    {
+      "case": "801 driver gap percentage points",
+      "actual": 20,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "case": "802 expected monthly revenue",
+      "actual": 590000.0,
+      "expected": 590000,
+      "passed": true
+    },
+    {
+      "case": "802 gap to budget",
+      "actual": 110000,
+      "expected": 110000,
+      "passed": true
+    },
+    {
+      "case": "803 old revenue-weighted margin",
+      "actual": 0.3,
+      "expected": 0.3,
+      "passed": true
+    },
+    {
+      "case": "803 current revenue-weighted margin",
+      "actual": 0.26,
+      "expected": 0.26,
+      "passed": true
+    },
+    {
+      "case": "804 complete action fraction",
+      "actual": 0.16666666666666666,
+      "expected": 0.16666666666666666,
+      "passed": true
+    },
+    {
+      "case": "901 won opportunity target",
+      "actual": 20.0,
+      "expected": 20,
+      "passed": true
+    },
+    {
+      "case": "901 allowed forecast error",
+      "actual": 100000.0,
+      "expected": 100000,
+      "passed": true
+    },
+    {
+      "case": "902 B score",
+      "actual": 88,
+      "expected": 88,
+      "passed": true
+    },
+    {
+      "case": "902 A score",
+      "actual": 70,
+      "expected": 70,
+      "passed": true
+    },
+    {
+      "case": "903 weekly minutes saved",
+      "actual": 160,
+      "expected": 160,
+      "passed": true
+    },
+    {
+      "case": "903 net eight week savings",
+      "actual": 1160,
+      "expected": 1160,
+      "passed": true
+    },
+    {
+      "case": "904 late delivery fraction",
+      "actual": 0.6666666666666666,
+      "expected": 0.6666666666666666,
+      "passed": true
+    },
+    {
+      "case": "1001 capacity gap",
+      "actual": 6,
+      "expected": 6,
+      "passed": true
+    },
+    {
+      "case": "1002 used monthly capacity",
+      "actual": 240,
+      "expected": 240,
+      "passed": true
+    },
+    {
+      "case": "1003 new complaint cost",
+      "actual": 60000.0,
+      "expected": 60000,
+      "passed": true
+    },
+    {
+      "case": "1004 A reserve deficit",
+      "actual": 300000,
+      "expected": 300000,
+      "passed": true
+    },
+    {
+      "case": "1004 B reserve headroom",
+      "actual": 100000,
+      "expected": 100000,
+      "passed": true
+    },
+    {
+      "case": "1005 monthly contribution",
+      "actual": 105000,
+      "expected": 105000,
+      "passed": true
+    },
+    {
+      "case": "1005 monthly result after stated fixed cost",
+      "actual": 45000,
+      "expected": 45000,
+      "passed": true
+    },
+    {
+      "case": "1005 three month result",
+      "actual": 135000,
+      "expected": 135000,
+      "passed": true
+    },
+    {
+      "case": "1005 monthly capacity headroom",
+      "actual": 15,
+      "expected": 15,
+      "passed": true
+    },
+    {
+      "case": "total pass cannot override domain fail",
+      "passed": true
+    },
+    {
+      "case": "balanced total and all other evidence",
+      "passed": true
+    },
+    {
+      "case": "75 total fails",
+      "passed": true
+    },
+    {
+      "case": "missing independent application fails",
+      "passed": true
+    },
+    {
+      "case": "missing decision fails",
+      "passed": true
+    },
+    {
+      "case": "uncorrected key error fails",
+      "passed": true
+    },
+    {
+      "case": "all original document backup hashes",
+      "passed": true
+    },
+    {
+      "case": "inherited progress backup exact bytes",
+      "passed": true
+    }
+  ],
+  "protected_file_count": 4611,
+  "protected_failures": [],
+  "outcome": "PASS"
+}

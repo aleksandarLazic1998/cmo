@@ -9,7 +9,7 @@ evidence_mode: `[FIXTURE]`
 
 ## Learning objective
 
-Proceni pun efekat komercijalne odluke.
+Proceni cenu, rebate/bonus, co-funding, PDV osnovu i pun efekat komercijalne odluke.
 
 ## Teach & explain
 
@@ -23,13 +23,13 @@ PDV osnova, rebate, godišnji bonus i co-funded promocija zavise od važećeg pr
 
 ## New terms
 
-- **Rebate / Rebate:** Naknadno odobrenje dobavljača pod ugovorenim uslovima.
+- **Naknadno umanjenje nabavne cene / Rebate:** Naknadno odobrenje dobavljača pod ugovorenim uslovima.
 - **Co-funding / Co-funded promotion:** Podela troška promocije između partnera.
 - **Kanibalizacija / Cannibalization:** Prodaja akcije koja zamenjuje profitabilniju postojeću prodaju.
 
 ## Realistična `[FIXTURE]` simulacija — Promocija kategorije
 
-Plan je 100 dodatnih komada sa 2.000 RSD doprinosa, kampanja 120.000 RSD i navodni rebate 50.000 bez potpisane potvrde.
+Plan je 100 komada u promociji (80 dodatnih i 20 koji zamenjuju redovnu prodaju) sa 2.000 RSD doprinosa, kampanja 120.000 RSD i navodni rebate 50.000 bez potpisane potvrde.
 
 ### Evidence contract
 
@@ -37,11 +37,11 @@ Plan je 100 dodatnih komada sa 2.000 RSD doprinosa, kampanja 120.000 RSD i navod
 - **Period / as-of:** N/A — simulirani scenario
 - **Grain / population:** jedna simulirana promocija
 - **Unit / currency:** RSD i komadi
-- **VAT / tax basis:** PDV tretman [UNKNOWN] do provere sa računovođom i dokumentom
+- **VAT / tax basis:** simulirani ulazi su na pretpostavljenoj uporedivoj osnovi bez modelovanog PDV efekta; stvarni PDV tretman je [UNKNOWN] do stručne provere. Zato račun nije potvrđen stvarni profit
 - **Inclusions:** samo eksplicitno navedeni ulazi
 - **Exclusions:** stvarni Tehnocentar/PostHog podaci i sve nenavedene stavke
-- **Assumptions:** 100 komada je inkrementalno pre kanibalizacije; povrati izostavljeni
-- **Formula / denominator:** Potvrđeni efekat = 200.000 − 120.000 − 20.000 = 60.000 RSD; rebate se ne uključuje dok nije potvrđen.
+- **Assumptions:** od 100 promo prodaja 20 zamenjuje redovne prodaje sa 1.000 RSD doprinosa po komadu; preostalih 80 je inkrementalno. Povrati i poreski efekti su izostavljeni
+- **Formula / denominator:** Uslovni `[FIXTURE]` efekat na zadatoj osnovi = 200.000 − 120.000 − 20.000 = 60.000 RSD; rebate se ne uključuje dok nije potvrđen.
 
 ### Inputs
 
@@ -52,7 +52,7 @@ Plan je 100 dodatnih komada sa 2.000 RSD doprinosa, kampanja 120.000 RSD i navod
 
 ### Decision
 
-Odobriti samo ako 60.000 RSD opravdava rizik; rebate tretirati kao upside posle dokumenta.
+Razmotriti odobrenje tek posle provere poreske osnove i ostalih nepoznanica, i ako uslovnih 60.000 RSD opravdava rizik; rebate tretirati kao upside posle dokumenta.
 
 ### Expected result
 
@@ -74,7 +74,7 @@ Napravi promo P&L sa baznim, lošijim i boljim scenarijem; odvoji potvrđene sta
 Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Promo rezultat uključuje cenu, doprinos, kampanju, kanibalizaciju i samo potvrđene bonuse.
-2. Potvrđeni efekat bez rebate-a u primeru je 60.000 RSD.
+2. Uslovni efekat bez rebate-a je 60.000 RSD na zadatoj simuliranoj osnovi; stvarni konačni profit je [UNKNOWN] do provere PDV-a i ostalih isključenih stavki.
 3. Rebate, co-funding i PDV tretman moraju imati ugovor, period i stručnu potvrdu.
 4. Promocija se odobrava prema potvrđenom profitu i guardrail-ima, ne prema obećanom prometu.
 

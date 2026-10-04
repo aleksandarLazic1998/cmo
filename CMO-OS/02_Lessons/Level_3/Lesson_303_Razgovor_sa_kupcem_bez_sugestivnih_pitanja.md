@@ -24,8 +24,8 @@ Cilj nije da kupac potvrdi ideju, već da razumeš šta se zaista dogodilo, kako
 ## New terms
 
 - **Sugestivno pitanje / Leading question:** Pitanje koje gura sagovornika ka željenom odgovoru.
-- **Behavioral evidence / Behavioral evidence:** Dokaz iz stvarnog ponašanja, ne samo mišljenja.
-- **Commitment / Commitment:** Konkretan ulog kupca: vreme, podatak, novac ili sledeći korak.
+- **Dokaz iz stvarnog ponašanja / Behavioral evidence:** Dokaz iz stvarnog ponašanja, ne samo mišljenja.
+- **Konkretna obaveza kupca / Commitment:** Konkretan ulog kupca: vreme, podatak, novac ili sledeći korak.
 
 ## Realistična `[FIXTURE]` simulacija — Dva načina pitanja
 
@@ -46,12 +46,12 @@ Prodavac testira uslugu instalacije.
 ### Inputs
 
 - Pitanje A: „Da li vam se sviđa brza instalacija?“
-- Pitanje B: „Kada ste poslednji put odložili kupovinu zbog instalacije?“
+- Pitanje B: „Opišite poslednju kupovinu i kako ste rešili instalaciju.“
 - 10 razgovora
 
 ### Decision
 
-Koristiti B i tražiti dokaz poslednjeg događaja.
+Koristiti B bez pretpostavke da je odlaganja bilo; tek ako ga sagovornik sam navede, pitati za konkretan događaj, posledicu i postojeće rešenje.
 
 ### Expected result
 

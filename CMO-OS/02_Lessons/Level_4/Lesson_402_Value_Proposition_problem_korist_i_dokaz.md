@@ -23,9 +23,9 @@ Dobra poruka ne nabraja sve funkcije. Ona bira nekoliko koristi koje su kupcu va
 
 ## New terms
 
-- **Value proposition / Value proposition:** Obećanje relevantne vrednosti određenom kupcu.
-- **Pain reliever / Pain reliever:** Način na koji ponuda smanjuje važan problem.
-- **Proof / Proof:** Dokaz koji smanjuje neizvesnost kupca.
+- **Obećanje vrednosti za kupca / Value proposition:** Obećanje relevantne vrednosti određenom kupcu.
+- **Način otklanjanja problema kupca / Pain reliever:** Način na koji ponuda smanjuje važan problem.
+- **Dokaz / Proof:** Dokaz koji smanjuje neizvesnost kupca.
 
 ## Realistična `[FIXTURE]` simulacija — Backup paket za malu firmu
 

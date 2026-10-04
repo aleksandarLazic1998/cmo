@@ -1,0 +1,302 @@
+[
+  {
+    "path": "CMO-OS/01_Knowledge/Business_Glossary.md",
+    "sha256_before": "1c990f15d33f451ae226b9a3bd3e1ecd101e470080bb158f176a1fd308cd85ac",
+    "sha256_after": "508dcb313d0621aea97760376fb212329cbde69d49ca2be6857bbe1cc2ca5c3e"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_0/Lesson_001_How_a_Company_Makes_Money.md",
+    "sha256_before": "26b1ba12d168ad584566c6149915ba0f19c628bf1013d92c95711c3061d5cc4e",
+    "sha256_after": "4149287094e3eb12c72c45ff5f74d054849d7cdd20b86e2d690ce9b8f23214a4"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_0/Lesson_002_Kako_funkcionise_ceo_poslovni_sistem.md",
+    "sha256_before": "d299d6008a6f3e623cfc85d9088480a5967a1b30c7dfaba884ca78db94c90436",
+    "sha256_after": "1b5cf51331dc527510083c98643d9d5f412962c423f7f77fe657e90f9760b100"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_0/Lesson_003_Nacin_razmisljanja_vlasnika.md",
+    "sha256_before": "1c478578a0de3c1b950415a56bf199d85ee1f882675c0511b9ab734c2924aa28",
+    "sha256_after": "79b793ebbd47b338d098c2eee2ed5249866c9c543de1e7e0b3fc6789d435f1ee"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_1/Lesson_101_Prihod_kolicina_i_prosecna_prodajna_cena.md",
+    "sha256_before": "e7874d09cb9866f980b81968b8e00eafb54b88f4e400c85697b6312e9df1dbe5",
+    "sha256_after": "80b28500b9b0b7f12d522998aec901552175fbc296e3c0d233e091887e9c4a5c"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_1/Lesson_103_Bruto_profit_neto_profit_marza_i_markup.md",
+    "sha256_before": "ccda84b245cee0c844eaeab9c37f1a5c8fa1b4f7444257f09ee8b622c877c014",
+    "sha256_after": "34a37cc937552d1145c6bde12d8b5476cbcf3a8fa37981cdfaca957be53961cf"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_1/Lesson_104_Cena_popust_volumen_i_profitni_trade_off.md",
+    "sha256_before": "ec57782e0d2fdf93fa56e380129187dc71ccea07c16dfed82f2f82722778ea6e",
+    "sha256_after": "d019a482932b6589a5582c8dc8661950a5ae07a27c2764e6a3a01ed57ed8c137"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_1/Lesson_105_Break_even_i_contribution_margin.md",
+    "sha256_before": "fca7d951a522db673f74c27c4c0f39e39c7d48c39c8826b06edce6d5256990ca",
+    "sha256_after": "043b1d8b2cbc9d3d8412700208e35de36af3a638252e8caaaf1a56cc702d1f07"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_10/Lesson_1003_Skaliranje_ljudi_strategije_izvrsenja_i_gotovine.md",
+    "sha256_before": "bf182e4f6b817d1b987628e35b26ed51a4f268d2b16aaf721fe0364918ca5b98",
+    "sha256_after": "949b63b198f538d91e79aaa68a1ea5e8934d49bb96bafb4795cc024b36223f07"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_10/Lesson_1004_Rizik_capital_allocation_governance_i_odluke_CEO_a.md",
+    "sha256_before": "22d1e1de04c72c547c148a7bfd204e5039294c5afb46cbc0a67dfc7d30d29a62",
+    "sha256_after": "2319f79cbc382393e4007644d51372bdee59426c280a6bd8e389f5ff4c322982"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_10/Lesson_1005_Integracioni_CEO_scenario.md",
+    "sha256_before": "693ec6e585c9abb973a96175739cf9eb45709e346495e9c37b9a28a33c4d83bc",
+    "sha256_after": "8fc8571daca4c9a6eb196dd23642e6d5a70a51b0e69c90c14579abcd67dbd55e"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_2/Lesson_203_Novcani_tok_i_zasto_profit_nije_gotovina.md",
+    "sha256_before": "d0bdd54cceb783743cd220d347b1ae968d5e20e6b54bc339e8cbee98b5747e39",
+    "sha256_after": "91706c439603cae5122c45db5e7aac956e8c409dcf7bb591c9adaa9fbecd432b"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_2/Lesson_204_Obrtni_kapital_kupci_dobavljaci_i_zalihe.md",
+    "sha256_before": "3a10ac2848486b4b64253cc1e89111c82098caa0ea97786ac7f8c369b188e7e0",
+    "sha256_after": "aed08fbb46e76458d397593ad3f7684c7541c4c8b44b9c3185eb9ce60c8e5324"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_2/Lesson_205_Unit_economics_ROI_i_payback.md",
+    "sha256_before": "2cf9c727e58c017cb21ac0f99a7d09d9343156878fd58efa5dab3d4ca325a2c1",
+    "sha256_after": "7fad8d04bbde1dd07463e7e32c6df36b08a8591021d26154cc266b93e5c1b1dc"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_3/Lesson_303_Razgovor_sa_kupcem_bez_sugestivnih_pitanja.md",
+    "sha256_before": "73bd891ef160381d0c2873129e68c4b5261760566a4590f527b48658f8521705",
+    "sha256_after": "17a440beb8efcb5746e818a4749ac2b5b6c7883234819d0f113b5ab6a8310b07"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_4/Lesson_402_Value_Proposition_problem_korist_i_dokaz.md",
+    "sha256_before": "69caefc85ce559c682742aad04988a77469332b1c08f209a31a0ebefc8bf9c7e",
+    "sha256_after": "2e583f13b22c14da2678e594a99fc46f7c7a5089458be4489653ab01bd2f28c7"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_4/Lesson_403_Positioning_i_alternativa_u_glavi_kupca.md",
+    "sha256_before": "028f49436ee79fe0dac7f12fddcc3c35fe36c3bb7351e92db2c0718719090a60",
+    "sha256_after": "395d096c74b717594f5ac3afcf82e0c59abf7ddd6fa88f4b2b7cc28bdd257295"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_4/Lesson_404_Dizajn_ponude_cena_i_smanjenje_rizika_kupca.md",
+    "sha256_before": "686bc22794150a19555c86fbac2d1bd3418461a48836faa5b326b60877667810",
+    "sha256_after": "f8ce80f64239a0a5d1bbedab327d4d394e13a302c0d561b1c5b7edf6b0b483f3"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_5/Lesson_502_Prodajni_funnel_i_kvalifikacija_kupca.md",
+    "sha256_before": "bf4f263233041e5bdb91fc6a4a5e9d68fc4c9f8b8895bfbbef64369d82cc9daa",
+    "sha256_after": "2089b7a988f75f0eceb43e133c02880b40153970bd4d3bba1e4d84964352a816"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_5/Lesson_504_Kanali_kampanje_konverzija_i_merenje.md",
+    "sha256_before": "c4a4a10086bb70dc93cff68bfc3a3f2be39f0b9cf2e391d596535ecd89a0372b",
+    "sha256_after": "4c9de70a5b62e84901556fbba08e9db36ea22e2b5724ad09bc799ae8c4e1939b"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_5/Lesson_505_CAC_LTV_retention_i_profitabilan_rast.md",
+    "sha256_before": "d4ed8d8327c275119b2e4c6bf60562e9322ba03b9d90881e258f2446c46ea92e",
+    "sha256_after": "612db922b4d9a3c68afd7a468fa11329bfb3d4e390cf8be81903b73eb8be5450"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_6/Lesson_601_Retail_ekonomija_i_uloga_kategorije.md",
+    "sha256_before": "e685f07aaff1b81cf9182ac1791ad0f71f2b6aff0be0ea47645d568410624737",
+    "sha256_after": "115ae741c889b832d8643c9119bf7ad7a14dd0ee66cb65e0b13d601eb4e9671a"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_6/Lesson_602_Asortiman_sirina_dubina_i_Good_Better_Best.md",
+    "sha256_before": "eadcfb4e9913d0a531251924fe48d609e5a96bed87f845ced6aed1a042f36e4d",
+    "sha256_after": "6e4dde8c4a8956040e2ab93c6a2d37141ce0f4ec9693a8a382759ff982852552"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_6/Lesson_603_Zalihe_obrt_dostupnost_i_zastarevanje.md",
+    "sha256_before": "561c049bb886a6c8746573f46dfbfbf77379ec4c6b086ca8ee6a0e2836313fae",
+    "sha256_after": "3e0d100b872554344450921dd645c9ccf19c3870d19a47f7290ceb3f78d86885"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_6/Lesson_604_Prosecna_korpa_attach_rate_cross_sell_upsell_i_bundle.md",
+    "sha256_before": "cd8348e3671928883a593ca3778daecb8ebd23f9256216ec2bd23fe234cc5525",
+    "sha256_after": "eab7e6957f39a908faca33fd9b662ab2251eb940b593cc78c400c79fa5342659"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_6/Lesson_605_Cena_promocija_PDV_kontekst_i_profitabilnost_kategorije.md",
+    "sha256_before": "a809fc77445b52f1796884f5e2cfb1b263fe0e54408e18eb613b63555d970527",
+    "sha256_after": "76c5c20bc158d242605c313e03ce7dffe67d557fdb3209bf99d3f15a868e6ce0"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_7/Lesson_701_Proces_tok_rada_kapacitet_i_usko_grlo.md",
+    "sha256_before": "3b2a76e8585a8074105d89dd13086df2799082eabaff86c7caf7687ee7802c8f",
+    "sha256_after": "b145169fbfaaf90bea316f6ec94b5065777c7a2d277168d09af1101c1db33a70"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_7/Lesson_702_Standardni_rad_SOP_kvalitet_i_greske.md",
+    "sha256_before": "bde95255cdc008476ba112ef7896de42668629a0565191a242d987bb5c8f8485",
+    "sha256_after": "2d8155bc41ca37e7b8e4bcdd78999de1efe53f3e0896f7a6ac5bf0540a7962de"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_7/Lesson_704_Firma_kao_sistem_koji_moze_raditi_bez_vlasnika.md",
+    "sha256_before": "0eb6d8f998036514be5de4d2a59f85c28388772c48b312a6b8fa5c55ef23ca07",
+    "sha256_after": "47e9e10cedc5b2e02f86cef76f4ed9c5e3a69d3af2aa40156c3328ddc0832c5d"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_8/Lesson_801_KPI_driver_outcome_target_i_guardrail.md",
+    "sha256_before": "ff7b76242a0a997dfa4dae6cc43e7b65ce98115877eae294ef0a5b199778dd4b",
+    "sha256_after": "ccc99b6454350a5c93e15e2140183db91a4fb742a370a444cfd41947a919d1e8"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_8/Lesson_802_Budzet_forecast_i_scenario.md",
+    "sha256_before": "c136c47f07bc26a5f0a7422e94fdabd19b971a8b0319adcecc66a7ebceeeba01",
+    "sha256_after": "67e0ad50c678d2027d5290e5914af6e47d1609679617b52dd61488f18f6437f7"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_8/Lesson_803_Dashboard_odstupanje_i_root_cause_analiza.md",
+    "sha256_before": "912b94f0823dae1a26f66c1e3c0f33b54f4ef85b2cfd13195563047426bb019f",
+    "sha256_after": "4a23f4d951e2140eec6d508cbdedcb477fe12aafe70ea8f53244bd92507cde4f"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_8/Lesson_804_Poslovni_ritam_sastanci_odgovornost_i_korektivna_akcija.md",
+    "sha256_before": "e468dca91e26b3df2be8139bb0fb42536a8441f3cd87f3912a57ac1158c96ba0",
+    "sha256_after": "0418f1ea3d6577b8f9b2ce8b946b2b2e7fea3a622e61b6abd0ad35b41d555528"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_9/Lesson_901_Uloga_rezultat_odgovornost_i_scorecard.md",
+    "sha256_before": "437e5d0b8c905a25eff63f348a686b29c333878168827601aca4316301cab432",
+    "sha256_after": "bcde322ae08892482d5555846d82833c0ec37d94460235d2ba900f1e6518501a"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_9/Lesson_902_Zaposljavanje_i_strukturisana_procena_kandidata.md",
+    "sha256_before": "6ca7698a42e07684c7a49bb4adf009dfe65becd2ac50001b08648b8bc75ed70c",
+    "sha256_after": "c52bea5e6e1cc06e9d1af604af6f4830b43b65533665a6da04d767609d9951fe"
+  },
+  {
+    "path": "CMO-OS/02_Lessons/Level_9/Lesson_904_Feedback_coaching_performance_i_teske_odluke.md",
+    "sha256_before": "26629845528ad799a9b7fde49218f9360c7010231d5429834dd0e41852295983",
+    "sha256_after": "ee876de18f43668f91121644c806d105b4b5e718673e946daa4d582731296f53"
+  },
+  {
+    "path": "CMO-OS/04_SOP/lesson_lifecycle.md",
+    "sha256_before": "b9d9a7ec17f50900797e80da807046bf8a8414d6490dfc374547c78735e04817",
+    "sha256_after": "c79f3de1d6627ff61bd9e65f7802061f9c00c93349e6972898c20d35431ad262"
+  },
+  {
+    "path": "CMO-OS/10_Daily/Learning_Progress.md",
+    "sha256_before": "252d3ca7a51742969350cdc0bc97abd6194e4362398a81076723077600649f5b",
+    "sha256_after": "89f23cb2b230d5dd45d27fcbd1cc25c9b39d5eab7590a38327e3f348ca3d352f"
+  },
+  {
+    "path": "CMO-OS/11_Research/Book_Knowledge_Base.md",
+    "sha256_before": "48b26c1c6eba1ece5d3a3d23756de5228b2f109f84ceb9e1abe7d7ca6c5bcb30",
+    "sha256_after": "b05eaa730cbc750bf9875bc3369d6f2927f587a1f0ee30ea8f5ad81e98a0ddd0"
+  },
+  {
+    "path": "CMO-OS/11_Research/Book_Source_Map.md",
+    "sha256_before": "5f2be9360f8ed3f1b6802eb4c9c1ec9eb9576701d667d0ea3e47744977a7316b",
+    "sha256_after": "ddf726ac86657e330001f7d13c531fccae705380ae545ab9047bfc667d646673"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/Book_Reading_Ledger.md",
+    "sha256_before": "4d89e8ad86405d7fa858b992ff1194b7ce4f01435445c51ebdb55d6409f56c6f",
+    "sha256_after": "cf3738130866ad3fa234d6e27d09bd0ff6b06ef0296f2c497a2092be1a77aae4"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/notes/BK-001_The_48_Laws_of_Power.md",
+    "sha256_before": "69d491c40cb823faade30591ef1d67b6cae77a097cb8ff78fa7ae585e5529052",
+    "sha256_after": "b15844205b17d7af24162d6bbf4cd29dc52c0efd3b6d670a3b83645b5c2fa5c1"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/notes/BK-002_100M_Offers.md",
+    "sha256_before": "f9b232b22de993ef38812d070a46bbce84f1bb37d4cd0ebd66b29e6892083f07",
+    "sha256_after": "75475aa6073e2a2101f29c7ae1e7409ea7cd1ad19164e630dfd5daa99ce2377a"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/notes/BK-004_Built_to_Sell.md",
+    "sha256_before": "3aeed94d4972920d3d0fff1ad489a80b6cbfe64b9d7e35d3f55e8caf3bfaf92c",
+    "sha256_after": "32804617105ab3b1b0abfedb5631fbfba6d087451aca7e8450af9f9460dd3560"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/notes/BK-005_The_E-Myth_Revisited.md",
+    "sha256_before": "330b154d9d0c9c0ff877b702f6e3cf63cd5730a08e8b1bbbc3b85324ad39a7b0",
+    "sha256_after": "edd798a8a9eb3fc377f03ad72110ffc3ab22953a2f2dc7f8adfbd8741e8e612b"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/notes/BK-006_Financial_Intelligence.md",
+    "sha256_before": "0e8c03cd394f01a47d6f60ace20c90a526762cec550d27507d2e0bfdcef32b73",
+    "sha256_after": "16d223fc27f3a37b54d9caa1a411683041ee570a694cd1433cbdf71fc52f6876"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/notes/BK-007_Good_Strategy_Bad_Strategy.md",
+    "sha256_before": "50ee649bda50185dd7708233f3514ed7a3504805e78ae3ad4e2642d6d768a340",
+    "sha256_after": "56998dc34705f0db9a6ffbaff510bdea514a2dc908263ec673a5c5cb1a9725ce"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/notes/BK-008_High_Output_Management.md",
+    "sha256_before": "948e9a001f9d5a546ee206d75bd3d6d802d9f3b0a434730522b898effd3624d7",
+    "sha256_after": "352d5269611cc3901c335e72e61d0a3fb701c8eab5560726cc39f92268cd915b"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/notes/BK-009_Obviously_Awesome.md",
+    "sha256_before": "39e8b97f1862326851d43c7e987b06205b019a57c27a9ddf03d1ce7537906bb2",
+    "sha256_after": "10c0c601bdf1ca0d120ff7d00b70f2491e3311c559b72eddc9b2e460fce34f35"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/notes/BK-010_Profit_First.md",
+    "sha256_before": "67560dfdcf51f6ac7ddcea34645ad0014d2594c3a30b900955643f407a5e0181",
+    "sha256_after": "cc12675d10bdfd3f9663fbab053365b0c22a49f3230923817e0c42065c7f0937"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/notes/BK-011_Scaling_Up.md",
+    "sha256_before": "fafd8e579195702fd7041d012ff5ecaa6cb631164e22267adce9bb033abda374",
+    "sha256_after": "27c77055c794884d60af3d89381ffb75d7b340b7b157853e95c7846bfee4825d"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/notes/BK-015_Who.md",
+    "sha256_before": "582b6e51b39b4d4ef2370f693fd20c99c877ea839b5b01e141be915e846b30d9",
+    "sha256_after": "9102fe173edd8d7c69210e5edf3d3b902f41f9f6e8a9536fe9571f888bc5dbeb"
+  },
+  {
+    "path": "CMO-OS/11_Research/book_acquisition/notes/BK-017_The_Lean_Startup.md",
+    "sha256_before": "36c729dcb476eb44bb1962a7f50932ab7884e37ad8dcae1a5ba4030551eb4583",
+    "sha256_after": "db63016fa2c0ce17c41c464f83ce4493562f7a1cc54f6004076784218b42cfae"
+  },
+  {
+    "path": "CMO-OS/90_AI/skills/cmo-core/references/moriarty-mentorship.md",
+    "sha256_before": "6e2d834c0bb9db14f120d4321c58339e08df71d6f0a44b4754dac021476287d2",
+    "sha256_after": "04d87e891ddced9dff5d04154b10b388e41d22c9a3a1149c9a57b5f77c328a6a"
+  },
+  {
+    "path": "CMO-OS/99_Templates/Lesson_Template.md",
+    "sha256_before": "333bd92a1049a63c0f8de766c997204dfe5a808eeb47ffca60ef6fde593bbd71",
+    "sha256_after": "e5c3c75150e0fcbe863574700a1e6d07a8d3104c20555266723519960c342082"
+  },
+  {
+    "path": "CMO-OS/AGENTS.md",
+    "sha256_before": "92aa45bd7a0b3b2468d93530d76f805195f2a76b657028e86f5d1246bd011245",
+    "sha256_after": "40ba531eec3b29cf113cc579c7b5158c72cb580ea58fc6178650caf0ad2a8fd6"
+  },
+  {
+    "path": "CMO-OS/AUTHORITY.md",
+    "sha256_before": "32a5a959e095e3a15e720cd05b58b685b8f09d874292d85549e6cb03cadd41be",
+    "sha256_after": "9dbf601f60c38bbbfd30bad07ba46376ed7e6dafede2e0b3aac6528015d21fee"
+  },
+  {
+    "path": "CMO-OS/CHANGELOG.md",
+    "sha256_before": "3f2942564429a93cf60946812032b608dd629dcf25525de0281219c522655002",
+    "sha256_after": "5cf16a3365d075d57bbbc190e668813cdca9ba346584dca6f93a2e881a57fd40"
+  },
+  {
+    "path": "CMO-OS/CLAUDE.md",
+    "sha256_before": "b7aaa7164dd28e031ad31604291dcfe9e776aef1f3ab32f19ff46f25bc44f275",
+    "sha256_after": "f6161b68027d1c9b992b9816444ea96c286747d9cf623cbb6008b70bf285ec1c"
+  },
+  {
+    "path": "CMO-OS/ROADMAP.md",
+    "sha256_before": "ed8584ea05fb046c1831be926cc9a4a5cd9d92264f9887c5df02adbfad3a5c6a",
+    "sha256_after": "2170882e884c3a052bf0f659ac73cea4d6191f43d71d80114b21ad92294a333d"
+  }
+]

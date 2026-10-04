@@ -23,9 +23,9 @@ Počinje od stvarnih alternativa, jedinstvenih sposobnosti, vrednosti koju one s
 
 ## New terms
 
-- **Positioning / Positioning:** Mesto ponude u odnosu na alternative u glavi kupca.
-- **Competitive alternative / Competitive alternative:** Ono što bi kupac uradio bez tvoje ponude.
-- **Frame of reference / Frame of reference:** Kategorija koja kupcu daje kontekst za poređenje.
+- **Pozicioniranje u odnosu na alternative / Positioning:** Mesto ponude u odnosu na alternative u glavi kupca.
+- **Konkurentska alternativa / Competitive alternative:** Ono što bi kupac uradio bez tvoje ponude.
+- **Okvir poređenja / Frame of reference:** Kategorija koja kupcu daje kontekst za poređenje.
 
 ## Realistična `[FIXTURE]` simulacija — Servis ili osiguranje kontinuiteta
 

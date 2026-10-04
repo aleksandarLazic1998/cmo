@@ -13,7 +13,7 @@ completion_audit: `APPROVE — 90_AI/audits/2026-08-23_full_book_corpus/BK-001_A
 Source: `/home/aleksandar-lazic1998/Documents/Books/The+48+Laws+Of+Power.pdf`  
 Coverage evidence: `11_Research/book_acquisition/coverage/BK-001_coverage.md`
 
-Knjiga je secondary source za **deskriptivnu dinamiku moći u organizacijama**: zašto se ljudi ponašaju kako se ponašaju u hijerarhijama, kako nastaje zavist, kako se gradi i gubi reputacija, zašto direktna argumentacija po pravilu ne menja mišljenje, i kako pažnja, odsustvo i tajming menjaju percepciju vrednosti. Njeno jezgro su 48 „zakona“, svaki izgrađen po istom obrascu: Judgment (teza), Transgression of the Law (istorijski slučaj neuspeha), Interpretation, Observance of the Law (istorijski slučaj uspeha), Interpretation, Keys to Power, Image, Authority, Reversal.
+Knjiga je secondary source za **deskriptivnu dinamiku moći u organizacijama**: zašto se ljudi ponašaju kako se ponašaju u hijerarhijama, kako nastaje zavist, kako se gradi i gubi reputacija, autorove tvrdnje o ograničenjima direktne argumentacije, i kako pažnja, odsustvo i tajming menjaju percepciju vrednosti. Njeno jezgro su 48 „zakona“, svaki izgrađen po istom obrascu: Judgment (teza), Transgression of the Law (istorijski slučaj neuspeha), Interpretation, Observance of the Law (istorijski slučaj uspeha), Interpretation, Keys to Power, Image, Authority, Reversal.
 
 Knjiga **nije**: etički okvir, empirijska studija, izvor o menadžmentu, niti uputstvo za postupanje. To je **kompilacija istorijskih anegdota podređenih unapred izabranoj tezi**, u kojoj autor sam u Predgovoru izričito kaže da je moć „u suštini amoralna“ i da čitalac treba da nauči „da vidi okolnosti umesto dobra i zla“. Ne dokazuje ništa o Tehnocentru.
 
@@ -86,17 +86,17 @@ Knjiga **nije**: etički okvir, empirijska studija, izvor o menadžmentu, niti u
 
 `[SOURCE CLAIM]` Moć je društvena igra sa fiksnim pravilima koja se ne mogu izbeći, samo igrati bolje ili gore. Onaj ko tvrdi da ne igra, igra prikriveno. Emocija je najveća prepreka moći; distanca, strpljenje i vladanje prividima su njeni temelji. Ljude ne treba suditi po namerama nego po posledicama njihovih postupaka.
 
-`[CMO OS assessment]` **Prva polovina ove teze je tačna i korisna. Druga je opasna.**
+`[CMO OS assessment]` **Opisne tvrdnje su hipoteze za proveru; preskriptivni sloj se ne preuzima.**
 
-Tačno je da su hijerarhije pune neizgovorene politike, da nesigurnost nadređenih oblikuje odluke više nego kompetencija, da direktna argumentacija retko menja mišljenje i da percepcija često nadjačava činjenice. Ovo su korisna zapažanja i CMO OS ih zadržava.
+Autor iz anegdota izvodi tvrdnje o politici, nesigurnosti, argumentaciji i percepciji. To su hipoteze za kritičku proveru, ne dokazane univerzalne činjenice o hijerarhijama ili konkretnom saradniku. CMO OS zadržava opis izvora i njegova ograničenja.
 
 Netačan je skok od zapažanja do preporuke. Iz činjenice da ljudi manipulišu ne sledi da treba manipulisati, kao što iz činjenice da ljudi lažu ne sledi da treba lagati. Autor taj skok nikad ne brani argumentom — on ga izvodi retorikom, birajući anegdote koje ga potvrđuju.
 
 ## Method: how the book is built, and why that matters
 
-`[FACT]` Svih 48 poglavlja imaju identičnu strukturu: teza → istorijska priča o nekome ko je nije poštovao i propao → istorijska priča o nekome ko jeste i uspeo → izvod → izuzetak.
+`[INFERENCE]` Nasleđena mapa prepoznaje tipičan obrazac: teza → istorijska ilustracija → tumačenje → praktični izvod → izuzetak. Jednaka struktura i isti broj ilustracija u svakom od 48 poglavlja nisu posebno potvrđeni ovim auditom.
 
-`[INFERENCE]` Ovo je **selekcija na zavisnu promenljivu** — najpoznatija greška u zaključivanju iz istorijskih primera. Autor bira ishode koje već zna, pa retroaktivno pripisuje uzrok pravilu koje brani. Broj ljudi koji su primenili isti postupak i propali se nikad ne navodi, jer istorija ne beleži poražene. Nijedan zakon nije testiran; svaki je ilustrovan.
+`[INFERENCE]` Ovo je **selekcija na zavisnu promenljivu** — najpoznatija greška u zaključivanju iz istorijskih primera. Autor bira ishode koje već zna, pa retroaktivno pripisuje uzrok pravilu koje brani. Prikazane ilustracije ne uspostavljaju denominator ni kontrolnu grupu. Istorija može beležiti neuspehe; ne zaključujemo da nijedan zakon nikada nigde nije testiran. Šira empirijska validacija je `[UNKNOWN]`.
 
 `[FACT]` Anegdote su neujednačene pouzdanosti. Kirovu smrt Greene prepričava po Herodotu, koji je i sam navodi kao jednu od nekoliko verzija. „Mesečev doktor“, Bragadino i „Yellow Kid“ Weil dolaze iz literature o prevarantima gde je preterivanje deo žanra. Priče o Sen no Rikyuu su iz zbirki anegdota o čajnoj ceremoniji, ne iz dokumenata.
 
@@ -106,25 +106,25 @@ Netačan je skok od zapažanja do preporuke. Iz činjenice da ljudi manipulišu 
 
 ## What survives: concepts CMO OS keeps
 
-Sledećih šest je jedino što iz knjige prelazi u kanon, i to preformulisano.
+Sledećih šest tema čuva se kao opis i hipoteza za proveru. Nasleđene preskriptivne formulacije ispod su korigovane u ovom auditu: BK-001 nije izvor postupaka koje mentor preporučuje. Otvorena komunikacija i pošteno priznavanje doprinosa imaju nezavisno uporište u BK-008 i projektnim evidence pravilima.
 
 ### 1. Nesigurnost nadređenog kao stalna varijabla (Law 1)
 
 `[SOURCE CLAIM]` Onaj ko odlučuje o tvom položaju ne ceni samo tvoj rezultat nego i to kako ga tvoj rezultat čini da se oseća.
 
-`[CMO OS correction]` Zadržava se kao **dijagnostika, ne kao uputstvo da se lažira osrednjost.** Ispravan odgovor nije prikrivanje sposobnosti nego uokvirivanje rezultata kao zajedničkog i eksplicitno pripisivanje zasluge onima koji su doprineli. To rešava isti problem bez laganja i, za razliku od Greeneove preporuke, ne uništava ti reputaciju kad se otkrije.
+`[CMO OS correction]` Zadržava se kao **dijagnostika, ne kao uputstvo da se lažira osrednjost.** Nesigurnost nije automatska dijagnoza nadređenog. Tačno pripisivanje doprinosa sledi iz evidence discipline i BK-008, ne iz Greeneove preporuke, i ne garantuje određenu reakciju.
 
 ### 2. Demonstracija umesto argumenta (Law 9)
 
 `[SOURCE CLAIM]` Reči pozivaju na protivreči; pokazan rezultat ne.
 
-`[CMO OS correction]` Ovo je najbolje poglavlje u knjizi i preuzima se gotovo netaknuto — ali kao **komunikacijska tehnika, ne kao manipulacija.** Wren koji gradi lažne stubove obmanjuje naručioca; Michelangelo koji Soderinija dovodi bliže nosu ne obmanjuje ga nego mu menja perspektivu. Prvo se odbacuje, drugo usvaja. Razlika je u tome da li bi sagovornik, kada bi video ceo postupak, i dalje pristao.
+`[CMO OS correction]` Izvorna anegdota na PDF pp. 93–94 uključuje glumljenje doterivanja nosa i puštanje prethodno prikupljene prašine bez promene skulpture. Zato se i Michelangelov postupak, kao i Wrenovi lažni stubovi, odbacuje kao obmana. Transparentna demonstracija sa otvorenim metodom i ograničenjima ima nezavisno uporište u BK-009, BK-013 i BK-018; nije preuzeta preporuka iz BK-001.
 
 ### 3. Oskudica i odsustvo kao regulatori percipirane vrednosti (Law 16)
 
 `[SOURCE CLAIM]` Prekomerna prisutnost obara cenu; povremeno odsustvo je vraća.
 
-`[CMO OS correction]` Ekonomski tačno i primenljivo na dostupnost, isporuku i kapacitet. **Ne primenjuje se na ljude s kojima imaš obavezu** — na kupca koji čeka odgovor, saradnika koji čeka odluku, ili bilo koga prema kome postoji ugovor. Tamo je nedostupnost kršenje obaveze, ne strategija.
+`[CMO OS correction]` Ovo je autorova hipoteza o percepciji, ne univerzalna ekonomska činjenica niti preporuka za veštačku oskudicu. **Ne primenjuje se na ljude s kojima imaš obavezu** — na kupca koji čeka odgovor, saradnika koji čeka odluku, ili bilo koga prema kome postoji ugovor. Tamo je nedostupnost kršenje obaveze, ne strategija.
 
 ### 4. Tipologija sagovornika pre postupanja (Law 19)
 
@@ -136,13 +136,13 @@ Sledećih šest je jedino što iz knjige prelazi u kanon, i to preformulisano.
 
 `[SOURCE CLAIM]` Zavist se nikad ne priznaje i zato se pojavljuje prerušena — kao preterana hvala, kao hiperkritika, kao naknadno pripisivanje uspeha sreći.
 
-`[CMO OS correction]` Najkorisniji psihološki uvid u knjizi. **Odbacuje se preporučeni odgovor** — glumljenje mane ili poroka. To je opet laganje i, kad se otkrije, potvrđuje sumnju u sve ostalo. Radi ono što je radio Cosimo: umanji spoljašnje znake, uključi one koje si prestigao u ono što gradiš, i pripiši zaslugu okolnostima gde je stvarno bilo okolnosti. Razlika prema Greeneu je da to ne mora biti gluma.
+`[CMO OS correction]` Kritika, pohvala ili neslaganje nisu dokaz zavisti; motiv ostaje [UNKNOWN] bez dokaza. Odbacuju se glumljenje mane i drugi preskriptivni odgovori. Provera konkretnog ponašanja, alternativnih objašnjenja i fer komunikacija vode se po BK-008 i `BKB-PEO-003/004`.
 
 ### 6. Zaustavljanje na postavljenom cilju (Law 47)
 
 `[SOURCE CLAIM]` Trenutak pobede je trenutak najveće opasnosti, jer uspeh menja procenu rizika i podstiče ponavljanje istog poteza u drugačijim okolnostima.
 
-`[CMO OS correction]` Ovo je jedini Greeneov zakon koji se poklapa sa sistemskim izvorima korpusa (BK-012 o inerciji, BK-007 o entropiji, BK-011 o uslovu isteka svake mere) i usvaja se u celini. Operativna posledica: **svaki cilj se zapisuje sa uslovom zaustavljanja pre nego što se krene**, i pobeda ne otvara automatski sledeću rundu.
+`[CMO OS correction]` Ovo je jedini Greeneov zakon koji se poklapa sa sistemskim izvorima korpusa (BK-012 o inerciji, BK-007 o entropiji, BK-011 o uslovu isteka svake mere) ali se ne usvaja kao Greeneovo uputstvo. Uslov zaustavljanja i ponovna provera ograničenja imaju nezavisno uporište u BK-007, BK-012 i postojećim decision/evidence pravilima.
 
 ## Assumptions, limits and risks
 
@@ -182,7 +182,7 @@ Hormozi i Greene dele sklonost ka snažnoj retorici i primerima bez kontrolne gr
 
 | BKB koncept | Iz BK-001 | Veza u CMO OS-u |
 |---|---|---|
-| `BKB-PEO-006` | Zavist kao predvidljiva cena vidljivog uspeha, sa maskama u kojima se javlja | Dopunjuje `BKB-PEO-005`; ulazi u pripremu svake promene statusa u timu |
+| `BKB-PEO-006` | Konflikt pri promeni statusa kao neproverena hipoteza; ne dijagnoza zavisti | Dopunjuje `BKB-PEO-005`; ulazi u pripremu svake promene statusa u timu |
 | `BKB-MET-005` | Test predvidljivosti: sistem koji objašnjava svaki ishod ne predviđa nijedan | Opšti filter za sve buduće izvore; primenjuje se i unazad na već obrađene knjige |
 | `BKB-GTM-004` | Demonstracija umesto argumenta u ubeđivanju | `BKB-STR-007` (obećanja), `BKB-MET-004` (merljiv dokaz umesto tvrdnje) |
 
@@ -192,7 +192,7 @@ Hormozi i Greene dele sklonost ka snažnoj retorici i primerima bez kontrolne gr
 Kanonski korpus sadrži izvor čije preporuke sistem odbija, a čija zapažanja zadržava. Kako se takav izvor koristi bez da se njegov okvir uvuče na mala vrata.
 
 ### Data
-- Broj preporuka izvora koje su preuzete: `6 od 48` (12,5%), sve preformulisane.
+- Broj tema zadržanih za deskriptivnu proveru: `6`; broj usvojenih preskriptivnih pravila iz BK-001: `0`. Slične dozvoljene preporuke potkrepljuju se drugim izvorima.
 - Broj izričito isključenih: vidi `Canonical exclusions`, dvanaest stavki.
 - Postojanje internih protivrečnosti u izvoru: `da`, dokumentovano.
 - Postojanje kriterijuma izbora između protivrečnih preporuka: `ne`.

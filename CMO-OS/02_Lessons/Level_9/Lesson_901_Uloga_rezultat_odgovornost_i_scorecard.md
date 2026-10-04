@@ -25,7 +25,7 @@ Jasan scorecard pomaže zapošljavanju, onboarding-u, feedback-u i nagrađivanju
 
 - **Uloga / Role:** Odgovornost za definisane ishode u sistemu.
 - **Scorecard / Role scorecard:** Kratak dokument sa misijom, ishodima i kompetencijama uloge.
-- **Decision rights / Decision rights:** Granice odluka koje uloga donosi samostalno.
+- **Ovlašćenja za odlučivanje / Decision rights:** Granice odluka koje uloga donosi samostalno.
 
 ## Realistična `[FIXTURE]` simulacija — Voditelj prodajnog tima
 

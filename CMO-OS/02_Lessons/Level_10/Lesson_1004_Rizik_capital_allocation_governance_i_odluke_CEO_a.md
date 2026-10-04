@@ -23,9 +23,9 @@ Governance određuje ko predlaže, ko odlučuje, ko izvršava i ko proverava. Ve
 
 ## New terms
 
-- **Capital allocation / Capital allocation:** Raspodela ograničenih resursa između konkurentnih namena.
+- **Raspodela kapitala / Capital allocation:** Raspodela ograničenih resursa između konkurentnih namena.
 - **Downside / Downside risk:** Mogući gubitak u nepovoljnom scenariju.
-- **Governance / Governance:** Pravila odlučivanja, nadzora, odgovornosti i sukoba interesa.
+- **Pravila upravljanja i nadzora / Governance:** Pravila odlučivanja, nadzora, odgovornosti i sukoba interesa.
 
 ## Realistična `[FIXTURE]` simulacija — Dve investicije
 
@@ -40,7 +40,7 @@ A traži 1.000.000 RSD, očekuje 25% povrata uz downside −500.000. B traži 60
 - **VAT / tax basis:** pojednostavljeno; poreski tretman nije analiziran
 - **Inclusions:** samo eksplicitno navedeni ulazi
 - **Exclusions:** stvarni Tehnocentar/PostHog podaci i sve nenavedene stavke
-- **Assumptions:** povrati su uporedivi u istom periodu; rezerva je odobren guardrail
+- **Assumptions:** povrati su uporedivi u jednoj simuliranoj godini; navedeni benefit je neto korist posle relevantnih troškova na pretpostavljenoj osnovi; rezerva je odobren guardrail, a budući cash tajming i verovatnoće downside-a nisu dati
 - **Formula / denominator:** Posle A ostaje 200.000 < rezerve; posle B ostaje 600.000 ≥ rezerve. Risk-adjusted zaključak zahteva još scenario podataka.
 
 ### Inputs
@@ -74,7 +74,7 @@ Napravi investment memo za dve opcije: problem, evidence, base/up/down scenario,
 Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Capital allocation poredi povrat, likvidnost, rizik, vreme i strateški fit.
-2. Posle A ostaje 200.000 RSD ispod rezerve, a posle B 600.000 RSD iznad nje.
+2. Posle A ostaje 200.000 RSD, što je 300.000 ispod minimalne rezerve; posle B ostaje 600.000 RSD, odnosno 100.000 iznad nje.
 3. Veća i nepovratnija odluka traži jači evidence i governance proveru.
 4. Odlaganje može biti najbolja odluka kada opcija ugrožava likvidnost ili nema dovoljan dokaz.
 

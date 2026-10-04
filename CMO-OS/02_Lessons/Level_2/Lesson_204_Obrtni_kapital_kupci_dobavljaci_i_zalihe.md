@@ -13,7 +13,7 @@ Povezuje rokove naplate i plaćanja sa likvidnošću.
 
 ## Teach & explain
 
-Obrtni kapital je novac zarobljen u svakodnevnom ciklusu: zaliha čeka prodaju, kupac čeka da plati, a dobavljač daje ili ne daje vreme za plaćanje.
+Neto obrtni kapital (net working capital) je kratkoročna imovina minus kratkoročne obaveze. Za upravljanje ciklusom trgovine posebno posmatramo operativni obrtni kapital: potraživanja + zalihe − obaveze prema dobavljačima. Ta operativna mera opisuje sredstva vezana u naplati i zalihama, umanjena za dobavljačko finansiranje; nije isto što i saldo gotovine.
 
 Cash conversion cycle spaja dane zalihe i naplate, pa oduzima dane plaćanja dobavljaču. Što je ciklus duži, više gotovine treba za isti obim.
 
@@ -23,9 +23,9 @@ Cash conversion cycle spaja dane zalihe i naplate, pa oduzima dane plaćanja dob
 
 ## New terms
 
-- **Obrtni kapital / Working capital:** Kratkoročna sredstva vezana za svakodnevno poslovanje.
+- **Neto obrtni kapital / Net working capital:** Kratkoročna imovina minus kratkoročne obaveze; operativna mera u trgovini posebno prati potraživanja + zalihe − obaveze prema dobavljačima.
 - **Dani zalihe / Days inventory:** Prosečno vreme pre prodaje zalihe.
-- **Cash conversion cycle / Cash conversion cycle:** Dani zalihe + dani naplate − dani plaćanja.
+- **Ciklus vezivanja gotovine / Cash conversion cycle:** Dani zalihe + dani naplate − dani plaćanja.
 
 ## Realistična `[FIXTURE]` simulacija — Ciklus trgovine
 

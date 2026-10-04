@@ -24,8 +24,8 @@ Jedna korelacija nije uzrok. Dobar pregled se spušta sa outcome-a na segment, p
 ## New terms
 
 - **Odstupanje / Variance:** Razlika stvarnog rezultata prema planu ili prethodnom periodu.
-- **Root cause / Root cause:** Uzrok koji objašnjava problem i može se ciljano menjati.
-- **Drill-down / Drill-down:** Spuštanje ukupne metrike na detaljnije segmente.
+- **Osnovni uzrok / Root cause:** Uzrok koji objašnjava problem i može se ciljano menjati.
+- **Razlaganje zbirnog podatka / Drill-down:** Spuštanje ukupne metrike na detaljnije segmente.
 
 ## Realistična `[FIXTURE]` simulacija — Pad bruto marže
 
@@ -41,14 +41,14 @@ Marža pada sa 30% na 26%. Cena i trošak po SKU su stabilni, ali miks se pomeri
 - **Inclusions:** samo eksplicitno navedeni ulazi
 - **Exclusions:** stvarni Tehnocentar/PostHog podaci i sve nenavedene stavke
 - **Assumptions:** metod marže se nije menjao
-- **Formula / denominator:** Odstupanje marže = −4 pp; promena miksa = +20 pp udela low-margin proizvoda.
+- **Formula / denominator:** Pre: 40% × 18% + 60% × 38% = 30%; sada: 60% × 18% + 40% × 38% = 26%. Odstupanje = −4 pp; promena udela low-margin proizvoda u prihodu = +20 pp.
 
 ### Inputs
 
 - pre 30%
 - sada 26%
 - cena po SKU stabilna
-- udio low-margin miksa 40%→60%
+- udeo low-margin proizvoda u prihodu 40%→60%; marže grupa su 18% i 38%, stabilne
 
 ### Decision
 

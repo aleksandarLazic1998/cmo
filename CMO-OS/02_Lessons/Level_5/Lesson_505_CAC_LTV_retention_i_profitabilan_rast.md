@@ -25,7 +25,7 @@ LTV nije sigurna činjenica o budućnosti. Mora imati cohort, period, maržu, st
 
 - **CAC / Customer acquisition cost:** Relevantni trošak prodaje i marketinga ÷ novi kupci.
 - **LTV / Lifetime value:** Procenjeni doprinos kupca tokom definisanog odnosa.
-- **Retention / Retention:** Udeo kupaca ili prihoda koji ostaje kroz vreme.
+- **Zadržavanje kupaca / Retention:** Udeo kupaca ili prihoda koji ostaje kroz vreme.
 
 ## Realistična `[FIXTURE]` simulacija — Pretplatnički paket
 
@@ -40,7 +40,7 @@ Akvizicija 20 kupaca košta 200.000 RSD; mesečni doprinos po kupcu je 4.000 RSD
 - **VAT / tax basis:** prihodi i troškovi na istoj osnovi
 - **Inclusions:** samo eksplicitno navedeni ulazi
 - **Exclusions:** stvarni Tehnocentar/PostHog podaci i sve nenavedene stavke
-- **Assumptions:** doprinos i trajanje su stabilni; nema diskontovanja
+- **Assumptions:** doprinos i trajanje su stabilni; doprinos se naplaćuje mesečno i u ovom modelu jednak je dodatnom neto novčanom prilivu posle tekućih varijabilnih odliva; CAC se plaća na početku. Nema diskontovanja, dodatnog obrtnog kapitala ni capex-a; bez te pretpostavke cash payback zahteva zaseban cash-flow raspored
 - **Formula / denominator:** CAC 10.000 RSD; fixture LTV 32.000 RSD; LTV:CAC 3,2; payback 2,5 meseca.
 
 ### Inputs

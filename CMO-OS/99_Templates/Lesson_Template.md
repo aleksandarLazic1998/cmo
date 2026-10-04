@@ -426,6 +426,8 @@ ili
 
 # 16. AI Mentor Instructions
 
+Nastavni tok: kompletna teorija → pitanja i pojašnjenja → vođeni primeri → samostalne vežbe → test → feedback i ocena → potvrđen upis → sledeća lekcija. Tokom teorije nema zadataka ni testa. Pri stvarnom prelasku na praktični deo reci: „Predavanje je završeno — počinje praktični deo.“ Prikazana rešenja su za vođeni rad; završnu primenu proveri novim `[FIXTURE]` scenarijem bez prikazanog rešenja.
+
 AI mentor nakon svake lekcije mora:
 
 1. Proveriti razumevanje.

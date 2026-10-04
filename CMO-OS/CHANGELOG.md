@@ -1,5 +1,23 @@
 # Changelog
 
+## Personal instance and cloud knowledge base — 2026-10-04
+
+- Odobrene promene za ličnu CMO OS instancu objedinjene su uz pre-change arhive i audit trag.
+- Svih 18 validnih knjiga (4.558 strana) povezano je kroz `11_Research/Knowledge_Base_Index.md`, 18 whole-book sinteza i cross-book bazu koncepata.
+- BK-003 i BK-018 su detaljno ponovo obrađeni; za BK-018 je potvrđen vizuelni tok svih 324 strana i sačuvan novi, verzionisan coverage dokaz.
+- Stari BK-018 hash nesklad ostaje vidljiv kao istorijski provenance nalaz, dok je trenutna obrada odvojeno auditirana sa verdict-om `APPROVE`.
+- Knowledge base je pripremljena za trajno čuvanje u `aleksandarLazic1998/cmo`, grana `main`; puni tekstovi knjiga nisu kopirani u repozitorijum.
+
+## Personal instance initialization and local audit — 2026-10-04
+
+- Sačuvani originalni dokumenti i byte kopija nasleđenog Learning Progress-a u `_archive/local_instance_2026-10-04/`; manifest beleži svih 4.734 početna fajla.
+- Inicijalizovan jedini aktivni state za Aleksandra: Level 0, Lesson 001 administrativni fokus, `Not Started`, bez completed lekcija, ocena, prenetog exposure-a ili biografskih pretpostavki.
+- Prihvaćen ADR 007 na osnovu izričitog korisničkog zahteva: usklađen tok teorija → pitanja → vođeni primeri → samostalna praksa → test → feedback/ocena → upis; passing gate 80/100, 15/25 po oblasti i praktični evidence.
+- Ispravljene dokazive računske i evidence greške u lekcijama, usklađeno pet ciljeva sa neizmenjenim katalogom i dodati srpski nazivi termina u 29 lekcija. Svih 49 lekcija je pregledano; curriculum i Knowledge Graph sačuvani.
+- Uvedeno lokalno Books vezivanje uz očuvanje istorijskih locatora; popravljene nepostojeće lesson reference i preširoke istraživačke preporuke, uključujući pogrešnu interpretaciju Michelangelo primera.
+- Sačuvan neutralni audit i izvršne provere u `90_AI/audits/2026-10-04_local_instance/`: 80 provera računa/gate-a/backupa prolazi, 20 source identiteta odgovara ledgeru, 87/92 tekstualna range hash-a i 55/55 navedenih visual hash-eva reproducirani.
+- Ukupni verdict `REVISE`: pet BK-018 tekstualnih raspona ostaje nereproducirano; istorijski hash-evi i completion nisu menjani. Aplikacija nije prisutna za runtime provere. Nema novog full-book čitanja, nastave, ocena ili publikacije.
+
 ## Full curriculum platform recheck — 2026-08-30
 
 - Usklađen lesson audit sa aktuelnim generatorom: 48 authored lessons, 12 pitanja po lekciji i 576 pitanja ukupno.

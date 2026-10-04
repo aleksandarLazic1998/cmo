@@ -2,8 +2,16 @@
 
 Status: `active`  
 Acquisition policy: `MANDATORY_FULL_CORPUS`  
-Last updated: `2026-08-23`  
+Last updated: `2026-10-04`
 Inspection method: `page-by-page text accessibility scan + SHA-256` (BK-001…BK-017 inventar: pypdf; BK-018 i dalje: `pdftotext -layout` po stranici, `pdfinfo` za identitet, Poppler render za vizuelnu proveru)
+
+## Current local source binding — 2026-10-04
+
+- `[FACT]` U ovom checkout-u biblioteka je `/workspace/cmo/Books`, odnosno `../../../Books/` relativno prema ovom ledgeru. Izvor se otvara spajanjem tog direktorijuma i `Filename` kolone iz tabele `Source identity`.
+- `[FACT]` Svih 20 lokalnih fajlova odgovara nasleđenom SHA-256 identitetu i broju bajtova; PDF page count odgovara reading-status tabeli.
+- Stare `/home/...` putanje u ovom dokumentu, whole-book beleškama i coverage evidence-u su istorijski locatori. Ostaju sačuvane, a aktivno otvaranje koristi gore navedeno lokalno vezivanje.
+- `COMPLETED`, originalni datumi obrade i whole-book sinteze su nasleđeni istraživački zapisi. Ovaj audit proverava raspoloživost i dokaze; ne proglašava novo potpuno semantičko čitanje korpusa. Detalji i ograničenja: `../../90_AI/audits/2026-10-04_local_instance/AUDIT_REPORT.md`.
+- Istorijski nalaz F22: BK-018 PDF identitet i visual evidence hash-evi su potvrđeni, ali pet tekstualnih range hash-eva iz 2026-08-23 nije reproducirano aktuelnim alatom. Stari dokaz ostaje netaknut. Nova obrada od 2026-10-04 obuhvata strane 1–324, pet vizuelnih kontaktnih tabli i sopstvene verzionisane hash-eve, pa je nalaz zatvoren za sadašnju knowledge base bez prepisivanja istorije. Dokaz: `../../90_AI/audits/2026-10-04_full_corpus_reread/AUDIT_REPORT.md`.
 
 ## Completion contract
 

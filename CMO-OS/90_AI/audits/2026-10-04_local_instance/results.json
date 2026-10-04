@@ -1,0 +1,1861 @@
+{
+  "scope": "local instance and inherited artifact verification",
+  "failures": [
+    "Range character count mismatch BK-018 1-65",
+    "Range hash mismatch BK-018 1-65",
+    "Range character count mismatch BK-018 66-130",
+    "Range hash mismatch BK-018 66-130",
+    "Range character count mismatch BK-018 131-195",
+    "Range hash mismatch BK-018 131-195",
+    "Range character count mismatch BK-018 196-260",
+    "Range hash mismatch BK-018 196-260",
+    "Range character count mismatch BK-018 261-324",
+    "Range hash mismatch BK-018 261-324"
+  ],
+  "lessons": [
+    {
+      "id": "001",
+      "level": 0,
+      "path": "02_Lessons/Level_0/Lesson_001_How_a_Company_Makes_Money.md",
+      "dependencies": [],
+      "structural_check": "executed"
+    },
+    {
+      "id": "002",
+      "level": 0,
+      "path": "02_Lessons/Level_0/Lesson_002_Kako_funkcionise_ceo_poslovni_sistem.md",
+      "dependencies": [
+        "001"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "003",
+      "level": 0,
+      "path": "02_Lessons/Level_0/Lesson_003_Nacin_razmisljanja_vlasnika.md",
+      "dependencies": [
+        "002"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "101",
+      "level": 1,
+      "path": "02_Lessons/Level_1/Lesson_101_Prihod_kolicina_i_prosecna_prodajna_cena.md",
+      "dependencies": [
+        "001",
+        "002",
+        "003"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "102",
+      "level": 1,
+      "path": "02_Lessons/Level_1/Lesson_102_Fiksni_varijabilni_direktni_i_indirektni_troskovi.md",
+      "dependencies": [
+        "101"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "103",
+      "level": 1,
+      "path": "02_Lessons/Level_1/Lesson_103_Bruto_profit_neto_profit_marza_i_markup.md",
+      "dependencies": [
+        "102"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "104",
+      "level": 1,
+      "path": "02_Lessons/Level_1/Lesson_104_Cena_popust_volumen_i_profitni_trade_off.md",
+      "dependencies": [
+        "103"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "105",
+      "level": 1,
+      "path": "02_Lessons/Level_1/Lesson_105_Break_even_i_contribution_margin.md",
+      "dependencies": [
+        "104"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "1001",
+      "level": 10,
+      "path": "02_Lessons/Level_10/Lesson_1001_Dobra_strategija_dijagnoza_vodeca_politika_i_povezane_akcije.md",
+      "dependencies": [
+        "901",
+        "902",
+        "903",
+        "904"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "1002",
+      "level": 10,
+      "path": "02_Lessons/Level_10/Lesson_1002_Konkurencija_prednost_fokus_i_trade_off.md",
+      "dependencies": [
+        "1001"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "1003",
+      "level": 10,
+      "path": "02_Lessons/Level_10/Lesson_1003_Skaliranje_ljudi_strategije_izvrsenja_i_gotovine.md",
+      "dependencies": [
+        "1002"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "1004",
+      "level": 10,
+      "path": "02_Lessons/Level_10/Lesson_1004_Rizik_capital_allocation_governance_i_odluke_CEO_a.md",
+      "dependencies": [
+        "1003"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "1005",
+      "level": 10,
+      "path": "02_Lessons/Level_10/Lesson_1005_Integracioni_CEO_scenario.md",
+      "dependencies": [
+        "1004"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "201",
+      "level": 2,
+      "path": "02_Lessons/Level_2/Lesson_201_Bilans_uspeha.md",
+      "dependencies": [
+        "101",
+        "102",
+        "103",
+        "104",
+        "105"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "202",
+      "level": 2,
+      "path": "02_Lessons/Level_2/Lesson_202_Bilans_stanja.md",
+      "dependencies": [
+        "201"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "203",
+      "level": 2,
+      "path": "02_Lessons/Level_2/Lesson_203_Novcani_tok_i_zasto_profit_nije_gotovina.md",
+      "dependencies": [
+        "202"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "204",
+      "level": 2,
+      "path": "02_Lessons/Level_2/Lesson_204_Obrtni_kapital_kupci_dobavljaci_i_zalihe.md",
+      "dependencies": [
+        "203"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "205",
+      "level": 2,
+      "path": "02_Lessons/Level_2/Lesson_205_Unit_economics_ROI_i_payback.md",
+      "dependencies": [
+        "204"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "206",
+      "level": 2,
+      "path": "02_Lessons/Level_2/Lesson_206_Budzet_vlasnika_porezi_i_pravna_forma_orijentacija.md",
+      "dependencies": [
+        "205"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "301",
+      "level": 3,
+      "path": "02_Lessons/Level_3/Lesson_301_Problem_potreba_i_posao_koji_kupac_pokusava_da_obavi.md",
+      "dependencies": [
+        "201",
+        "202",
+        "203",
+        "204",
+        "205",
+        "206"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "302",
+      "level": 3,
+      "path": "02_Lessons/Level_3/Lesson_302_Segment_kupaca_i_izbor_pocetnog_trzista.md",
+      "dependencies": [
+        "301"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "303",
+      "level": 3,
+      "path": "02_Lessons/Level_3/Lesson_303_Razgovor_sa_kupcem_bez_sugestivnih_pitanja.md",
+      "dependencies": [
+        "302"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "304",
+      "level": 3,
+      "path": "02_Lessons/Level_3/Lesson_304_Pretpostavka_MVP_eksperiment_i_validacija.md",
+      "dependencies": [
+        "303"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "401",
+      "level": 4,
+      "path": "02_Lessons/Level_4/Lesson_401_Business_Model_Canvas_kao_mapa_sistema.md",
+      "dependencies": [
+        "301",
+        "302",
+        "303",
+        "304"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "402",
+      "level": 4,
+      "path": "02_Lessons/Level_4/Lesson_402_Value_Proposition_problem_korist_i_dokaz.md",
+      "dependencies": [
+        "401"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "403",
+      "level": 4,
+      "path": "02_Lessons/Level_4/Lesson_403_Positioning_i_alternativa_u_glavi_kupca.md",
+      "dependencies": [
+        "402"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "404",
+      "level": 4,
+      "path": "02_Lessons/Level_4/Lesson_404_Dizajn_ponude_cena_i_smanjenje_rizika_kupca.md",
+      "dependencies": [
+        "403"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "501",
+      "level": 5,
+      "path": "02_Lessons/Level_5/Lesson_501_Marketing_prodaja_i_brend_razlicite_uloge.md",
+      "dependencies": [
+        "401",
+        "402",
+        "403",
+        "404"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "502",
+      "level": 5,
+      "path": "02_Lessons/Level_5/Lesson_502_Prodajni_funnel_i_kvalifikacija_kupca.md",
+      "dependencies": [
+        "501"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "503",
+      "level": 5,
+      "path": "02_Lessons/Level_5/Lesson_503_Prodajni_razgovor_prigovor_pregovaranje_i_zatvaranje.md",
+      "dependencies": [
+        "502"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "504",
+      "level": 5,
+      "path": "02_Lessons/Level_5/Lesson_504_Kanali_kampanje_konverzija_i_merenje.md",
+      "dependencies": [
+        "503"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "505",
+      "level": 5,
+      "path": "02_Lessons/Level_5/Lesson_505_CAC_LTV_retention_i_profitabilan_rast.md",
+      "dependencies": [
+        "504"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "601",
+      "level": 6,
+      "path": "02_Lessons/Level_6/Lesson_601_Retail_ekonomija_i_uloga_kategorije.md",
+      "dependencies": [
+        "501",
+        "502",
+        "503",
+        "504",
+        "505"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "602",
+      "level": 6,
+      "path": "02_Lessons/Level_6/Lesson_602_Asortiman_sirina_dubina_i_Good_Better_Best.md",
+      "dependencies": [
+        "601"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "603",
+      "level": 6,
+      "path": "02_Lessons/Level_6/Lesson_603_Zalihe_obrt_dostupnost_i_zastarevanje.md",
+      "dependencies": [
+        "602"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "604",
+      "level": 6,
+      "path": "02_Lessons/Level_6/Lesson_604_Prosecna_korpa_attach_rate_cross_sell_upsell_i_bundle.md",
+      "dependencies": [
+        "603"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "605",
+      "level": 6,
+      "path": "02_Lessons/Level_6/Lesson_605_Cena_promocija_PDV_kontekst_i_profitabilnost_kategorije.md",
+      "dependencies": [
+        "604"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "701",
+      "level": 7,
+      "path": "02_Lessons/Level_7/Lesson_701_Proces_tok_rada_kapacitet_i_usko_grlo.md",
+      "dependencies": [
+        "601",
+        "602",
+        "603",
+        "604",
+        "605"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "702",
+      "level": 7,
+      "path": "02_Lessons/Level_7/Lesson_702_Standardni_rad_SOP_kvalitet_i_greske.md",
+      "dependencies": [
+        "701"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "703",
+      "level": 7,
+      "path": "02_Lessons/Level_7/Lesson_703_Delegiranje_procesa_kontrola_i_automatizacija.md",
+      "dependencies": [
+        "702"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "704",
+      "level": 7,
+      "path": "02_Lessons/Level_7/Lesson_704_Firma_kao_sistem_koji_moze_raditi_bez_vlasnika.md",
+      "dependencies": [
+        "703"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "801",
+      "level": 8,
+      "path": "02_Lessons/Level_8/Lesson_801_KPI_driver_outcome_target_i_guardrail.md",
+      "dependencies": [
+        "701",
+        "702",
+        "703",
+        "704"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "802",
+      "level": 8,
+      "path": "02_Lessons/Level_8/Lesson_802_Budzet_forecast_i_scenario.md",
+      "dependencies": [
+        "801"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "803",
+      "level": 8,
+      "path": "02_Lessons/Level_8/Lesson_803_Dashboard_odstupanje_i_root_cause_analiza.md",
+      "dependencies": [
+        "802"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "804",
+      "level": 8,
+      "path": "02_Lessons/Level_8/Lesson_804_Poslovni_ritam_sastanci_odgovornost_i_korektivna_akcija.md",
+      "dependencies": [
+        "803"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "901",
+      "level": 9,
+      "path": "02_Lessons/Level_9/Lesson_901_Uloga_rezultat_odgovornost_i_scorecard.md",
+      "dependencies": [
+        "801",
+        "802",
+        "803",
+        "804"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "902",
+      "level": 9,
+      "path": "02_Lessons/Level_9/Lesson_902_Zaposljavanje_i_strukturisana_procena_kandidata.md",
+      "dependencies": [
+        "901"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "903",
+      "level": 9,
+      "path": "02_Lessons/Level_9/Lesson_903_Delegiranje_leverage_i_menadzerski_output.md",
+      "dependencies": [
+        "902"
+      ],
+      "structural_check": "executed"
+    },
+    {
+      "id": "904",
+      "level": 9,
+      "path": "02_Lessons/Level_9/Lesson_904_Feedback_coaching_performance_i_teske_odluke.md",
+      "dependencies": [
+        "903"
+      ],
+      "structural_check": "executed"
+    }
+  ],
+  "books": [
+    {
+      "id": "BK-001",
+      "filename": "The+48+Laws+Of+Power.pdf",
+      "pages": 476,
+      "inherited_status": "COMPLETED",
+      "sha256": "5586435106a4e20fca2fdf527fd9ce405b6c1f65e20a4340f7bac46f8b3f91c6",
+      "bytes": 31058156,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Method: how the book is built, and why that matters",
+        "## What survives: concepts CMO OS keeps",
+        "## Assumptions, limits and risks",
+        "## Conflicts and agreements with processed sources",
+        "## CMO OS connections",
+        "## Source-handling protocol for adversarial material",
+        "## Canonical exclusions",
+        "## Completion statement"
+      ],
+      "rendered_pages": 476,
+      "visual_hash_checks": 6,
+      "extractor": "pdftotext -layout",
+      "text_pages_current": 475,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 80,
+          "chars": 274078,
+          "sha256_current": "65797b550663133f3c7f995ea22685e0d72e8a6f7756179c7538dbb3380f81a9",
+          "sha256_inherited": "65797b550663133f3c7f995ea22685e0d72e8a6f7756179c7538dbb3380f81a9",
+          "chars_inherited": 274078,
+          "hash_matches": true
+        },
+        {
+          "start": 81,
+          "end": 160,
+          "chars": 291116,
+          "sha256_current": "bba8b3d786dba9604a0d983bfa0edd204a8d554b20f7e51fc640a9fe27789927",
+          "sha256_inherited": "bba8b3d786dba9604a0d983bfa0edd204a8d554b20f7e51fc640a9fe27789927",
+          "chars_inherited": 291116,
+          "hash_matches": true
+        },
+        {
+          "start": 161,
+          "end": 240,
+          "chars": 304396,
+          "sha256_current": "29a3742eccdf72f443ede2c4d5b50c10a7d1714d108002f363a16b4e2887bdd4",
+          "sha256_inherited": "29a3742eccdf72f443ede2c4d5b50c10a7d1714d108002f363a16b4e2887bdd4",
+          "chars_inherited": 304396,
+          "hash_matches": true
+        },
+        {
+          "start": 241,
+          "end": 320,
+          "chars": 358691,
+          "sha256_current": "2e3cd76c1699b3d079520c554082f8fdecafd1e0de3721999cb45777e8e85a67",
+          "sha256_inherited": "2e3cd76c1699b3d079520c554082f8fdecafd1e0de3721999cb45777e8e85a67",
+          "chars_inherited": 358691,
+          "hash_matches": true
+        },
+        {
+          "start": 321,
+          "end": 400,
+          "chars": 357526,
+          "sha256_current": "88b11a9fe0cf7804ba08058e24ed341309ea7d42f35255a90a76461bddc2f744",
+          "sha256_inherited": "88b11a9fe0cf7804ba08058e24ed341309ea7d42f35255a90a76461bddc2f744",
+          "chars_inherited": 357526,
+          "hash_matches": true
+        },
+        {
+          "start": 401,
+          "end": 476,
+          "chars": 347174,
+          "sha256_current": "f283a4bce4fe8f4d7e399dcbc5e634846236fa0f36d6a80dbf48d83b47c68eac",
+          "sha256_inherited": "f283a4bce4fe8f4d7e399dcbc5e634846236fa0f36d6a80dbf48d83b47c68eac",
+          "chars_inherited": 347174,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-002",
+      "filename": "_OceanofPDF.com_100M_Offers_-_Alex_Hormozi.pdf",
+      "pages": 206,
+      "inherited_status": "COMPLETED",
+      "sha256": "12236eee167e52afdfe20d59ca270adb3fbc148b1bfd6b1f54e02352d65065d2",
+      "bytes": 3256624,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete operating model",
+        "## Evidence quality",
+        "## Sherlock test — limitations and failure modes",
+        "## Integration with completed corpus",
+        "## CMO OS connections",
+        "## CMO OS evidence-safe offer protocol",
+        "## Practice and decision questions",
+        "## Claims requiring current or local validation"
+      ],
+      "rendered_pages": 206,
+      "visual_hash_checks": 4,
+      "extractor": "pypdf",
+      "text_pages_current": 204,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 42,
+          "chars": 43192,
+          "sha256_current": "395af4b177a2a78fb56aaf53f580b27339939c21d241ed1a90966c904565ba9d",
+          "sha256_inherited": "395af4b177a2a78fb56aaf53f580b27339939c21d241ed1a90966c904565ba9d",
+          "chars_inherited": 43192,
+          "hash_matches": true
+        },
+        {
+          "start": 43,
+          "end": 83,
+          "chars": 56376,
+          "sha256_current": "b92c528266d66ed2c17bca7e7de4dc1b7fb280fc9cd7b1f64796b2d9ab49a50a",
+          "sha256_inherited": "b92c528266d66ed2c17bca7e7de4dc1b7fb280fc9cd7b1f64796b2d9ab49a50a",
+          "chars_inherited": 56376,
+          "hash_matches": true
+        },
+        {
+          "start": 84,
+          "end": 124,
+          "chars": 50192,
+          "sha256_current": "d4c52092c4c00cf2a726bff50981663b0c238310abc2f811f9f2c6623485cfa2",
+          "sha256_inherited": "d4c52092c4c00cf2a726bff50981663b0c238310abc2f811f9f2c6623485cfa2",
+          "chars_inherited": 50192,
+          "hash_matches": true
+        },
+        {
+          "start": 125,
+          "end": 165,
+          "chars": 49019,
+          "sha256_current": "fe0c5328a3b020e32b4bd4bf1cd12d62173a5740491dabd48ebe2b78bd227562",
+          "sha256_inherited": "fe0c5328a3b020e32b4bd4bf1cd12d62173a5740491dabd48ebe2b78bd227562",
+          "chars_inherited": 49019,
+          "hash_matches": true
+        },
+        {
+          "start": 166,
+          "end": 206,
+          "chars": 55197,
+          "sha256_current": "dd0803c76ab4c101d60531a628069723eca6d199e047806042c1c56b3f53c157",
+          "sha256_inherited": "dd0803c76ab4c101d60531a628069723eca6d199e047806042c1c56b3f53c157",
+          "chars_inherited": 55197,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-003",
+      "filename": "_OceanofPDF.com_100M_Offers_-_The_Lost_Chapter_-_Alex_Hormozi.pdf",
+      "pages": 8,
+      "inherited_status": "COMPLETED",
+      "sha256": "109d7d2de764658857387c9d09e3eef216d4cf64c5a9aecfaff7acc3fb163a88",
+      "bytes": 999326,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Author’s method",
+        "## Evidence and examples used by the author",
+        "## CMO OS analysis",
+        "## Stronger CMO OS decision rule",
+        "## CMO OS connections",
+        "## Practical application template",
+        "## Exercises for Aleksandar",
+        "## Retained knowledge"
+      ],
+      "rendered_pages": 8,
+      "visual_hash_checks": 0,
+      "extractor": "pypdf",
+      "text_pages_current": 7,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 1,
+          "chars": 0,
+          "sha256_current": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "sha256_inherited": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "chars_inherited": 0,
+          "hash_matches": true
+        },
+        {
+          "start": 2,
+          "end": 2,
+          "chars": 2136,
+          "sha256_current": "d8e6dc0723e01a56707874ef1376b4594fb69cbd377ff3afc7eb62d809b038fe",
+          "sha256_inherited": "d8e6dc0723e01a56707874ef1376b4594fb69cbd377ff3afc7eb62d809b038fe",
+          "chars_inherited": 2136,
+          "hash_matches": true
+        },
+        {
+          "start": 3,
+          "end": 3,
+          "chars": 2418,
+          "sha256_current": "47291f788575b3acabbf8299bd95660697d1174c38ca881a8a77c461acb99220",
+          "sha256_inherited": "47291f788575b3acabbf8299bd95660697d1174c38ca881a8a77c461acb99220",
+          "chars_inherited": 2418,
+          "hash_matches": true
+        },
+        {
+          "start": 4,
+          "end": 4,
+          "chars": 344,
+          "sha256_current": "7127cbf906cd37e52a83c7ff27ae3f9bf999b8c45de9291fd056e45b5cc8aa10",
+          "sha256_inherited": "7127cbf906cd37e52a83c7ff27ae3f9bf999b8c45de9291fd056e45b5cc8aa10",
+          "chars_inherited": 344,
+          "hash_matches": true
+        },
+        {
+          "start": 5,
+          "end": 5,
+          "chars": 1296,
+          "sha256_current": "69e652542b2e59d040e6fdea8e6aa079afb74252befd09989221ae5bdf3ded9a",
+          "sha256_inherited": "69e652542b2e59d040e6fdea8e6aa079afb74252befd09989221ae5bdf3ded9a",
+          "chars_inherited": 1296,
+          "hash_matches": true
+        },
+        {
+          "start": 6,
+          "end": 6,
+          "chars": 2381,
+          "sha256_current": "fe9efe67fe6c0dbb9159b01fa5318de8e3209db43d1b3a22950770b593d2feec",
+          "sha256_inherited": "fe9efe67fe6c0dbb9159b01fa5318de8e3209db43d1b3a22950770b593d2feec",
+          "chars_inherited": 2381,
+          "hash_matches": true
+        },
+        {
+          "start": 7,
+          "end": 7,
+          "chars": 1465,
+          "sha256_current": "c21272d79d13703031627be5ac1841110f5d40c2f371a976b9cc77cb3e6a54fc",
+          "sha256_inherited": "c21272d79d13703031627be5ac1841110f5d40c2f371a976b9cc77cb3e6a54fc",
+          "chars_inherited": 1465,
+          "hash_matches": true
+        },
+        {
+          "start": 8,
+          "end": 8,
+          "chars": 1210,
+          "sha256_current": "ebfe14d03741301be0a5d7619790f5997bf5d1016d59396faed9fd8f29d4f0dd",
+          "sha256_inherited": "ebfe14d03741301be0a5d7619790f5997bf5d1016d59396faed9fd8f29d4f0dd",
+          "chars_inherited": 1210,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-004",
+      "filename": "_OceanofPDF.com_Built_to_Sell_-_John_Warrillow.pdf",
+      "pages": 145,
+      "inherited_status": "COMPLETED",
+      "sha256": "656cbb284741937421e450d287238f9e7e049fe7abd6aef0fff7aee3f15b7164",
+      "bytes": 740133,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Full model",
+        "## Evidence quality",
+        "## Moriarty analysis — what survives",
+        "## Sherlock test — limitations and failure modes",
+        "## Integration with completed corpus",
+        "## CMO OS connections",
+        "## CMO OS founder-independence protocol",
+        "## Exercises for Aleksandar",
+        "## Retained knowledge"
+      ],
+      "rendered_pages": 145,
+      "visual_hash_checks": 0,
+      "extractor": "pypdf",
+      "text_pages_current": 141,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 29,
+          "chars": 44324,
+          "sha256_current": "5ef47b5e87eef0df4785b78267398a17e79f92e136c61eff1ce116f81753f2ef",
+          "sha256_inherited": "5ef47b5e87eef0df4785b78267398a17e79f92e136c61eff1ce116f81753f2ef",
+          "chars_inherited": 44324,
+          "hash_matches": true
+        },
+        {
+          "start": 30,
+          "end": 58,
+          "chars": 52362,
+          "sha256_current": "2caecfb5680e3fcec73df91fd08877d79f2278499f89ee59687631fd09cd7f94",
+          "sha256_inherited": "2caecfb5680e3fcec73df91fd08877d79f2278499f89ee59687631fd09cd7f94",
+          "chars_inherited": 52362,
+          "hash_matches": true
+        },
+        {
+          "start": 59,
+          "end": 87,
+          "chars": 53343,
+          "sha256_current": "7f46bfbbdea79af39f20be45e5ff6f36f50ff4de2bf28bb818311b57b15171c9",
+          "sha256_inherited": "7f46bfbbdea79af39f20be45e5ff6f36f50ff4de2bf28bb818311b57b15171c9",
+          "chars_inherited": 53343,
+          "hash_matches": true
+        },
+        {
+          "start": 88,
+          "end": 116,
+          "chars": 52629,
+          "sha256_current": "636b9806732a3c5105e1ecb2a0dede8f209a36cda595270eac2c9ffe8fc97f14",
+          "sha256_inherited": "636b9806732a3c5105e1ecb2a0dede8f209a36cda595270eac2c9ffe8fc97f14",
+          "chars_inherited": 52629,
+          "hash_matches": true
+        },
+        {
+          "start": 117,
+          "end": 145,
+          "chars": 50133,
+          "sha256_current": "dab3bd06f1e546a2f0601b4784f5870cc05e80dc61ba0cc72c3085f6970c9f84",
+          "sha256_inherited": "dab3bd06f1e546a2f0601b4784f5870cc05e80dc61ba0cc72c3085f6970c9f84",
+          "chars_inherited": 50133,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-005",
+      "filename": "_OceanofPDF.com_Emyth_revisited_-_Michael_E_Gerber.pdf",
+      "pages": 206,
+      "inherited_status": "COMPLETED",
+      "sha256": "09e9705684ab09e87fa169166d44185604fbfd67d7bd7b3ebd4a583ecaabbb43",
+      "bytes": 1120042,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete operating model",
+        "## Evidence quality",
+        "## Sherlock test — limitations and failure modes",
+        "## Integration with completed corpus",
+        "## CMO OS connections",
+        "## CMO OS founder-independent operating protocol",
+        "## Practice and decision questions",
+        "## Claims requiring current or local validation"
+      ],
+      "rendered_pages": 206,
+      "visual_hash_checks": 0,
+      "extractor": "pypdf",
+      "text_pages_current": 205,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 42,
+          "chars": 70688,
+          "sha256_current": "4b1d9581612c69c5dfd55007cd6bd21be6a1ee40b9102f6d044ad128833cffc2",
+          "sha256_inherited": "4b1d9581612c69c5dfd55007cd6bd21be6a1ee40b9102f6d044ad128833cffc2",
+          "chars_inherited": 70688,
+          "hash_matches": true
+        },
+        {
+          "start": 43,
+          "end": 83,
+          "chars": 77534,
+          "sha256_current": "c57f10d8bfeeee14f9929a46bd7fa4e35c346c2d672c4ed1c14e55e2ab141d0f",
+          "sha256_inherited": "c57f10d8bfeeee14f9929a46bd7fa4e35c346c2d672c4ed1c14e55e2ab141d0f",
+          "chars_inherited": 77534,
+          "hash_matches": true
+        },
+        {
+          "start": 84,
+          "end": 124,
+          "chars": 80712,
+          "sha256_current": "945b771e40b68b041881e19bbaf91f41db7648d2b077159bd87c2071ecaa7fee",
+          "sha256_inherited": "945b771e40b68b041881e19bbaf91f41db7648d2b077159bd87c2071ecaa7fee",
+          "chars_inherited": 80712,
+          "hash_matches": true
+        },
+        {
+          "start": 125,
+          "end": 165,
+          "chars": 79192,
+          "sha256_current": "81e0df34b015b91b13c15630e4c2e05f8ed75fb230e672ba6c3a2f033e8712ea",
+          "sha256_inherited": "81e0df34b015b91b13c15630e4c2e05f8ed75fb230e672ba6c3a2f033e8712ea",
+          "chars_inherited": 79192,
+          "hash_matches": true
+        },
+        {
+          "start": 166,
+          "end": 206,
+          "chars": 70420,
+          "sha256_current": "5ee44379708a7001436ae01c38ebf0fc5f9a3f0ce12379185de425f1abd0a50d",
+          "sha256_inherited": "5ee44379708a7001436ae01c38ebf0fc5f9a3f0ce12379185de425f1abd0a50d",
+          "chars_inherited": 70420,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-006",
+      "filename": "_OceanofPDF.com_Financial_Intelligence_A_Managers_Guide_to_Knowing_What_the_Numbers_Really_Mean_-_KAREN_BERMAN__JOE_KNIGHT_With_JOHN_CASE.pdf",
+      "pages": 221,
+      "inherited_status": "COMPLETED",
+      "sha256": "b73fbefe47db1c3b352c32a0bef97452f59bb7e773841fcb1b68fac5a133f394",
+      "bytes": 2421123,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete financial intelligence model",
+        "## Evidence quality and currency",
+        "## Sherlock test — limitations and failure modes",
+        "## Integration with completed corpus",
+        "## CMO OS connections",
+        "## Financial decision protocol",
+        "## Canonical exclusions",
+        "## Completion statement"
+      ],
+      "rendered_pages": 221,
+      "visual_hash_checks": 4,
+      "extractor": "pypdf",
+      "text_pages_current": 220,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 45,
+          "chars": 70973,
+          "sha256_current": "057b216e350255f0f1691143b5797e167e0b2e8a86e72de4ecc730271b67aeee",
+          "sha256_inherited": "057b216e350255f0f1691143b5797e167e0b2e8a86e72de4ecc730271b67aeee",
+          "chars_inherited": 70973,
+          "hash_matches": true
+        },
+        {
+          "start": 46,
+          "end": 89,
+          "chars": 79137,
+          "sha256_current": "2567a9a18eca911306bf1a3372b384498645a610f8eb9de6b2ddab184687139a",
+          "sha256_inherited": "2567a9a18eca911306bf1a3372b384498645a610f8eb9de6b2ddab184687139a",
+          "chars_inherited": 79137,
+          "hash_matches": true
+        },
+        {
+          "start": 90,
+          "end": 133,
+          "chars": 67641,
+          "sha256_current": "931791a61d68ea6999d2df6e5167c675b748bc94e01426fff74c72cb331c5466",
+          "sha256_inherited": "931791a61d68ea6999d2df6e5167c675b748bc94e01426fff74c72cb331c5466",
+          "chars_inherited": 67641,
+          "hash_matches": true
+        },
+        {
+          "start": 134,
+          "end": 177,
+          "chars": 71102,
+          "sha256_current": "e7f28a0a5e81ffc3f3eead5dd1e0e3f59158023e5799520959788753d3237749",
+          "sha256_inherited": "e7f28a0a5e81ffc3f3eead5dd1e0e3f59158023e5799520959788753d3237749",
+          "chars_inherited": 71102,
+          "hash_matches": true
+        },
+        {
+          "start": 178,
+          "end": 221,
+          "chars": 67596,
+          "sha256_current": "d302a18d3e2a540c122dfd30463a1b10ebc2a989267740cbcfa678813c8890be",
+          "sha256_inherited": "d302a18d3e2a540c122dfd30463a1b10ebc2a989267740cbcfa678813c8890be",
+          "chars_inherited": 67596,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-007",
+      "filename": "_OceanofPDF.com_Good_Strategy_Bad_Strategy_The_Difference_and_Why_It_Matters_-_Richard_Rumelt.pdf",
+      "pages": 360,
+      "inherited_status": "COMPLETED",
+      "sha256": "862eef8c2a5897030c443b5df9e2975b3e949b80392f1b632ce18a35f5af7109",
+      "bytes": 2672148,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete model and corrections",
+        "## Assumptions, limits and risks",
+        "## Conflicts and agreements with processed sources",
+        "## CMO OS connections",
+        "## Strategy decision protocol",
+        "## Canonical exclusions",
+        "## Completion statement"
+      ],
+      "rendered_pages": 360,
+      "visual_hash_checks": 5,
+      "extractor": "pdftotext -layout",
+      "text_pages_current": 359,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 72,
+          "chars": 130895,
+          "sha256_current": "f6b51dcb51e64a27455e148bac5fe7a1212a6d47928d589c4c3b8bd84407182f",
+          "sha256_inherited": "f6b51dcb51e64a27455e148bac5fe7a1212a6d47928d589c4c3b8bd84407182f",
+          "chars_inherited": 130895,
+          "hash_matches": true
+        },
+        {
+          "start": 73,
+          "end": 144,
+          "chars": 153404,
+          "sha256_current": "dd8a5d63b836340e836d45d56dfa7f70898bb83e94e2928f492f7f742a3ef7c9",
+          "sha256_inherited": "dd8a5d63b836340e836d45d56dfa7f70898bb83e94e2928f492f7f742a3ef7c9",
+          "chars_inherited": 153404,
+          "hash_matches": true
+        },
+        {
+          "start": 145,
+          "end": 216,
+          "chars": 153068,
+          "sha256_current": "62fc705c7c0a60075e07fb6c0a03cc5b40bf9a96f07447e1f824f631fb4c9a65",
+          "sha256_inherited": "62fc705c7c0a60075e07fb6c0a03cc5b40bf9a96f07447e1f824f631fb4c9a65",
+          "chars_inherited": 153068,
+          "hash_matches": true
+        },
+        {
+          "start": 217,
+          "end": 288,
+          "chars": 155002,
+          "sha256_current": "0244e2a752bed3799493493b11f420d15c0241ca14e21e32ba554385c6a5ea06",
+          "sha256_inherited": "0244e2a752bed3799493493b11f420d15c0241ca14e21e32ba554385c6a5ea06",
+          "chars_inherited": 155002,
+          "hash_matches": true
+        },
+        {
+          "start": 289,
+          "end": 360,
+          "chars": 75782,
+          "sha256_current": "0ac1da697f94feb894d76be6af1914f53961eec6e6371f406a994ef2a98f2fc4",
+          "sha256_inherited": "0ac1da697f94feb894d76be6af1914f53961eec6e6371f406a994ef2a98f2fc4",
+          "chars_inherited": 75782,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-008",
+      "filename": "_OceanofPDF.com_High_Output_Management_-_Andrew_S_Grove.pdf",
+      "pages": 192,
+      "inherited_status": "COMPLETED",
+      "sha256": "69e9b0cc0ce40602fdda4a40bb7ed999f9d99b804a63ab0e04c6355ee675b10f",
+      "bytes": 5128480,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete operating model",
+        "## Evidence quality",
+        "## Sherlock test — limitations and failure modes",
+        "## Integration with completed corpus",
+        "## CMO OS connections",
+        "## CMO OS high-output protocol",
+        "## Exercises for Aleksandar",
+        "## Retained knowledge"
+      ],
+      "rendered_pages": 192,
+      "visual_hash_checks": 0,
+      "extractor": "pypdf",
+      "text_pages_current": 187,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 39,
+          "chars": 76345,
+          "sha256_current": "ef50312c5413c02b47ea0d5b37ee2b2ad51006ef67f34deb8acb19394f39b418",
+          "sha256_inherited": "ef50312c5413c02b47ea0d5b37ee2b2ad51006ef67f34deb8acb19394f39b418",
+          "chars_inherited": 76345,
+          "hash_matches": true
+        },
+        {
+          "start": 40,
+          "end": 78,
+          "chars": 88750,
+          "sha256_current": "c1095710da03f8c74c4c05206fe5dbfa91d5d029e0a5f9ba88ae9563ad0a2272",
+          "sha256_inherited": "c1095710da03f8c74c4c05206fe5dbfa91d5d029e0a5f9ba88ae9563ad0a2272",
+          "chars_inherited": 88750,
+          "hash_matches": true
+        },
+        {
+          "start": 79,
+          "end": 116,
+          "chars": 88860,
+          "sha256_current": "75a45d79d669e3fbf18c99e54b6980a321e26982397607a89e270ce6390409a5",
+          "sha256_inherited": "75a45d79d669e3fbf18c99e54b6980a321e26982397607a89e270ce6390409a5",
+          "chars_inherited": 88860,
+          "hash_matches": true
+        },
+        {
+          "start": 117,
+          "end": 154,
+          "chars": 86160,
+          "sha256_current": "0e82aea926d96b205354189d03ef1f7356952d1a89544961aff4bdc18eab7b29",
+          "sha256_inherited": "0e82aea926d96b205354189d03ef1f7356952d1a89544961aff4bdc18eab7b29",
+          "chars_inherited": 86160,
+          "hash_matches": true
+        },
+        {
+          "start": 155,
+          "end": 192,
+          "chars": 73563,
+          "sha256_current": "57170c4f00964cf244db426f23f084a48faa74563a1078f36b640a8074ca9dc1",
+          "sha256_inherited": "57170c4f00964cf244db426f23f084a48faa74563a1078f36b640a8074ca9dc1",
+          "chars_inherited": 73563,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-009",
+      "filename": "_OceanofPDF.com_Obviously_Awesome_-_April_Dunford.pdf",
+      "pages": 140,
+      "inherited_status": "COMPLETED",
+      "sha256": "a421fda8b8d02d5cfbf763dd0a55350a6298fcb7a10cad99d6b3c520d1db5244",
+      "bytes": 3602989,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete positioning system",
+        "## Implementation after positioning",
+        "## Evidence quality",
+        "## Moriarty analysis — what survives",
+        "## Sherlock test — limitations and failure modes",
+        "## Integration with completed corpus",
+        "## CMO OS connections",
+        "## CMO OS positioning decision protocol",
+        "## Exercises for Aleksandar",
+        "## Retained knowledge"
+      ],
+      "rendered_pages": 140,
+      "visual_hash_checks": 0,
+      "extractor": "pypdf",
+      "text_pages_current": 129,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 28,
+          "chars": 26392,
+          "sha256_current": "45c298c77ea1981fd8951bbfd9732a9cd495baf9d5dc4b8b70a7718cab09d4e1",
+          "sha256_inherited": "45c298c77ea1981fd8951bbfd9732a9cd495baf9d5dc4b8b70a7718cab09d4e1",
+          "chars_inherited": 26392,
+          "hash_matches": true
+        },
+        {
+          "start": 29,
+          "end": 56,
+          "chars": 46427,
+          "sha256_current": "a54e796b9c1396e7fafdf4922cfda4c014a0eb5e44da875fd515976e410977d3",
+          "sha256_inherited": "a54e796b9c1396e7fafdf4922cfda4c014a0eb5e44da875fd515976e410977d3",
+          "chars_inherited": 46427,
+          "hash_matches": true
+        },
+        {
+          "start": 57,
+          "end": 84,
+          "chars": 39822,
+          "sha256_current": "8ce6665c3be18f664fa6196002d8137f0c8a25aebda817d80db2f391220b9fc3",
+          "sha256_inherited": "8ce6665c3be18f664fa6196002d8137f0c8a25aebda817d80db2f391220b9fc3",
+          "chars_inherited": 39822,
+          "hash_matches": true
+        },
+        {
+          "start": 85,
+          "end": 112,
+          "chars": 49685,
+          "sha256_current": "1ac7905f8f5700157ffaf5ed6208c0ce92b4f5d672daf854453d5b7b4c8f6385",
+          "sha256_inherited": "1ac7905f8f5700157ffaf5ed6208c0ce92b4f5d672daf854453d5b7b4c8f6385",
+          "chars_inherited": 49685,
+          "hash_matches": true
+        },
+        {
+          "start": 113,
+          "end": 140,
+          "chars": 35733,
+          "sha256_current": "6b18e8c62462793b84c4a0ed5964b76910a4d3a7684e3816dcfb639c92b61aa0",
+          "sha256_inherited": "6b18e8c62462793b84c4a0ed5964b76910a4d3a7684e3816dcfb639c92b61aa0",
+          "chars_inherited": 35733,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-010",
+      "filename": "_OceanofPDF.com_Profit_First__A_Simple_System_To_Transform_-_Mike_Michalowicz.pdf",
+      "pages": 196,
+      "inherited_status": "COMPLETED",
+      "sha256": "6a598f59f4fb2956e36404ab2bdbfa15595871efe44478205fe0d3e4fde7e6e9",
+      "bytes": 1453737,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete model and CMO OS correction",
+        "## Evidence quality and currency",
+        "## Sherlock test — limitations and failure modes",
+        "## Cross-book integration",
+        "## CMO OS connections",
+        "## Cash-allocation decision protocol",
+        "## Canonical exclusions",
+        "## Completion statement"
+      ],
+      "rendered_pages": 196,
+      "visual_hash_checks": 4,
+      "extractor": "pypdf",
+      "text_pages_current": 194,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 49,
+          "chars": 81769,
+          "sha256_current": "f79e3639c84309a5dba222db0c1ccee791c74a0db3d0f91f187f3534c7337454",
+          "sha256_inherited": "f79e3639c84309a5dba222db0c1ccee791c74a0db3d0f91f187f3534c7337454",
+          "chars_inherited": 81769,
+          "hash_matches": true
+        },
+        {
+          "start": 50,
+          "end": 98,
+          "chars": 87739,
+          "sha256_current": "a4b900cb38f414af25b371db2a02d67801740612b2abdb7c3722f76d10acf669",
+          "sha256_inherited": "a4b900cb38f414af25b371db2a02d67801740612b2abdb7c3722f76d10acf669",
+          "chars_inherited": 87739,
+          "hash_matches": true
+        },
+        {
+          "start": 99,
+          "end": 147,
+          "chars": 97682,
+          "sha256_current": "2cbf1327459dea4afd28f20003876676dc8adf696f1bb962c17e92dd30ab8284",
+          "sha256_inherited": "2cbf1327459dea4afd28f20003876676dc8adf696f1bb962c17e92dd30ab8284",
+          "chars_inherited": 97682,
+          "hash_matches": true
+        },
+        {
+          "start": 148,
+          "end": 196,
+          "chars": 87488,
+          "sha256_current": "53e652ffa683d66e4eebcd3eb4e226f49bb77260cc36b449454857f381d4d53c",
+          "sha256_inherited": "53e652ffa683d66e4eebcd3eb4e226f49bb77260cc36b449454857f381d4d53c",
+          "chars_inherited": 87488,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-011",
+      "filename": "_OceanofPDF.com_Scaling_Up_-_Verne_Harnish.pdf",
+      "pages": 387,
+      "inherited_status": "COMPLETED",
+      "sha256": "38c566ad25d49b0e8aeaa301bfb26cafb5f6bf63a1d9e30f4757efe61e8725c5",
+      "bytes": 23621515,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete model and corrections",
+        "## Assumptions, limits and risks",
+        "## Conflicts and agreements with processed sources",
+        "## CMO OS connections",
+        "## Scaling decision protocol",
+        "## Canonical exclusions",
+        "## Completion statement"
+      ],
+      "rendered_pages": 387,
+      "visual_hash_checks": 6,
+      "extractor": "pdftotext -layout",
+      "text_pages_current": 370,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 78,
+          "chars": 101180,
+          "sha256_current": "9497acbc7dc0c7603e16071b561cb5ae19face1b8c25a112fde31ac14bbc77dc",
+          "sha256_inherited": "9497acbc7dc0c7603e16071b561cb5ae19face1b8c25a112fde31ac14bbc77dc",
+          "chars_inherited": 101180,
+          "hash_matches": true
+        },
+        {
+          "start": 79,
+          "end": 156,
+          "chars": 128356,
+          "sha256_current": "b2c335ee7f37507fc5544969cbbffc8026dd7c85bb9a98e1789ffa7e584f2945",
+          "sha256_inherited": "b2c335ee7f37507fc5544969cbbffc8026dd7c85bb9a98e1789ffa7e584f2945",
+          "chars_inherited": 128356,
+          "hash_matches": true
+        },
+        {
+          "start": 157,
+          "end": 234,
+          "chars": 116888,
+          "sha256_current": "793b3af903115123cd781e9e2ae993bc13bf3c051eef7c6ff0ac1fe01b66c51d",
+          "sha256_inherited": "793b3af903115123cd781e9e2ae993bc13bf3c051eef7c6ff0ac1fe01b66c51d",
+          "chars_inherited": 116888,
+          "hash_matches": true
+        },
+        {
+          "start": 235,
+          "end": 312,
+          "chars": 123444,
+          "sha256_current": "8c1e13dc14cdc6885914efd0d39db2a5f0f5b03224c2fb7cbc710484aa54fef8",
+          "sha256_inherited": "8c1e13dc14cdc6885914efd0d39db2a5f0f5b03224c2fb7cbc710484aa54fef8",
+          "chars_inherited": 123444,
+          "hash_matches": true
+        },
+        {
+          "start": 313,
+          "end": 387,
+          "chars": 99935,
+          "sha256_current": "a23d4f936477c43f0fd4e480339b30beecfce7bb5f4de946ea76ca162a29e62f",
+          "sha256_inherited": "a23d4f936477c43f0fd4e480339b30beecfce7bb5f4de946ea76ca162a29e62f",
+          "chars_inherited": 99935,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-012",
+      "filename": "_OceanofPDF.com_The_Goal__A_Process_of_Ongoing_Improvement_-_Eliyahu_M_Goldratt.pdf",
+      "pages": 351,
+      "inherited_status": "COMPLETED",
+      "sha256": "95550e68ac4574d2fdb928d6f492557110e2375949e77a5cc23b45fcf556fc3b",
+      "bytes": 1985109,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete model and corrections",
+        "## Assumptions, limits and risks",
+        "## Conflicts and agreements with processed sources",
+        "## CMO OS connections",
+        "## Constraint decision protocol",
+        "## Canonical exclusions",
+        "## Completion statement"
+      ],
+      "rendered_pages": 351,
+      "visual_hash_checks": 5,
+      "extractor": "pdftotext -layout",
+      "text_pages_current": 350,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 71,
+          "chars": 149256,
+          "sha256_current": "d4c729df8e4b5243733ae482cf1d51ab633fb98a70d0ae44c3567af0bfcc9e57",
+          "sha256_inherited": "d4c729df8e4b5243733ae482cf1d51ab633fb98a70d0ae44c3567af0bfcc9e57",
+          "chars_inherited": 149256,
+          "hash_matches": true
+        },
+        {
+          "start": 72,
+          "end": 142,
+          "chars": 142058,
+          "sha256_current": "bfe74c09c3057db2f81ed2b1a91718bfd280d770209bcae144d4ea5f10fb8179",
+          "sha256_inherited": "bfe74c09c3057db2f81ed2b1a91718bfd280d770209bcae144d4ea5f10fb8179",
+          "chars_inherited": 142058,
+          "hash_matches": true
+        },
+        {
+          "start": 143,
+          "end": 213,
+          "chars": 146891,
+          "sha256_current": "68e0a238cd6aafdcf923f0f0ba5569182f3b3716a41794431c4de31d45231be5",
+          "sha256_inherited": "68e0a238cd6aafdcf923f0f0ba5569182f3b3716a41794431c4de31d45231be5",
+          "chars_inherited": 146891,
+          "hash_matches": true
+        },
+        {
+          "start": 214,
+          "end": 284,
+          "chars": 154693,
+          "sha256_current": "30275a900998c3c57ad65f191bcc6a3ab31e2d639444b97318d2821f5e0ef0fb",
+          "sha256_inherited": "30275a900998c3c57ad65f191bcc6a3ab31e2d639444b97318d2821f5e0ef0fb",
+          "chars_inherited": 154693,
+          "hash_matches": true
+        },
+        {
+          "start": 285,
+          "end": 351,
+          "chars": 157221,
+          "sha256_current": "3ded16939e1956f3cde9f46d7d266ccfaad3af7fb28eb1e2464426284c17ae24",
+          "sha256_inherited": "3ded16939e1956f3cde9f46d7d266ccfaad3af7fb28eb1e2464426284c17ae24",
+          "chars_inherited": 157221,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-013",
+      "filename": "_OceanofPDF.com_The_Mom_Test_-_Rob_Fitzpatrick.pdf",
+      "pages": 125,
+      "inherited_status": "COMPLETED",
+      "sha256": "90cfaf56256057ffbcc4f443120354ced6c5ba52240da66c1f16e903fbf550f1",
+      "bytes": 594127,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Full method",
+        "## Evidence quality",
+        "## Moriarty analysis — what survives",
+        "## Sherlock test — limitations and failure modes",
+        "## Integration with BK-003",
+        "## CMO OS connections",
+        "## CMO OS customer-conversation protocol",
+        "## Exercises for Aleksandar",
+        "## Retained knowledge"
+      ],
+      "rendered_pages": 1,
+      "visual_hash_checks": 0,
+      "extractor": "pypdf",
+      "text_pages_current": 125,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 25,
+          "chars": 31256,
+          "sha256_current": "09025fd1de59f7423f422d3915333224741f46aebad1acda7bc3a38c2bfc596c",
+          "sha256_inherited": "09025fd1de59f7423f422d3915333224741f46aebad1acda7bc3a38c2bfc596c",
+          "chars_inherited": 31256,
+          "hash_matches": true
+        },
+        {
+          "start": 26,
+          "end": 50,
+          "chars": 38626,
+          "sha256_current": "1bc1857d5adfa1f0557aac8109cc1f13d91e7b181f26162b6e63211bcf171920",
+          "sha256_inherited": "1bc1857d5adfa1f0557aac8109cc1f13d91e7b181f26162b6e63211bcf171920",
+          "chars_inherited": 38626,
+          "hash_matches": true
+        },
+        {
+          "start": 51,
+          "end": 75,
+          "chars": 36972,
+          "sha256_current": "ba7f9665a3641e1f83ab01e9d024ee5a835e937b5de5088e839bdf22ed262955",
+          "sha256_inherited": "ba7f9665a3641e1f83ab01e9d024ee5a835e937b5de5088e839bdf22ed262955",
+          "chars_inherited": 36972,
+          "hash_matches": true
+        },
+        {
+          "start": 76,
+          "end": 100,
+          "chars": 38100,
+          "sha256_current": "e66c72f2c9e67d2baf850ce9cc9ad07b48d95db33ea9ffaa083187f9f42c1748",
+          "sha256_inherited": "e66c72f2c9e67d2baf850ce9cc9ad07b48d95db33ea9ffaa083187f9f42c1748",
+          "chars_inherited": 38100,
+          "hash_matches": true
+        },
+        {
+          "start": 101,
+          "end": 125,
+          "chars": 32175,
+          "sha256_current": "99d9de46ea0b8c552cbe9e798bc3d55d4b82b3914bcd807e9f67d3324f24a55e",
+          "sha256_inherited": "99d9de46ea0b8c552cbe9e798bc3d55d4b82b3914bcd807e9f67d3324f24a55e",
+          "chars_inherited": 32175,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-014",
+      "filename": "_OceanofPDF.com_The_Personal_MBA_-_Josh_Kaufman.pdf",
+      "pages": 496,
+      "inherited_status": "COMPLETED",
+      "sha256": "1a41fd73ef09bd44a931dbcbf985c9c42d0fa274ccc7b6ed246cfbad0a2f7e2b",
+      "bytes": 3894485,
+      "note_headers": [
+        "## 1. Šta je ovaj izvor",
+        "## 2. Struktura knjige (mapa, PDF stranice)",
+        "## 3. Kičma knjige: Pet delova svakog biznisa",
+        "## 4. Poglavlje 1 — Value Creation (pp. 59–111)",
+        "## 5. Poglavlje 2 — Marketing (pp. 112–139)",
+        "## 6. Poglavlje 3 — Sales (pp. 140–169)",
+        "## 7. Poglavlje 4 — Value Delivery (pp. 170–191)",
+        "## 8. Poglavlje 5 — Finance (pp. 192–238)",
+        "## 9. Poglavlje 6 — The Human Mind (pp. 239–282)",
+        "## 10. Poglavlje 7 — Working with Yourself (pp. 283–340)",
+        "## 11. Poglavlje 8 — Working with Others (pp. 341–380)",
+        "## 12. Poglavlja 9–11 — Sistemi (pp. 381–454)",
+        "## 13. Šta CMO OS preuzima iz BK-014",
+        "## 14. Šta se ne preuzima (kanonska isključenja)",
+        "## 15. Odnos prema ostatku korpusa",
+        "## 16. Protokol primene u CMO OS",
+        "## 17. Šta ovaj izvor ne rešava",
+        "## 18. Provenance"
+      ],
+      "rendered_pages": 496,
+      "visual_hash_checks": 8,
+      "extractor": "pdftotext -layout",
+      "text_pages_current": 494,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 83,
+          "chars": 146177,
+          "sha256_current": "a1e05aac50bd7324572253b9666909a4a629f53dabe0f8076ceac05c3f751a4d",
+          "sha256_inherited": "a1e05aac50bd7324572253b9666909a4a629f53dabe0f8076ceac05c3f751a4d",
+          "chars_inherited": 146177,
+          "hash_matches": true
+        },
+        {
+          "start": 84,
+          "end": 166,
+          "chars": 173309,
+          "sha256_current": "42cba18d4de3b65da21c9715d6246bb8a51406a06dc0848e0e9eca7c183e7310",
+          "sha256_inherited": "42cba18d4de3b65da21c9715d6246bb8a51406a06dc0848e0e9eca7c183e7310",
+          "chars_inherited": 173309,
+          "hash_matches": true
+        },
+        {
+          "start": 167,
+          "end": 249,
+          "chars": 182059,
+          "sha256_current": "d562ebf1aeee4846d4311e4720af2a9e448db978addf579bbe502eaf3fbc89ec",
+          "sha256_inherited": "d562ebf1aeee4846d4311e4720af2a9e448db978addf579bbe502eaf3fbc89ec",
+          "chars_inherited": 182059,
+          "hash_matches": true
+        },
+        {
+          "start": 250,
+          "end": 332,
+          "chars": 177969,
+          "sha256_current": "d66cdeea23b4bd63ccab08b69dc00031ecbabafe5bd027a153808fc4493a75b1",
+          "sha256_inherited": "d66cdeea23b4bd63ccab08b69dc00031ecbabafe5bd027a153808fc4493a75b1",
+          "chars_inherited": 177969,
+          "hash_matches": true
+        },
+        {
+          "start": 333,
+          "end": 415,
+          "chars": 177729,
+          "sha256_current": "d2cbed1965691b444079ccf6702fad30006ffbea9b62fffa67d204acf6eb3898",
+          "sha256_inherited": "d2cbed1965691b444079ccf6702fad30006ffbea9b62fffa67d204acf6eb3898",
+          "chars_inherited": 177729,
+          "hash_matches": true
+        },
+        {
+          "start": 416,
+          "end": 496,
+          "chars": 145896,
+          "sha256_current": "fb9acb4d7ed673214536322e49dd8b1de9a1135bdb9328052709bd959d12ab4d",
+          "sha256_inherited": "fb9acb4d7ed673214536322e49dd8b1de9a1135bdb9328052709bd959d12ab4d",
+          "chars_inherited": 145896,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-015",
+      "filename": "_OceanofPDF.com_Who_-_Geoff_Smart.pdf",
+      "pages": 165,
+      "inherited_status": "COMPLETED",
+      "sha256": "eb1f4cee4eb034812f156492224de271bf52086447b5afe65d9002560a8fa925",
+      "bytes": 1352478,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete A Method",
+        "## Evidence quality",
+        "## Moriarty analysis — what survives",
+        "## Sherlock test — limitations and failure modes",
+        "## Integration with completed corpus",
+        "## CMO OS connections",
+        "## CMO OS evidence-based hiring protocol",
+        "## Exercises for Aleksandar",
+        "## Retained knowledge"
+      ],
+      "rendered_pages": 165,
+      "visual_hash_checks": 0,
+      "extractor": "pypdf",
+      "text_pages_current": 164,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 33,
+          "chars": 49009,
+          "sha256_current": "fd29745c15a83df3535a57d628f2df4af103776a381d02c643ccca77706488f1",
+          "sha256_inherited": "fd29745c15a83df3535a57d628f2df4af103776a381d02c643ccca77706488f1",
+          "chars_inherited": 49009,
+          "hash_matches": true
+        },
+        {
+          "start": 34,
+          "end": 66,
+          "chars": 57560,
+          "sha256_current": "d1f05faf7d890ad23ddd7a0ec21e407ac75f743a0ccab9aefb8549362457acef",
+          "sha256_inherited": "d1f05faf7d890ad23ddd7a0ec21e407ac75f743a0ccab9aefb8549362457acef",
+          "chars_inherited": 57560,
+          "hash_matches": true
+        },
+        {
+          "start": 67,
+          "end": 99,
+          "chars": 55517,
+          "sha256_current": "141cd6d46aa1be5342d8dba896b7d241abd87d47904a1c44b95b25188110f436",
+          "sha256_inherited": "141cd6d46aa1be5342d8dba896b7d241abd87d47904a1c44b95b25188110f436",
+          "chars_inherited": 55517,
+          "hash_matches": true
+        },
+        {
+          "start": 100,
+          "end": 132,
+          "chars": 58581,
+          "sha256_current": "e79595e5e27f751e67ae85d18a9ce3e17f4d673c18faf6247b7291c5cd893020",
+          "sha256_inherited": "e79595e5e27f751e67ae85d18a9ce3e17f4d673c18faf6247b7291c5cd893020",
+          "chars_inherited": 58581,
+          "hash_matches": true
+        },
+        {
+          "start": 133,
+          "end": 165,
+          "chars": 36765,
+          "sha256_current": "c9b35b4cde016c6b3a2c0d7602373e9d5f075bf208aebcb4365378cc11825591",
+          "sha256_inherited": "c9b35b4cde016c6b3a2c0d7602373e9d5f075bf208aebcb4365378cc11825591",
+          "chars_inherited": 36765,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-016",
+      "filename": "feismo.com-business-model-generation-pr_392cdc22664d50c95e5191c6dfdfe7ee.pdf",
+      "pages": 288,
+      "inherited_status": "COMPLETED",
+      "sha256": "db5465a6e8e981b26809f53c317bf94660d3fba41f6ce0e7c68e8337b9b01590",
+      "bytes": 58474792,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete model and CMO OS corrections",
+        "## Evidence quality and currency",
+        "## Sherlock test — limitations and failure modes",
+        "## Cross-book integration",
+        "## CMO OS connections",
+        "## Business-model decision protocol",
+        "## Canonical exclusions",
+        "## Completion statement"
+      ],
+      "rendered_pages": 288,
+      "visual_hash_checks": 4,
+      "extractor": "pypdf",
+      "text_pages_current": 288,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 72,
+          "chars": 84032,
+          "sha256_current": "af13b2420f3d1245289a16e553fbd9dd9d47eced97343da22c972ae3ec69d857",
+          "sha256_inherited": "af13b2420f3d1245289a16e553fbd9dd9d47eced97343da22c972ae3ec69d857",
+          "chars_inherited": 84032,
+          "hash_matches": true
+        },
+        {
+          "start": 73,
+          "end": 144,
+          "chars": 94851,
+          "sha256_current": "bf050e5d59758abb1b56104fa50128bb1cf187495d276729c4fe81bdc5b1893b",
+          "sha256_inherited": "bf050e5d59758abb1b56104fa50128bb1cf187495d276729c4fe81bdc5b1893b",
+          "chars_inherited": 94851,
+          "hash_matches": true
+        },
+        {
+          "start": 145,
+          "end": 216,
+          "chars": 139710,
+          "sha256_current": "481da30ad4568054ffd699d174749056883ff9b607f093b6c01d4a35053faba0",
+          "sha256_inherited": "481da30ad4568054ffd699d174749056883ff9b607f093b6c01d4a35053faba0",
+          "chars_inherited": 139710,
+          "hash_matches": true
+        },
+        {
+          "start": 217,
+          "end": 288,
+          "chars": 132002,
+          "sha256_current": "5ba37a999d990b1ed91816a689b473cc90d8a689af86f8118e89ac82be44aa25",
+          "sha256_inherited": "5ba37a999d990b1ed91816a689b473cc90d8a689af86f8118e89ac82be44aa25",
+          "chars_inherited": 132002,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-017",
+      "filename": "the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses-2017-currency-international-edition-9781524762407-1524762407-978-0-307-88791-7.pdf",
+      "pages": 272,
+      "inherited_status": "COMPLETED",
+      "sha256": "d48ff351de0e6cb75775552979c0aba4385ff7959fa931addcedde149b3ec4d8",
+      "bytes": 1689180,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete Lean Startup model and corrections",
+        "## Evidence quality and currency",
+        "## Sherlock test — limitations and failure modes",
+        "## Cross-book integration",
+        "## CMO OS connections",
+        "## Innovation experiment protocol",
+        "## Canonical exclusions",
+        "## Completion statement"
+      ],
+      "rendered_pages": 272,
+      "visual_hash_checks": 4,
+      "extractor": "pypdf",
+      "text_pages_current": 268,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 68,
+          "chars": 115409,
+          "sha256_current": "34721de9cdda6c041ba12f3c75e50df50aba991d65ba9b6b9934eecd182ed22b",
+          "sha256_inherited": "34721de9cdda6c041ba12f3c75e50df50aba991d65ba9b6b9934eecd182ed22b",
+          "chars_inherited": 115409,
+          "hash_matches": true
+        },
+        {
+          "start": 69,
+          "end": 136,
+          "chars": 139381,
+          "sha256_current": "a2da9c024cde720bdc7b933fc45a5bcf1029cfdd02f4070ba202be43f1e043f4",
+          "sha256_inherited": "a2da9c024cde720bdc7b933fc45a5bcf1029cfdd02f4070ba202be43f1e043f4",
+          "chars_inherited": 139381,
+          "hash_matches": true
+        },
+        {
+          "start": 137,
+          "end": 204,
+          "chars": 133136,
+          "sha256_current": "0e3482e873fc5d7f944eea4d83515694d5811e682e7c7b96300c61b04ed6b373",
+          "sha256_inherited": "0e3482e873fc5d7f944eea4d83515694d5811e682e7c7b96300c61b04ed6b373",
+          "chars_inherited": 133136,
+          "hash_matches": true
+        },
+        {
+          "start": 205,
+          "end": 272,
+          "chars": 131393,
+          "sha256_current": "2ed0a8ed76560e97323e77d0c77ccdd2a39ba709439266d435fee4af018c9503",
+          "sha256_inherited": "2ed0a8ed76560e97323e77d0c77ccdd2a39ba709439266d435fee4af018c9503",
+          "chars_inherited": 131393,
+          "hash_matches": true
+        }
+      ]
+    },
+    {
+      "id": "BK-018",
+      "filename": "toaz.info-value-proposition-design-pr_a867102f4bc3dd58a0db6bbce59bbbe2.pdf",
+      "pages": 324,
+      "inherited_status": "COMPLETED",
+      "sha256": "519de86319de19863843f01e698803127917bf3baec3a1845a2cea9601421e5d",
+      "bytes": 32184624,
+      "note_headers": [
+        "## Source and authority",
+        "## Complete structure map",
+        "## Central thesis",
+        "## Complete model and corrections",
+        "## Assumptions, limits and risks",
+        "## Conflicts and agreements with processed sources",
+        "## CMO OS connections",
+        "## Value proposition decision protocol",
+        "## Canonical exclusions",
+        "## Completion statement"
+      ],
+      "rendered_pages": 324,
+      "visual_hash_checks": 5,
+      "extractor": "pdftotext -layout",
+      "text_pages_current": 310,
+      "range_checks": [
+        {
+          "start": 1,
+          "end": 65,
+          "chars": 123058,
+          "sha256_current": "e32f916b04c80139bd016b6d92ccb947ba7a6c8e8af35fd78cf10b4142ea9985",
+          "sha256_inherited": "69645216120c970b32a767868865f341698ac82527ffabe5668a4e0f2d2c9902",
+          "chars_inherited": 122836,
+          "hash_matches": false
+        },
+        {
+          "start": 66,
+          "end": 130,
+          "chars": 136762,
+          "sha256_current": "34e5b908d10978822e7b72183b7bafa90d7e9f1dfcb0e6326bf3eddecc29ae76",
+          "sha256_inherited": "cd23b1727a8abcf7a8e1cda1f9f016e2adb272ab9d5bc8a0d6c391a2dcb2407e",
+          "chars_inherited": 136568,
+          "hash_matches": false
+        },
+        {
+          "start": 131,
+          "end": 195,
+          "chars": 195518,
+          "sha256_current": "2ddceac7d98b71b091b1aac2ca205025f89ad8c12be6039d449a0faf13ab4f70",
+          "sha256_inherited": "3f1f55ea8898aeb82748f858c4baeb767621181efd06d3f2eb9e5ede02c30405",
+          "chars_inherited": 195273,
+          "hash_matches": false
+        },
+        {
+          "start": 196,
+          "end": 260,
+          "chars": 258857,
+          "sha256_current": "a3f68addcea309ff115fa8dc011eb858acc5254db20d9f6a4f4a8a370c29328e",
+          "sha256_inherited": "cce75910bf76b0ceed0a1e3cbe0abd97de2955dd05d3013307bf95a297b18505",
+          "chars_inherited": 258865,
+          "hash_matches": false
+        },
+        {
+          "start": 261,
+          "end": 324,
+          "chars": 136632,
+          "sha256_current": "40ca309e3fca48a9e42c7bb5dbd1548012673801dd373b52c4b358d829541b9a",
+          "sha256_inherited": "c85ed2a792d2c31e367308b725e3172ee6633eb0ec393d2cf31a6c1b5cc337b9",
+          "chars_inherited": 136687,
+          "hash_matches": false
+        }
+      ]
+    },
+    {
+      "id": "BK-019",
+      "filename": "gerber-michael-e-the-e-myth-revisited-harper-collins-e-books-2014_compress.pdf",
+      "pages": 1,
+      "inherited_status": "INVALID_COPY",
+      "sha256": "14f500d0ff7d074ccb472aa9ca35165f872706819d3803baa565bd40f8a74f36",
+      "bytes": 2217
+    },
+    {
+      "id": "BK-020",
+      "filename": "the-personal-mba-josh-kaufman-10th-anniversary-edition-527-pages_convert_compress.pdf",
+      "pages": 1,
+      "inherited_status": "INVALID_COPY",
+      "sha256": "4607621d8fccec5a1bcbeb4d483f8f57995665857291c8be424bf83b2ee7b6aa",
+      "bytes": 26100
+    }
+  ],
+  "historical_notes": [
+    "Broken link: CMO-OS/90_AI/audits/2026-08-17_v1_baseline_audit/RECOMMENDED_ARCHITECTURE.md -> ../01_Knowledge/Finance/Margin.md",
+    "Empty document: CMO-OS/_archive/pre_v2_activation_2026-08-17/99_Templates_Product_Analysis_Template.md",
+    "Empty document: CMO-OS/_archive/pre_v2_activation_2026-08-17/99_Templates_Project_Template.md"
+  ],
+  "tools": {
+    "python": "3.12.14",
+    "pypdf": "6.10.0",
+    "pdftotext": "pdftotext version 25.03.0"
+  },
+  "inventory": {
+    ".md": 214,
+    ".pdf": 20,
+    ".png": 4505,
+    ".py": 2,
+    ".json": 7,
+    ".yaml": 2,
+    ".zip": 2,
+    ".txt": 1
+  },
+  "source_extraction_reused": true,
+  "counts": {
+    "lesson_files": 49,
+    "catalog_ids": 49,
+    "levels": 11,
+    "dependency_nodes_checked": 49,
+    "books": 20,
+    "valid_sources": 18,
+    "valid_pages": 4558
+  },
+  "outcome": "FAIL"
+}

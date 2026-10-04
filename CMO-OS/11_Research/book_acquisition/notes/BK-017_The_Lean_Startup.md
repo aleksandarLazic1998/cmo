@@ -272,14 +272,14 @@ Knjiga je secondary source za upravljanje inovacijom pod visokom neizvesnošću.
 ## CMO OS connections
 
 - Lessons 101–105 — evidence tags, source conflict, falsifiability, current-versus-historical i uncertainty.
-- Lessons 201–205 — problem, segment, behavior i customer outcome hypotheses.
-- Lessons 301–305 — MVP offer, price, promise, delivery i consent.
-- Lessons 401–405 — cohort funnel, acquisition source, retention i fulfilled/paid outcome.
-- Lessons 501–505 — innovation accounting reconciled sa profit, cash, working capital i unit economics.
-- Lessons 601–605 — small batches, WIP, pull, quality gate, incident/constraint i rollback.
-- Lessons 701–705 — cross-functional role, authority, incentive, just culture i learning transfer.
-- Lessons 801–805 — actionable metric definition, experiment lineage, guardrail i review cadence.
-- Lessons 901–905 — privacy/security, safety, accessibility, legal/professional validation i auditability.
+- Lessons 301–304 — problem, segment, behavior i customer outcome hypotheses.
+- Lessons 304, 401–404 — MVP offer, price, promise, delivery i consent.
+- Lessons 501–505 — cohort funnel, acquisition source, retention i fulfilled/paid outcome.
+- Lessons 201–205, 505 — innovation accounting reconciled sa profit, cash, working capital i unit economics.
+- Lessons 701–704 — small batches, WIP, pull, quality gate, incident/constraint i rollback.
+- Lessons 901–904 — cross-functional role, authority, incentive, just culture i learning transfer.
+- Lessons 801–804 — actionable metric definition, experiment lineage, guardrail i review cadence.
+- Lessons 206, 801–804, 902–904 — privacy/security, safety, accessibility, legal/professional validation i auditability.
 - Lessons 1001–1005 — innovation portfolio, runway, option value, pivot/stop/scale i post-decision learning.
 - `BKB-STR-001/002` — fragile assumption and decision-linked planning.
 - `BKB-OPS-001/003/005` — team evidence, total-system optimization and evolving standard.
