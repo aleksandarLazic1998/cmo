@@ -1,0 +1,50 @@
+{
+  "status": "PASS",
+  "checks": 11,
+  "results": [
+    {
+      "name": "Phone example",
+      "passed": true
+    },
+    {
+      "name": "Independent practice scenario",
+      "passed": true
+    },
+    {
+      "name": "Test scenario",
+      "passed": true
+    },
+    {
+      "name": "Zero revenue has undefined margin",
+      "passed": true
+    },
+    {
+      "name": "Zero sales",
+      "passed": true
+    },
+    {
+      "name": "Loss is negative",
+      "passed": true
+    },
+    {
+      "name": "Full score passes locally",
+      "passed": true
+    },
+    {
+      "name": "83.33 fails when one domain below minimum",
+      "passed": true
+    },
+    {
+      "name": "83.33 passes with domain minimums",
+      "passed": true
+    },
+    {
+      "name": "75 total fails despite domain minimums",
+      "passed": true
+    },
+    {
+      "name": "Practice hidden initially and questions precede example",
+      "passed": true
+    }
+  ]
+}

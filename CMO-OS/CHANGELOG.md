@@ -1,5 +1,12 @@
 # Changelog
 
+## Lesson 001 visual pilot — 2026-11-01
+
+- Dodat samostalni HTML sa mapom tokova, simulatorom prihoda i profita, vođenim primerom, praktičnim zadatkom i testom od 12 pitanja.
+- Usklađen mentor tok u canonical Lesson 001; pilot povezan iz lekcije i INDEX-a.
+- Simulator i grading provereni izvršnim testovima i u pregledaču; lokalni rezultat testa ne menja Learning Progress.
+- Ovo je pilot jedne lekcije; preostalih 48 lekcija i istorijski audit nisu prepisani. Nema novog čitanja knjiga ili objavljene web aplikacije.
+
 ## Repeatable audit and visual teaching workflow — 2026-11-01
 
 - ROADMAP više ne čuva fiksni lični lesson fokus; Lesson Template odvaja status sadržaja od studentskog completion-a.

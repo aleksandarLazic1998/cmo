@@ -143,6 +143,10 @@ Canonical prolaz zahteva najmanje 80/100, najmanje 15/25 u svakoj oblasti, demon
 
 Knjige su sekundarni izvori. Ova lekcija je originalna CMO OS sinteza i ne kopira dostavljene knjige.
 
+## Vizuelni pilot
+
+[Interaktivna Lekcija 001](../visuals/lesson-001/index.html) sadrži mapu tokova, simulator, vođeni primer, odvojenu samostalnu vežbu i lokalni test. Preuzmi HTML i otvori ga u pregledaču. Svi scenariji su `[FIXTURE]`; lokalni rezultat nije canonical assessment i ne menja Learning Progress.
+
 ## Lesson completion
 
 Status sadržaja: `AUTHORED`. `ACTIVE` označava izabrani fokus u `10_Daily/Learning_Progress.md`, a `COMPLETED` se upisuje tek posle potvrđenog assessment evidence-a. Izbor fokusa nije položen ispit.
@@ -153,4 +157,4 @@ Nakon potvrđenog testa, praktične primene i obrazložene odluke mentor ažurir
 
 ## Mentor instructions
 
-Koristi tok Teach → Explain → Example → Practice → Test → Feedback → Apply → Document. Sve brojke u ovoj lekciji su `[FIXTURE]`; ne predstavljaju stvarne Tehnocentar podatke. Ne upisuj napredak bez proverljivog evidence-a.
+Koristi tok kompletna teorija → pitanja i pojašnjenja → vođeni primeri → samostalne vežbe → test → feedback i ocena → potvrđen upis → sledeća lekcija. Sve brojke u ovoj lekciji su `[FIXTURE]`; ne predstavljaju stvarne Tehnocentar podatke. Ne upisuj napredak bez proverljivog evidence-a.

@@ -13,6 +13,10 @@ Status: `active`
 6. Posle većih promena pokreni `90_AI/skills/cmo-auditor/SKILL.md`.
 7. Za vizuelnu nastavu i izbor modela koristi `04_SOP/model_and_visual_workflow.md`; za ponovljivi audit `04_SOP/system_reaudit.md`.
 
+## Vizuelna nastava
+
+[Lesson 001 — interaktivni pilot](02_Lessons/visuals/lesson-001/index.html): samostalni HTML za otvaranje u pregledaču; lokalna provera, bez automatskog upisa napretka.
+
 ## Aktivni domeni
 
 | Putanja | Svrha |
