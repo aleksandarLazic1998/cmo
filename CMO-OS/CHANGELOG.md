@@ -1,5 +1,13 @@
 # Changelog
 
+## Repeatable audit and visual teaching workflow — 2026-11-01
+
+- ROADMAP više ne čuva fiksni lični lesson fokus; Lesson Template odvaja status sadržaja od studentskog completion-a.
+- Dodati SOP-ovi za ponovljivi audit i vizuelnu nastavu sa preporukama za dostupne modele; aktivirani kroz AGENTS i INDEX, uz ADR 008.
+- Izvršena documentary provera 49 lekcija, prerequisite grafa, source referenci i aktivnih Markdown linkova; posle izmena 1.411 assertions prolazi nad 144 aktivna dokumenta.
+- Sačuvani pinovani inventar, read-only runner, rezultati i audit ograničenja u `90_AI/audits/2026-11-01_system_recheck/`.
+- Model nije promenjen; nije izvršen nezavisan Astra audit, novo čitanje PDF korpusa ili frontend/runtime nadogradnja. Lični napredak i istorijski auditi sačuvani su.
+
 ## Personal instance and cloud knowledge base — 2026-10-04
 
 - Odobrene promene za ličnu CMO OS instancu objedinjene su uz pre-change arhive i audit trag.

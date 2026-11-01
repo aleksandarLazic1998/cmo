@@ -24,13 +24,11 @@ Difficulty:
 
 Beginner / Intermediate / Advanced
 
-Status:
+Content status:
 
-Not Started
+DRAFT / AUTHORED
 
-In Progress
-
-Completed
+Lični status, nastavna faza i završetak lekcije čuvaju se isključivo u `10_Daily/Learning_Progress.md`. Ovaj template ne čuva studentske rezultate.
 
 ---
 
@@ -358,19 +356,7 @@ Next Improvement:
 
 # 14. Lesson Completion
 
-Status:
-
-AUTHORED
-
-ACTIVE
-
-Completed
-
-Needs Review
-
-Completed Date:
-
-Next Recommended Lesson:
+Potvrđeni status, datum završetka i sledeći cilj upiši samo u `10_Daily/Learning_Progress.md`, nakon evidence gate-a. U lesson dokumentu ostaju samo sadržaj i kriterijumi prolaza.
 
 ---
 

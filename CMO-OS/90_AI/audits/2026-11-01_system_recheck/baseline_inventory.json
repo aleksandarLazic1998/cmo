@@ -1,0 +1,623 @@
+{
+  "baseline_commit": "823a08ea8abfa351c3ea9092b2f2753f863fb76b",
+  "existing_link_targets": [
+    "CMO-OS/02_Lessons/Level_0/Lesson_002_Kako_funkcionise_ceo_poslovni_sistem.md",
+    "CMO-OS/02_Lessons/Level_0/Lesson_003_Nacin_razmisljanja_vlasnika.md",
+    "CMO-OS/02_Lessons/Level_1/Lesson_101_Prihod_kolicina_i_prosecna_prodajna_cena.md",
+    "CMO-OS/02_Lessons/Level_1/Lesson_102_Fiksni_varijabilni_direktni_i_indirektni_troskovi.md",
+    "CMO-OS/02_Lessons/Level_1/Lesson_103_Bruto_profit_neto_profit_marza_i_markup.md",
+    "CMO-OS/02_Lessons/Level_1/Lesson_104_Cena_popust_volumen_i_profitni_trade_off.md",
+    "CMO-OS/02_Lessons/Level_1/Lesson_105_Break_even_i_contribution_margin.md",
+    "CMO-OS/02_Lessons/Level_2/Lesson_201_Bilans_uspeha.md",
+    "CMO-OS/02_Lessons/Level_2/Lesson_202_Bilans_stanja.md",
+    "CMO-OS/02_Lessons/Level_2/Lesson_203_Novcani_tok_i_zasto_profit_nije_gotovina.md",
+    "CMO-OS/02_Lessons/Level_2/Lesson_204_Obrtni_kapital_kupci_dobavljaci_i_zalihe.md",
+    "CMO-OS/02_Lessons/Level_2/Lesson_205_Unit_economics_ROI_i_payback.md",
+    "CMO-OS/02_Lessons/Level_2/Lesson_206_Budzet_vlasnika_porezi_i_pravna_forma_orijentacija.md",
+    "CMO-OS/02_Lessons/Level_3/Lesson_301_Problem_potreba_i_posao_koji_kupac_pokusava_da_obavi.md",
+    "CMO-OS/02_Lessons/Level_3/Lesson_302_Segment_kupaca_i_izbor_pocetnog_trzista.md",
+    "CMO-OS/02_Lessons/Level_3/Lesson_303_Razgovor_sa_kupcem_bez_sugestivnih_pitanja.md",
+    "CMO-OS/02_Lessons/Level_3/Lesson_304_Pretpostavka_MVP_eksperiment_i_validacija.md",
+    "CMO-OS/02_Lessons/Level_4/Lesson_401_Business_Model_Canvas_kao_mapa_sistema.md",
+    "CMO-OS/02_Lessons/Level_4/Lesson_402_Value_Proposition_problem_korist_i_dokaz.md",
+    "CMO-OS/02_Lessons/Level_4/Lesson_403_Positioning_i_alternativa_u_glavi_kupca.md",
+    "CMO-OS/02_Lessons/Level_4/Lesson_404_Dizajn_ponude_cena_i_smanjenje_rizika_kupca.md",
+    "CMO-OS/02_Lessons/Level_5/Lesson_501_Marketing_prodaja_i_brend_razlicite_uloge.md",
+    "CMO-OS/02_Lessons/Level_5/Lesson_502_Prodajni_funnel_i_kvalifikacija_kupca.md",
+    "CMO-OS/02_Lessons/Level_5/Lesson_503_Prodajni_razgovor_prigovor_pregovaranje_i_zatvaranje.md",
+    "CMO-OS/02_Lessons/Level_5/Lesson_504_Kanali_kampanje_konverzija_i_merenje.md",
+    "CMO-OS/02_Lessons/Level_5/Lesson_505_CAC_LTV_retention_i_profitabilan_rast.md",
+    "CMO-OS/02_Lessons/Level_6/Lesson_601_Retail_ekonomija_i_uloga_kategorije.md",
+    "CMO-OS/02_Lessons/Level_6/Lesson_602_Asortiman_sirina_dubina_i_Good_Better_Best.md",
+    "CMO-OS/02_Lessons/Level_6/Lesson_603_Zalihe_obrt_dostupnost_i_zastarevanje.md",
+    "CMO-OS/02_Lessons/Level_6/Lesson_604_Prosecna_korpa_attach_rate_cross_sell_upsell_i_bundle.md",
+    "CMO-OS/02_Lessons/Level_6/Lesson_605_Cena_promocija_PDV_kontekst_i_profitabilnost_kategorije.md",
+    "CMO-OS/02_Lessons/Level_7/Lesson_701_Proces_tok_rada_kapacitet_i_usko_grlo.md",
+    "CMO-OS/02_Lessons/Level_7/Lesson_702_Standardni_rad_SOP_kvalitet_i_greske.md",
+    "CMO-OS/02_Lessons/Level_7/Lesson_703_Delegiranje_procesa_kontrola_i_automatizacija.md",
+    "CMO-OS/02_Lessons/Level_7/Lesson_704_Firma_kao_sistem_koji_moze_raditi_bez_vlasnika.md",
+    "CMO-OS/02_Lessons/Level_8/Lesson_801_KPI_driver_outcome_target_i_guardrail.md",
+    "CMO-OS/02_Lessons/Level_8/Lesson_802_Budzet_forecast_i_scenario.md",
+    "CMO-OS/02_Lessons/Level_8/Lesson_803_Dashboard_odstupanje_i_root_cause_analiza.md",
+    "CMO-OS/02_Lessons/Level_8/Lesson_804_Poslovni_ritam_sastanci_odgovornost_i_korektivna_akcija.md",
+    "CMO-OS/02_Lessons/Level_9/Lesson_901_Uloga_rezultat_odgovornost_i_scorecard.md",
+    "CMO-OS/02_Lessons/Level_9/Lesson_902_Zaposljavanje_i_strukturisana_procena_kandidata.md",
+    "CMO-OS/02_Lessons/Level_9/Lesson_903_Delegiranje_leverage_i_menadzerski_output.md",
+    "CMO-OS/02_Lessons/Level_9/Lesson_904_Feedback_coaching_performance_i_teske_odluke.md",
+    "CMO-OS/02_Lessons/Level_10/Lesson_1001_Dobra_strategija_dijagnoza_vodeca_politika_i_povezane_akcije.md",
+    "CMO-OS/02_Lessons/Level_10/Lesson_1002_Konkurencija_prednost_fokus_i_trade_off.md",
+    "CMO-OS/02_Lessons/Level_10/Lesson_1003_Skaliranje_ljudi_strategije_izvrsenja_i_gotovine.md",
+    "CMO-OS/02_Lessons/Level_10/Lesson_1004_Rizik_capital_allocation_governance_i_odluke_CEO_a.md",
+    "CMO-OS/02_Lessons/Level_10/Lesson_1005_Integracioni_CEO_scenario.md",
+    "CMO-OS/90_AI/audits/2026-10-04_local_instance/AUDIT_REPORT.md",
+    "CMO-OS/90_AI/skills/cmo-auditor/references/audit-checklist.md",
+    "CMO-OS/90_AI/skills/cmo-core/references/routing.md",
+    "CMO-OS/90_AI/skills/cmo-core/references/moriarty-mentorship.md"
+  ],
+  "documents": [
+    {
+      "path": "CMO-OS/01_Knowledge/Business_Glossary.md",
+      "git_blob_sha": "4645cb1544a94093d37f29a62f7841c9c64237a0"
+    },
+    {
+      "path": "CMO-OS/01_Knowledge/Knowledge_Graph.md",
+      "git_blob_sha": "487df49d456a9bb740b42f98e9b6cb654f4e1ebe"
+    },
+    {
+      "path": "CMO-OS/01_Knowledge/Knowledge_Index.md",
+      "git_blob_sha": "e0941dc811c921157aff616be49e86baaf94ad1f"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/AUTHORED_CURRICULUM_INDEX.md",
+      "git_blob_sha": "7674e9a3e9c81cd170786b7ddf1e7100703652c1"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/LESSON_CATALOG.md",
+      "git_blob_sha": "cfb35d682631cbfc144f516f7a4a2cb6bf5e0edf"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_0/Lesson_001_How_a_Company_Makes_Money.md",
+      "git_blob_sha": "d726ff52f6c299e952fbeffe8ac884f8cf9accfe"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_0/Lesson_002_Kako_funkcionise_ceo_poslovni_sistem.md",
+      "git_blob_sha": "5edda855e491b0d52f2332c4b3f4e0d252ca540d"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_0/Lesson_003_Nacin_razmisljanja_vlasnika.md",
+      "git_blob_sha": "ff5b340d13268bb6f3cb1e8feda4c288ede1a6d6"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_1/Lesson_101_Prihod_kolicina_i_prosecna_prodajna_cena.md",
+      "git_blob_sha": "15dad70dc88036a493e6063e61a04e17678b52f8"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_1/Lesson_102_Fiksni_varijabilni_direktni_i_indirektni_troskovi.md",
+      "git_blob_sha": "64af379d62a703e064f77510e884d0fe794ac3d8"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_1/Lesson_103_Bruto_profit_neto_profit_marza_i_markup.md",
+      "git_blob_sha": "c4a4c6979bfd172826688d82dd456f3096b5f919"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_1/Lesson_104_Cena_popust_volumen_i_profitni_trade_off.md",
+      "git_blob_sha": "12cb1f4700be64728c8f768eb607ccc3e59d76ef"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_1/Lesson_105_Break_even_i_contribution_margin.md",
+      "git_blob_sha": "70fa9eee5eec6db9f0b736106b2afbea8a152451"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_10/Lesson_1001_Dobra_strategija_dijagnoza_vodeca_politika_i_povezane_akcije.md",
+      "git_blob_sha": "acf6ec38478b2015e433333e1ac10a67bb994f95"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_10/Lesson_1002_Konkurencija_prednost_fokus_i_trade_off.md",
+      "git_blob_sha": "37b0404f4a94901c8a67977ca770f29adccfa883"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_10/Lesson_1003_Skaliranje_ljudi_strategije_izvrsenja_i_gotovine.md",
+      "git_blob_sha": "b6311b0e25d5dbef14ebf84cd6d16155774bf2f1"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_10/Lesson_1004_Rizik_capital_allocation_governance_i_odluke_CEO_a.md",
+      "git_blob_sha": "1f19086efd145a80e369a0f6f5f3fbacba84f213"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_10/Lesson_1005_Integracioni_CEO_scenario.md",
+      "git_blob_sha": "3134a665f45843a5c7db69cdba17f3811f01f073"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_2/Lesson_201_Bilans_uspeha.md",
+      "git_blob_sha": "b77d97d585afb7eb3ed90d97714da1669bda38d2"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_2/Lesson_202_Bilans_stanja.md",
+      "git_blob_sha": "4b17db22c59e63287f0bcb62f3abf291cef47aa9"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_2/Lesson_203_Novcani_tok_i_zasto_profit_nije_gotovina.md",
+      "git_blob_sha": "1437dff49aca2ec1c5651c26c92a54acd38bebbc"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_2/Lesson_204_Obrtni_kapital_kupci_dobavljaci_i_zalihe.md",
+      "git_blob_sha": "e471c05c888891eea89fcf5e0c0c728bbaa13535"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_2/Lesson_205_Unit_economics_ROI_i_payback.md",
+      "git_blob_sha": "854d436ef71dfd571168400b20a71142885ded99"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_2/Lesson_206_Budzet_vlasnika_porezi_i_pravna_forma_orijentacija.md",
+      "git_blob_sha": "92774525b2ac467780976ec970603024db6d3444"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_3/Lesson_301_Problem_potreba_i_posao_koji_kupac_pokusava_da_obavi.md",
+      "git_blob_sha": "9c12ae5f6215bbef5e8f220ddd9b604f0d9adb2b"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_3/Lesson_302_Segment_kupaca_i_izbor_pocetnog_trzista.md",
+      "git_blob_sha": "fe4f02cca0326cba07c7a01491f0b80269b30584"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_3/Lesson_303_Razgovor_sa_kupcem_bez_sugestivnih_pitanja.md",
+      "git_blob_sha": "7bca03796616a10fde80aa2625c4099c214b7ef7"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_3/Lesson_304_Pretpostavka_MVP_eksperiment_i_validacija.md",
+      "git_blob_sha": "0d3d62900e608e7410969667a6a8bfbe85e2271f"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_4/Lesson_401_Business_Model_Canvas_kao_mapa_sistema.md",
+      "git_blob_sha": "521511927c89b03e9858e3a29c04186755ed1714"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_4/Lesson_402_Value_Proposition_problem_korist_i_dokaz.md",
+      "git_blob_sha": "e80d7d0cc5739fa6405364428d39c9d8ad65ab03"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_4/Lesson_403_Positioning_i_alternativa_u_glavi_kupca.md",
+      "git_blob_sha": "157db41a1e7a3666321b54e5a208669540ddfb69"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_4/Lesson_404_Dizajn_ponude_cena_i_smanjenje_rizika_kupca.md",
+      "git_blob_sha": "634c6551d23af5311f1a8863834240dd40e8091b"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_5/Lesson_501_Marketing_prodaja_i_brend_razlicite_uloge.md",
+      "git_blob_sha": "8fd11d35dfd4f29c44b580b8e4d2d878e6802f4f"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_5/Lesson_502_Prodajni_funnel_i_kvalifikacija_kupca.md",
+      "git_blob_sha": "3a88469002df0af1096e556b3193b471ec054dff"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_5/Lesson_503_Prodajni_razgovor_prigovor_pregovaranje_i_zatvaranje.md",
+      "git_blob_sha": "6f708ab73c912c4aa4165b7dc8ec4ad2d70394a5"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_5/Lesson_504_Kanali_kampanje_konverzija_i_merenje.md",
+      "git_blob_sha": "bcb4abd1ed76c0b1afc273591fb3e0fd7789a9d7"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_5/Lesson_505_CAC_LTV_retention_i_profitabilan_rast.md",
+      "git_blob_sha": "7b313e831da6cbd78798a7095da2cf671197258b"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_6/Lesson_601_Retail_ekonomija_i_uloga_kategorije.md",
+      "git_blob_sha": "78897e9bb2e2849f5a1ff00440b444ef5fd2710d"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_6/Lesson_602_Asortiman_sirina_dubina_i_Good_Better_Best.md",
+      "git_blob_sha": "3f0cca921476ee4915f9c6c41f0280c9770da449"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_6/Lesson_603_Zalihe_obrt_dostupnost_i_zastarevanje.md",
+      "git_blob_sha": "0a73d465f25e8e7c360bf458f76f03a098acf3af"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_6/Lesson_604_Prosecna_korpa_attach_rate_cross_sell_upsell_i_bundle.md",
+      "git_blob_sha": "689036f862a4648a542a0d4b109935c18a9d3052"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_6/Lesson_605_Cena_promocija_PDV_kontekst_i_profitabilnost_kategorije.md",
+      "git_blob_sha": "729147d22b73f6489ae5d73cbb6bcd07db2abb2d"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_7/Lesson_701_Proces_tok_rada_kapacitet_i_usko_grlo.md",
+      "git_blob_sha": "c4a34f83bdd906c7c5e200eb22f85c62c4f92dea"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_7/Lesson_702_Standardni_rad_SOP_kvalitet_i_greske.md",
+      "git_blob_sha": "578a6ed7c67ba59e791bb24bb3e4cad763f794a0"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_7/Lesson_703_Delegiranje_procesa_kontrola_i_automatizacija.md",
+      "git_blob_sha": "9addebe9d15a635e687de4cb33815f95f1115048"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_7/Lesson_704_Firma_kao_sistem_koji_moze_raditi_bez_vlasnika.md",
+      "git_blob_sha": "19ac4b5d09490c53881d3faf6de40d09114a5c2e"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_8/Lesson_801_KPI_driver_outcome_target_i_guardrail.md",
+      "git_blob_sha": "feba0109944cf648c319e6e7a51ccdc568e7e72e"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_8/Lesson_802_Budzet_forecast_i_scenario.md",
+      "git_blob_sha": "992da1583983a6c3ccb6fb9dffed9a124498577d"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_8/Lesson_803_Dashboard_odstupanje_i_root_cause_analiza.md",
+      "git_blob_sha": "52b1ed41afa841c28122c5522a2cec16cfde0c75"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_8/Lesson_804_Poslovni_ritam_sastanci_odgovornost_i_korektivna_akcija.md",
+      "git_blob_sha": "44f7a3ba3083c06b924d4c26f9e0651f0ed5366b"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_9/Lesson_901_Uloga_rezultat_odgovornost_i_scorecard.md",
+      "git_blob_sha": "55b7ae7ed503a14a7494389260ccf84cf25b8786"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_9/Lesson_902_Zaposljavanje_i_strukturisana_procena_kandidata.md",
+      "git_blob_sha": "59bdaef361e9e7dc9a7bc04833e79cdfabd44bab"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_9/Lesson_903_Delegiranje_leverage_i_menadzerski_output.md",
+      "git_blob_sha": "3407125abbf878c0b69e3df8c627d15daf528d06"
+    },
+    {
+      "path": "CMO-OS/02_Lessons/Level_9/Lesson_904_Feedback_coaching_performance_i_teske_odluke.md",
+      "git_blob_sha": "cf66def8474a4c415758714c8a990d772cc90bb9"
+    },
+    {
+      "path": "CMO-OS/04_SOP/change_discipline.md",
+      "git_blob_sha": "bf54cecc20af5fd5db757b1c463f3a3f19e6dfc9"
+    },
+    {
+      "path": "CMO-OS/04_SOP/conflict_resolution.md",
+      "git_blob_sha": "f2efcd2e06ea4c73498de0f448a11c430efc4663"
+    },
+    {
+      "path": "CMO-OS/04_SOP/evidence_discipline.md",
+      "git_blob_sha": "0761d29515cb6fea2719f055faf3ee8a43645f3e"
+    },
+    {
+      "path": "CMO-OS/04_SOP/full_book_acquisition.md",
+      "git_blob_sha": "34cc3770c6dfa2e51a7df61095f025551a2f376a"
+    },
+    {
+      "path": "CMO-OS/04_SOP/lesson_lifecycle.md",
+      "git_blob_sha": "ad122513df55a80787cb93d9e7e4dadc78333188"
+    },
+    {
+      "path": "CMO-OS/05_KPI/CMO_Dashboard.md",
+      "git_blob_sha": "546f618c821d3df4d3346b4f6db8720d2bbf6abc"
+    },
+    {
+      "path": "CMO-OS/09_Company/Tehnocentar/competitors.md",
+      "git_blob_sha": "5edce4a70302de7f498584190767609c10525ce9"
+    },
+    {
+      "path": "CMO-OS/09_Company/Tehnocentar/customers.md",
+      "git_blob_sha": "a111f0d0ecc0bfd14a34592ce100ea375dfe1cd5"
+    },
+    {
+      "path": "CMO-OS/09_Company/Tehnocentar/financials.md",
+      "git_blob_sha": "708fb8751ed5323f984afae8a0b865b392ad01f7"
+    },
+    {
+      "path": "CMO-OS/09_Company/Tehnocentar/open_questions.md",
+      "git_blob_sha": "3118c208702b8cc2f83465277d08d337c48e292e"
+    },
+    {
+      "path": "CMO-OS/09_Company/Tehnocentar/operations.md",
+      "git_blob_sha": "70aef9154c46cd213b411d2f8249f56d88b8348d"
+    },
+    {
+      "path": "CMO-OS/09_Company/Tehnocentar/overview.md",
+      "git_blob_sha": "069efbe41044f8e1a0e59aa4ef2419f718ff0133"
+    },
+    {
+      "path": "CMO-OS/09_Company/Tehnocentar/products.md",
+      "git_blob_sha": "d5fc582694f39b808700aff23feee39897ab7d51"
+    },
+    {
+      "path": "CMO-OS/10_Daily/Learning_Progress.md",
+      "git_blob_sha": "4bbd5cd15795c72221bbd01f7fb76cc494607c29"
+    },
+    {
+      "path": "CMO-OS/11_Research/Book_Knowledge_Base.md",
+      "git_blob_sha": "7c0cb0376900fedcd2801433fe37663ba61c81c1"
+    },
+    {
+      "path": "CMO-OS/11_Research/Book_Source_Map.md",
+      "git_blob_sha": "a0d66bc357b33ce27f00329c7986009da1a0603e"
+    },
+    {
+      "path": "CMO-OS/11_Research/Knowledge_Base_Index.md",
+      "git_blob_sha": "7c4c39a0b015a9a61d4270b477abfded98e72893"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/Book_Reading_Ledger.md",
+      "git_blob_sha": "b0bfd6fda72268925011fb275c1147761d95a913"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-001_coverage.md",
+      "git_blob_sha": "4ec766d1906fa626dbe1ddaa802d143503557b30"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-002_coverage.md",
+      "git_blob_sha": "cf218cf8fdb9db392e90ab2b7c905fafa0ff4e9b"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-003_coverage.md",
+      "git_blob_sha": "5a97b7a7a1377b6b3d9052212f6b1b68167ebe48"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-004_coverage.md",
+      "git_blob_sha": "60ff7f06f4bc70bfb709abfc85975bcd022371c1"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-005_coverage.md",
+      "git_blob_sha": "2feccf1b3fe8687e37aaf8e6e4ce4c808aa6d174"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-006_coverage.md",
+      "git_blob_sha": "09bb90436a2fed89f7deaee50c2479a06562bdc5"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-007_coverage.md",
+      "git_blob_sha": "64c733aedad491fe6df918a377c976db1cc6fb42"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-008_coverage.md",
+      "git_blob_sha": "c61471e3289555d802a0bcaccdbdb5ad7c7d75e3"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-009_coverage.md",
+      "git_blob_sha": "9ac1e7c3d94ddc887eec6d95c4cc9fde7e9c3a57"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-010_coverage.md",
+      "git_blob_sha": "6bff4097edc476118738bf87731d497f12993e9d"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-011_coverage.md",
+      "git_blob_sha": "765fa58dd50c483950ccf4d3d0cf90a58aa27221"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-012_coverage.md",
+      "git_blob_sha": "f2d70c775da5d9116d69d854bea7a2fe80bd6984"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-013_coverage.md",
+      "git_blob_sha": "00c2697a8fef5475a8f016aaa754b2a0ba5df63d"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-014_coverage.md",
+      "git_blob_sha": "94a9a6c73af4cb42d4aebe89325127c71c8b8b4b"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-015_coverage.md",
+      "git_blob_sha": "6751b67590f524efb7407b64367328b90d7dfdc2"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-016_coverage.md",
+      "git_blob_sha": "781f51a193e345e7dfb839fde28d689f65b59165"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-017_coverage.md",
+      "git_blob_sha": "d3affa74f59069079c7d9d076ad6d68bbe8f7686"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/coverage/BK-018_coverage.md",
+      "git_blob_sha": "3fba4db7f4f77862791d46c653c1a68cec593cca"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-001_The_48_Laws_of_Power.md",
+      "git_blob_sha": "1e0c4a1576eb57c91e69f6b80eae5ec71242ad26"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-002_100M_Offers.md",
+      "git_blob_sha": "c726ee8cc659ddb7038992e4e76ff2213c4407f3"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-003_The_Lost_Chapter.md",
+      "git_blob_sha": "57a76d4df082df6ce4b51925c8cc5e5eee2d6db7"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-004_Built_to_Sell.md",
+      "git_blob_sha": "a353ecbffc002f845b22de3f6ae24cee8ee7c30a"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-005_The_E-Myth_Revisited.md",
+      "git_blob_sha": "9196cb5b6ca8a815efb1a975edc52b276ac3539d"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-006_Financial_Intelligence.md",
+      "git_blob_sha": "7560d7c32436d18cab72a1370c25211c561be3ae"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-007_Good_Strategy_Bad_Strategy.md",
+      "git_blob_sha": "edd2220962102c49d9b7985c9f16f18c0d49f747"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-008_High_Output_Management.md",
+      "git_blob_sha": "a3e3ae40433029c94e44d1781f811a7d18686eb0"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-009_Obviously_Awesome.md",
+      "git_blob_sha": "bbd49014c000cd57d21b7524cd12434d2fc098e3"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-010_Profit_First.md",
+      "git_blob_sha": "263a1e50ceb2f1134213cdb415772c2569f81a3e"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-011_Scaling_Up.md",
+      "git_blob_sha": "7bb97d2c660db07ba2bb6fbc7db7bcbd408352d7"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-012_The_Goal.md",
+      "git_blob_sha": "1755fd216e61757ab014afa44c4dc7cbee968125"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-013_The_Mom_Test.md",
+      "git_blob_sha": "c2f6d76ab60f910584a7dc1766109e3444c9b826"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-014_The_Personal_MBA.md",
+      "git_blob_sha": "4cfa83dd20b6b919a67387bcd038c42095e5201b"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-015_Who.md",
+      "git_blob_sha": "b94f0a9492eefae510ce427d7da621e5fb50a49f"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-016_Business_Model_Generation.md",
+      "git_blob_sha": "21ac6c4795d8634b989d49f608866ff46a16fabb"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-017_The_Lean_Startup.md",
+      "git_blob_sha": "4d358a48ef62613f459b4fd6f71b5320087b3005"
+    },
+    {
+      "path": "CMO-OS/11_Research/book_acquisition/notes/BK-018_Value_Proposition_Design.md",
+      "git_blob_sha": "f9988bb9445b89ff9cd4de8c23f60c081101f8ce"
+    },
+    {
+      "path": "CMO-OS/13_Decisions/business/Decision_Log.md",
+      "git_blob_sha": "fc142fd1eede8e7de38458c2e899b5da96773a96"
+    },
+    {
+      "path": "CMO-OS/13_Decisions/system/2026-08-17_ADR_001_domain_authority.md",
+      "git_blob_sha": "85033afbaa6f358d1f569c8472a6c31f24fa9eda"
+    },
+    {
+      "path": "CMO-OS/13_Decisions/system/2026-08-17_ADR_002_plugin_architecture.md",
+      "git_blob_sha": "bbbd65d199bc83213d8d0921da0ede4af604c4ea"
+    },
+    {
+      "path": "CMO-OS/13_Decisions/system/2026-08-18_ADR_003_knowledge_graph.md",
+      "git_blob_sha": "118c8694a47ed636dabf5449ab2b9001e6f2027e"
+    },
+    {
+      "path": "CMO-OS/13_Decisions/system/2026-08-22_ADR_004_authored_vs_active_lessons.md",
+      "git_blob_sha": "90f4c4042303a0df1d0f2fdfd3deb8a47b21623c"
+    },
+    {
+      "path": "CMO-OS/13_Decisions/system/2026-08-23_ADR_005_moriarty_mentorship_layer.md",
+      "git_blob_sha": "1bf3019da117c61959439af1fcff578bbde8d820"
+    },
+    {
+      "path": "CMO-OS/13_Decisions/system/2026-08-23_ADR_006_full_book_corpus_acquisition.md",
+      "git_blob_sha": "045aa85a30e0b154b458e863953f31bc087eace3"
+    },
+    {
+      "path": "CMO-OS/13_Decisions/system/2026-10-04_ADR_007_personal_instance_and_teaching_sequence.md",
+      "git_blob_sha": "878d603f7dd847f2429c9b3543283543e7fdb9d4"
+    },
+    {
+      "path": "CMO-OS/90_AI/PLUGIN_REGISTRY.md",
+      "git_blob_sha": "14d1e02aec031c6057765704eb8bf8a225c39f65"
+    },
+    {
+      "path": "CMO-OS/90_AI/evals/SCENARIO_01_financial_product_analysis.md",
+      "git_blob_sha": "4de489ac98b61c0694de494e0ea173e9fe67ee7d"
+    },
+    {
+      "path": "CMO-OS/90_AI/evals/SCENARIO_02_kpi_root_cause.md",
+      "git_blob_sha": "28ac0f957e20c75a993c4271dad1fbb7160498b5"
+    },
+    {
+      "path": "CMO-OS/90_AI/evals/SCENARIO_03_customer_competition_research.md",
+      "git_blob_sha": "8d10a62a3e65d4182b955bf62133e680fbb44fbf"
+    },
+    {
+      "path": "CMO-OS/90_AI/integrations/figma.md",
+      "git_blob_sha": "65a3da0869faf1c68bab2cb70c4fb09b9c826c0c"
+    },
+    {
+      "path": "CMO-OS/90_AI/integrations/posthog.md",
+      "git_blob_sha": "f583fd37286197e4db2ea329ab5de57b3b53dff8"
+    },
+    {
+      "path": "CMO-OS/90_AI/skills/cmo-auditor/SKILL.md",
+      "git_blob_sha": "a98fda717fed9335d31e1516b12f4ed9b62e8363"
+    },
+    {
+      "path": "CMO-OS/90_AI/skills/cmo-auditor/references/audit-checklist.md",
+      "git_blob_sha": "ff2f6f8497c19e43a2f3f5f41e61bc7542aecec0"
+    },
+    {
+      "path": "CMO-OS/90_AI/skills/cmo-core/SKILL.md",
+      "git_blob_sha": "6e2e0f957932b02107058a667a08ab32172916f8"
+    },
+    {
+      "path": "CMO-OS/90_AI/skills/cmo-core/references/moriarty-mentorship.md",
+      "git_blob_sha": "9cc670b1c5d1eab239bef4a343b3f513f9162b7a"
+    },
+    {
+      "path": "CMO-OS/90_AI/skills/cmo-core/references/routing.md",
+      "git_blob_sha": "5d6094b8d39dc7e7da4c646619a18707b409a21c"
+    },
+    {
+      "path": "CMO-OS/99_Templates/Business_Case_Template.md",
+      "git_blob_sha": "366f563733e5a6f3c008953b3f33dd741bba812b"
+    },
+    {
+      "path": "CMO-OS/99_Templates/Decision_Template.md",
+      "git_blob_sha": "725b59a8baf084a0587cad44b9e3d78e9d2d3e82"
+    },
+    {
+      "path": "CMO-OS/99_Templates/KPI_Definition_Template.md",
+      "git_blob_sha": "997dc5cc57748fd2fdbfe6f0e9bacfd32e976838"
+    },
+    {
+      "path": "CMO-OS/99_Templates/Learning_Progress_TEMPLATE.md",
+      "git_blob_sha": "c6046849a620327340ca4693ab034ff03c19d2e4"
+    },
+    {
+      "path": "CMO-OS/99_Templates/Lesson_Template.md",
+      "git_blob_sha": "94702b91ddf496998040dc4cb1ac3e1f923e78b4"
+    },
+    {
+      "path": "CMO-OS/99_Templates/Meeting_Template.md",
+      "git_blob_sha": "fd168cb4fbf35f890b4e72938db7d594d0bd9ca9"
+    },
+    {
+      "path": "CMO-OS/99_Templates/Research_Template.md",
+      "git_blob_sha": "8276a641f34e829093e7a5a6c72583ed06316975"
+    },
+    {
+      "path": "CMO-OS/AGENTS.md",
+      "git_blob_sha": "ec98b1fa7fbbf65ba7d5793dd5f68cc13a8b7436"
+    },
+    {
+      "path": "CMO-OS/AUTHORITY.md",
+      "git_blob_sha": "bea3477e57a0d275a6b827ad14f6649bd5a48573"
+    },
+    {
+      "path": "CMO-OS/CHANGELOG.md",
+      "git_blob_sha": "a7242926a8ea3e22928eaffda2a67b79ccb955ea"
+    },
+    {
+      "path": "CMO-OS/CLAUDE.md",
+      "git_blob_sha": "4f54013faffba04ac2590ee823e3f79a458ea2e1"
+    },
+    {
+      "path": "CMO-OS/INDEX.md",
+      "git_blob_sha": "96db2af345daf43d4e31863b1d31dc90bc2276bd"
+    },
+    {
+      "path": "CMO-OS/README.md",
+      "git_blob_sha": "7ff65fb1cd05d70d4a1829487f0a6ce8567b677a"
+    },
+    {
+      "path": "CMO-OS/ROADMAP.md",
+      "git_blob_sha": "8836f50d4b48fe34325d1d3b59f3ddae571cc173"
+    }
+  ]
+}

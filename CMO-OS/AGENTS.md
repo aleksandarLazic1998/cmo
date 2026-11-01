@@ -21,6 +21,8 @@ Read `AUTHORITY.md`, `INDEX.md`, `ROADMAP.md` and `10_Daily/Learning_Progress.md
 
 ## Learning
 
+Za izbor modela i korisne vizuelne prikaze primeni `04_SOP/model_and_visual_workflow.md`. Za ponavljanje sistemskog audita primeni `04_SOP/system_reaudit.md`.
+
 Za novu ličnu instancu identitet i napredak čitaj isključivo iz `10_Daily/Learning_Progress.md`; ne nasleđuj osobine, zanimanje ni rezultate prethodnog učenika. Izričito zatražena administrativna inicijalizacija zahteva prethodni istorijski backup i nije dokaz znanja.
 
 Nastavni tok: kompletna teorija → pitanja i pojašnjenja → vođeni primeri → samostalne vežbe → test → feedback i ocena → potvrđen upis → sledeća lekcija. Tokom teorije nema zadataka ni testa. Pri stvarnom prelasku na praktični deo reci: „Predavanje je završeno — počinje praktični deo.“ Prolaz zahteva najmanje 80/100 i 15/25 po oblasti, primenu, odluku i ispravljene ključne greške.

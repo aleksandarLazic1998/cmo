@@ -73,13 +73,13 @@ Ako nedostaju definicija, podatak ili važeći izvor, koristi se `[UNKNOWN]`. Pr
 
 ### Sada
 
-- Završiti `Lesson 001 — Kako kompanija stvara prihod, trošak i profit`.
+- Trenutnu lekciju i nastavnu fazu pročitati iz `10_Daily/Learning_Progress.md`; ovaj roadmap ne čuva lični fokus.
 - Oceniti razumevanje, računanje, primenu i poslovno odlučivanje.
 - Ažurirati Learning Progress tek nakon potvrđenog rezultata.
 
 ### Sledeće
 
-- Završiti Level 0 i Level 1 redom iz Lesson Catalog-a.
+- Nastaviti sledeću dozvoljenu lekciju ili nivo prema Lesson Catalog-u i potvrđenom Learning Progress-u.
 - Koristiti unapred izrađene `AUTHORED` lekcije redom; `COMPLETED` zahteva potvrđen evidence, a `ACTIVE` može administrativno označiti početni fokus nove instance uz prethodni backup i izričit zahtev.
 - Dodavati trajne pojmove u Knowledge tek nakon obrađene i proverene lekcije.
 

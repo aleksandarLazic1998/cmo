@@ -11,6 +11,7 @@ Status: `active`
 4. Povezanost znanja proveri u `01_Knowledge/Knowledge_Graph.md`; redosled lekcija u `02_Lessons/LESSON_CATALOG.md`, a knjišku bazu znanja otvori kroz `11_Research/Knowledge_Base_Index.md`.
 5. Pre većih promena koristi `04_SOP/change_discipline.md`.
 6. Posle većih promena pokreni `90_AI/skills/cmo-auditor/SKILL.md`.
+7. Za vizuelnu nastavu i izbor modela koristi `04_SOP/model_and_visual_workflow.md`; za ponovljivi audit `04_SOP/system_reaudit.md`.
 
 ## Aktivni domeni
 
