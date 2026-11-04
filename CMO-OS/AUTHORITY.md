@@ -2,7 +2,7 @@
 
 System version: `CMO-OS 2.0.0`  
 Status: `active`  
-Last verified: `2026-08-17`
+Last verified: `2026-11-04`
 
 ## Pravilo autoriteta
 
@@ -31,7 +31,8 @@ Autoritet je vezan za domen, ne za linearnu hijerarhiju fajlova. Dokument je aut
 | Eksperimenti | `14_Experiments/` | Hipoteza, test i rezultat; nije zamena za Projects. |
 | Analitički snapshot-i | `15_Analytics/` | Izvor, period, query/metod i quality status. |
 | Template-i | `99_Templates/` | Struktura; nikad live state. |
-| Istorijski materijal | `_archive/` | Nije aktivni autoritet. |
+| Aplikacioni kod (AI mentor) | `apps/mentor/` | Izvršni sloj nad canonical sadržajem; nije source of truth za curriculum, izvore ni napredak. Operativna baza sesija je pomoćna evidencija (ADR 009). |
+| Istorijski materijal | `_archive/` | Nije aktivni autoritet. Automatski backup-i Learning Progress-a pre upisa idu u `_archive/learning_progress_backups/`. |
 
 ## Projects pravilo
 
@@ -39,4 +40,4 @@ Ne postoji automatska zamena za v1 `11_Projects/`. Novi sadržaj se klasifikuje 
 
 ## Evidence oznake
 
-Materijalne tvrdnje koriste `[FACT]`, `[INFERENCE]`, `[ASSUMPTION]` ili `[UNKNOWN]`. Numerički FACT mora imati izvor, period i jedinicu.
+Materijalne tvrdnje koriste `[FACT]`, `[INFERENCE]`, `[ASSUMPTION]` ili `[UNKNOWN]`; izmišljeni nastavni ili simulacioni podaci koriste `[FIXTURE]` i nikada ne ulaze u business truth. Numerički FACT mora imati izvor, period i jedinicu.

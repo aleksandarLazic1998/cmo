@@ -15,7 +15,7 @@ Izbor je preporuka prema zadatku, ne obećanje dostupnosti ili automatskog preba
 | Provera čitljivosti prikaza, vizuelni input i manja UI poboljšanja | GPT-6.1 Terra ili dostupan model sa odgovarajućim alatima |
 | Uska, ponovljiva provera ili jednostavna klasifikacija | GPT-6 Luna, uz proveru rezultata |
 
-Pre upotrebe proveri stvarni model selector, plan, tools i limite. Ne tvrdi da je Astra radila audit ako nije stvarno korišćena. Čitanje ovog SOP-a ne menja aktivni model niti konfiguraciju naloga. Ne uvodi API pozive, plaćene kredite, automatsko rutiranje ili nove servise samo radi promene modela.
+U Claude okruženju (Claude Code, claude.ai) važi isti princip: koristi model koji je stvarno dostupan i ne tvrdi koji model je radio bez dokaza. AI mentor aplikacija bira model kroz `MENTOR_AI_MODEL` na serveru. Pre upotrebe proveri stvarni model selector, plan, tools i limite. Ne tvrdi da je Astra radila audit ako nije stvarno korišćena. Čitanje ovog SOP-a ne menja aktivni model niti konfiguraciju naloga. Ne uvodi API pozive, plaćene kredite, automatsko rutiranje ili nove servise samo radi promene modela.
 
 Odvojeni kritički prolaz nije automatski nezavisna provera. Kada jedan model radi oba prolaza, to jasno navedi; nezavisna druga procena zahteva zasebno izvršen pregled.
 
@@ -34,7 +34,7 @@ Zadrži ceo postojeći tok: teorija → pitanja → vođeni primeri → samostal
 
 ## Application upgrade gate
 
-Ovaj SOP aktivira način rada dokumentarnog CMO OS-a. Nije implementacija web aplikacije. Pre izmene postojeće učionice pronađi stvarni source projekat, njegove instrukcije i build/QA tok. Postojeći repo `aleksandarLazic1998/cmo` na auditiranom baseline-u nema `package.json`, lockfile ni izvorni frontend aplikacije.
+Ovaj SOP aktivira način rada dokumentarnog CMO OS-a. Nije implementacija web aplikacije. Pre izmene postojeće učionice pronađi stvarni source projekat, njegove instrukcije i build/QA tok. Na baseline-u od 2026-11-01 repo `aleksandarLazic1998/cmo` nije imao `package.json`, lockfile ni izvorni frontend. Od 2026-11-04 aplikacioni source postoji u `apps/mentor/` sa sopstvenim build/test tokom (ADR 009); izmene učionice idu tamo.
 
 Pilot počinje jednom lesson vizualizacijom, zatim proverom matematičke tačnosti, nastavne faze i prikaza na tabletu. Tek nakon uspešnog pilota proširuj na sledeće teme; ne označavaj svih 49 lekcija kao vizuelno nadograđene bez provere svake.
 

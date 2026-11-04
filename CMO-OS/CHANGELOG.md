@@ -1,5 +1,14 @@
 # Changelog
 
+## AI mentor application — 2026-11-04
+
+- Dodata lokalna aplikacija `apps/mentor/` (Next.js, TypeScript, Zod, `node:sqlite`) sa Morijarti mentorom za Lesson 001: teorija iz canonical lekcije, višekružni razgovor, vođeni primer sa simulatorom, samostalna praksa i procena sa novim `[FIXTURE]` scenarijima, povratna informacija sa pogrešnim predstavama, nedostajućim vezama, sokratskim potpitanjima, oznakama dokaza i proverenim izvorima.
+- Server-side state machine sprečava preskakanje faza; račun, prerequisite i prolaz (80/100, 15/25 po oblasti, ispravljene ključne greške) proveravaju se deterministički; AI rubrika je ograničena i nikada nije jedini dokaz.
+- Zamenljiv provider (Claude API ili mock), konfigurabilan model, timeout, limiti i `.env.example` bez tajni; zaštita od prompt injection-a.
+- Trajne sesije, odgovori, pokušaji, pogrešne predstave i raspored ponavljanja u operativnoj bazi; kanonski upis u Learning Progress samo uz potvrdu, backup, validaciju i atomaran upis — podrazumevano isključen (ADR 009).
+- Usklađene instrukcije: `[FIXTURE]` dodat u CLAUDE, AUTHORITY, README i evidence SOP; AUTHORITY dobio domen aplikacionog koda i lokaciju backup-a; zastarela tvrdnja o odsustvu aplikacije u vizuelnom SOP-u pretvorena u datiranu činjenicu; lesson lifecycle upućuje na ADR 009.
+- Testovi: 65 Vitest provera i 26 browser E2E provera prolaze sa mock providerom. Stvarni AI poziv nije izvršen jer u okruženju nema kredencijala. Learning Progress, curriculum, knjige i istorijski auditi nisu menjani.
+
 ## Lesson 001 visual pilot — 2026-11-01
 
 - Dodat samostalni HTML sa mapom tokova, simulatorom prihoda i profita, vođenim primerom, praktičnim zadatkom i testom od 12 pitanja.

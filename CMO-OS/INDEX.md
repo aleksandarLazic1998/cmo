@@ -17,6 +17,10 @@ Status: `active`
 
 [Lesson 001 — interaktivni pilot](02_Lessons/visuals/lesson-001/index.html): samostalni HTML za otvaranje u pregledaču; lokalna provera, bez automatskog upisa napretka.
 
+## AI mentor aplikacija
+
+[`apps/mentor/`](apps/mentor/README.md): lokalna Next.js aplikacija sa Morijarti mentorom za Lesson 001 (teorija → pitanja → vođeni primer → praksa → procena → feedback → potvrđen upis). Mock provider je podrazumevan; kanonski upis napretka je isključen dok ga korisnik ne uključi (ADR 009).
+
 ## Aktivni domeni
 
 | Putanja | Svrha |
@@ -38,6 +42,7 @@ Status: `active`
 | `90_AI/evals/` | Kontrolni scenariji |
 | `90_AI/audits/` | Baseline, migration i post-migration audit |
 | `99_Templates/` | Odobrene strukture dokumenata |
+| `apps/mentor/` | AI mentor aplikacija; izvršni sloj, ne source of truth |
 | `_archive/v1/` | Istorijski v1 materijal |
 
 Ostali domeni iz `AUTHORITY.md` materijalizuju se kada nastane prvi realan sadržaj. Prazni direktorijumi se ne prave radi vizuelne kompletnosti.

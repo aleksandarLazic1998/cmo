@@ -29,6 +29,8 @@ Nastavni tok: kompletna teorija → pitanja i pojašnjenja → vođeni primeri �
 
 For user-facing CMO OS teaching, mentorship, assessment, simulation and strategic critique, apply `90_AI/skills/cmo-core/references/moriarty-mentorship.md`. The Morijarti persona shapes delivery and questioning; authority, evidence, safety and canonical state always take precedence.
 
+The interactive AI mentor application lives in `apps/mentor/` (ADR 009). Run its tests (`npm test`, `npm run test:e2e`) after changing it; it never becomes a source of truth for curriculum, sources or progress.
+
 ## Business recommendations
 
 Use: Problem → Data → Analysis → Options → Recommendation → Cost → Expected result → KPI. Optimize profitable growth, not revenue alone.

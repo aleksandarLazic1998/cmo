@@ -12,7 +12,7 @@ Razviti sposobnost da korisnik razume kupca, ekonomiku poslovanja, operacije i s
 ## Osnovna pravila
 
 - `AUTHORITY.md` određuje canonical domen prema vrsti tvrdnje.
-- `[FACT]`, `[INFERENCE]`, `[ASSUMPTION]` i `[UNKNOWN]` se ne mešaju.
+- `[FACT]`, `[INFERENCE]`, `[ASSUMPTION]`, `[UNKNOWN]` i `[FIXTURE]` se ne mešaju.
 - Company podaci se ne izmišljaju.
 - Template nije live state; arhiva nije aktivni autoritet.
 - Eksterni alat je izvor ili izvršilac, ne source of truth.
@@ -25,15 +25,19 @@ Otvori `INDEX.md`. Za learning session koristi `ROADMAP.md` i `10_Daily/Learning
 ## Aktivna struktura
 
 ```text
-AUTHORITY.md / INDEX.md / CLAUDE.md / CHANGELOG.md
+AUTHORITY.md / INDEX.md / AGENTS.md / CLAUDE.md / ROADMAP.md / CHANGELOG.md
+01_Knowledge/
+02_Lessons/            (49 lekcija + visuals/lesson-001)
 04_SOP/
+05_KPI/
 09_Company/Tehnocentar/
 10_Daily/
-13_Decisions/system/
-90_AI/skills/
-90_AI/audits/
+11_Research/
+13_Decisions/
+90_AI/skills/ · 90_AI/audits/ · 90_AI/evals/ · 90_AI/integrations/
 99_Templates/
-_archive/v1/
+apps/mentor/           (AI mentor aplikacija, ADR 009)
+_archive/
 ```
 
 Canonical domeni koji još nemaju realan sadržaj opisani su u `AUTHORITY.md` i ne postoje kao prazna dekorativna struktura.

@@ -3,7 +3,7 @@
 Status: `active`
 
 1. Identifikuj tvrdnju i njen canonical domen.
-2. Obeleži je kao `[FACT]`, `[INFERENCE]`, `[ASSUMPTION]` ili `[UNKNOWN]`.
+2. Obeleži je kao `[FACT]`, `[INFERENCE]`, `[ASSUMPTION]`, `[UNKNOWN]` ili `[FIXTURE]` (izmišljen nastavni/simulacioni podatak).
 3. FACT-u dodaj izvor i datum/period; brojci dodaj jedinicu i grain.
 4. INFERENCE-u navedi činjenice iz kojih sledi.
 5. ASSUMPTION-u navedi kako se može proveriti.

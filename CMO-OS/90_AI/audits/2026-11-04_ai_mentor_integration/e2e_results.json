@@ -1,0 +1,110 @@
+{
+  "status": "PASS",
+  "checks": 26,
+  "results": [
+    {
+      "name": "dashboard shows 49 lessons",
+      "passed": true
+    },
+    {
+      "name": "lesson 002 locked initially",
+      "passed": true
+    },
+    {
+      "name": "theory shows canonical text",
+      "passed": true
+    },
+    {
+      "name": "theory has no task or solution",
+      "passed": true
+    },
+    {
+      "name": "chat closed during theory",
+      "passed": true
+    },
+    {
+      "name": "API refuses stage skip (409)",
+      "passed": true
+    },
+    {
+      "name": "API refuses forged confirmation (409)",
+      "passed": true
+    },
+    {
+      "name": "cross-origin POST refused (403)",
+      "passed": true
+    },
+    {
+      "name": "mentor replied in multi-turn chat",
+      "passed": true
+    },
+    {
+      "name": "injection in chat answered without effect",
+      "passed": true
+    },
+    {
+      "name": "calculator recomputes",
+      "passed": true
+    },
+    {
+      "name": "assessment button disabled before practice",
+      "passed": true
+    },
+    {
+      "name": "state survives restart (practice feedback persisted)",
+      "passed": true
+    },
+    {
+      "name": "chat history survives restart",
+      "passed": true
+    },
+    {
+      "name": "chat closed during assessment",
+      "passed": true
+    },
+    {
+      "name": "assessment scenario differs from practice",
+      "passed": true
+    },
+    {
+      "name": "key error fails the gate",
+      "passed": true
+    },
+    {
+      "name": "confirm disabled until typed",
+      "passed": true
+    },
+    {
+      "name": "canonical progress written",
+      "passed": true
+    },
+    {
+      "name": "backup created",
+      "passed": true
+    },
+    {
+      "name": "lesson 002 unlocked after confirmation",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow on dashboard at 375px",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow on lesson at 375px",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow on dashboard at 768px",
+      "passed": true
+    },
+    {
+      "name": "no horizontal overflow on lesson at 768px",
+      "passed": true
+    },
+    {
+      "name": "no unexpected browser console errors (deliberate 403/409 bypass probes excluded)",
+      "passed": true
+    }
+  ]
+}
