@@ -67,11 +67,11 @@ Akcija cilja verovatni driver, ne simptom.
 
 Za jedno odstupanje napravi issue tree sa tri hipoteze, potrebnim podacima, testom i kriterijumom odluke.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Dashboard signalizira odstupanje, a root-cause analiza traži uzrok.
 2. Pad u primeru je 4 procentna poena uz rast low-margin miksa od 20 pp.

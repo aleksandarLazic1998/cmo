@@ -17,6 +17,22 @@ Contribution margin pokazuje koliko jedna prodaja ostavlja za pokriće fiksnih t
 
 Break-even nije cilj rasta; to je granica bez profita i gubitka u datim pretpostavkama. Promena cene, troška ili miksa pomera tu granicu.
 
+### Zašto je ovo važno vlasniku
+
+Pre uvođenja nove usluge ili zapošljavanja vlasnik mora znati koliko prodaje je potrebno samo da ne izgubi novac.
+
+### Na tabli `[FIXTURE]`
+
+Montaža TV nosača naplaćuje se 4.000 RSD; materijal i prevoz koštaju 1.500 RSD, pa je doprinos 2.500 RSD. Fiksni mesečni troškovi tehničara i vozila su 200.000 RSD. Break-even = 200.000 ÷ 2.500 = 80 montaža. Uz plan od 100 montaža margin of safety je (100 − 80) ÷ 100 × 100 = 20%.
+
+### Sa čim se meša
+
+Break-even nije cilj; rezultat na toj tački je nula. Break-even u komadima nije isto što i dovoljno gotovine, jer naplata i plaćanje mogu kasniti (Level 2).
+
+### Veza sa drugim lekcijama
+
+Lekcija spaja Lesson 102 (fiksni i varijabilni troškovi) i Lesson 104 (doprinos). Level 2 dodaje gotovinu i vreme.
+
 ## Visual model
 
 1. Cena − varijabilni trošak → 2. Doprinos po jedinici → 3. Fiksni trošak ÷ doprinos → 4. Break-even količina
@@ -68,11 +84,11 @@ Izračunaj break-even ako varijabilni trošak poraste na 3.500 RSD. Kolika proda
 
 **Rešenje za proveru:** Doprinos pada na 8.000 − 3.500 = 4.500 RSD. Break-even = 250.000 ÷ 4.500 = 55,6 → 56 usluga. Za 20% margin of safety prodaja mora biti 55,6 ÷ 0,8 = 69,4 → 70 usluga.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Break-even količina je fiksni trošak podeljen doprinosom po jedinici.
 2. Break-even u primeru je 50 usluga.

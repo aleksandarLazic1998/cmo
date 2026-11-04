@@ -70,7 +70,7 @@ try {
   page.on('console', (m) => { if (m.type() === 'error') consoleErrors.push(m.text()); });
   await page.goto(BASE);
   await page.getByText('Dobro došao').waitFor();
-  check('dashboard shows 49 lessons', (await page.locator('.lessons li').count()) === 49);
+  check('dashboard shows 54 lessons', (await page.locator('.lessons li').count()) === 54);
   check('lesson 002 locked initially', (await page.locator('.lessons li').nth(1).innerText()).includes('Zaključano'));
   if (shots) await page.screenshot({ path: path.join(shots, '01-dashboard.png'), fullPage: true });
 

@@ -67,11 +67,11 @@ Vrednost je vezana za poslovni kontinuitet.
 
 Prepiši jednu funkcionalnu poruku u formu: za koga, u kojoj situaciji, koji napredak, protiv koje alternative i koji dokaz.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Value proposition povezuje važan posao kupca, korist i dokaz.
 2. U primeru oporavak smanjuje simuliranu izloženost sa 24 na najviše 12 radnih sati.

@@ -1,5 +1,15 @@
 # Changelog
 
+## Curriculum expansion and level gates — 2026-11-04
+
+- Odobreno od korisnika (ADR 010): katalog 49 → 54 lekcije sa novim lekcijama 606 (nabavka i distributeri), 607 (postprodaja i reklamacije), 805 (kvalitet odluke pod neizvesnošću), 905 (organizaciona struktura) i 1006 (etika i usklađenost); Lesson 1005 sada traži 1006. Curriculum version `2026.11-expanded`.
+- Dodato 10 gate scenarija nivoa (Level 0–9) sa `[FIXTURE]` slučajem, zadacima u četiri oblasti, ključem za mentora i istim pragom prolaza.
+- Šablon lekcije dobio minimum dubine teorije; teorija Lesson 002, 003 i 101–105 proširena bez brisanja originalnog teksta.
+- U svih 49 postojećih lekcija uklonjeno upućivanje na nepostojeći automatski test u aplikaciji; vežba Lesson 002 dobila `[FIXTURE]` alternativu.
+- ADR 009 razrešen: app assessment je odobren kao dokaz; `.env.example` predlaže uključen kanonski upis uz sve postojeće zaštite.
+- Slike stranica knjiga u `tmp/pdfs/` zadržane kao izvorni korpus mentora, po odluci vlasnika.
+- Provere: documentary runner 1.636/1.636, pilot 11/11, Vitest 65 (1 preskočen), E2E 26/26. Learning Progress, Knowledge Graph, knjige i istorijski auditi nisu menjani.
+
 ## Moriarty pedagogy and curriculum audit — 2026-11-04
 
 - Dodat pedagoški protokol u Morijarti specifikaciju: neocenjeno prisećanje na početku sesije, teorija u celinama sa pauzom za pitanja, lestvica pomoći pre rešenja, drugačija objašnjenja, postepeno povlačenje vođenja, feedback cilj → stanje → sledeći korak, primena uz odluku, proverljive preduzetničke navike i granica AI pomoći. Redosled nastave i autoritet nisu menjani.

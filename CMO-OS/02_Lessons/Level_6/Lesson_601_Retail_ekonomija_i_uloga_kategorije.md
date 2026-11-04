@@ -66,11 +66,11 @@ Uloga se meri ukupnim doprinosom, ne samo maržom jedne SKU.
 
 Za tri kategorije odredi ulogu, kupca, KPI, profitnu polugu, supplier driver i guardrail.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Uloga kategorije može biti saobraćaj, profit, poverenje ili strateška veza.
 2. Ukupan bruto profit pre bonusa u primeru je 720.000 RSD.

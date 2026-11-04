@@ -1,6 +1,6 @@
 # Curriculum migration proposal
 
-Status: `PROPOSED — awaiting user approval`
+Status: `APPROVED 2026-11-04 and implemented (ADR 010); P5 = option A; Knowledge Graph nodes not pre-added per its rule 1`
 Date: 2026-11-04
 Pravilo: postojeći ID-jevi lekcija i potvrđeni napredak se ne menjaju. Trenutni potvrđeni napredak: nijedna završena lekcija (Learning Progress, 2026-10-04), pa nijedna predložena izmena ne poništava potvrđen rezultat.
 

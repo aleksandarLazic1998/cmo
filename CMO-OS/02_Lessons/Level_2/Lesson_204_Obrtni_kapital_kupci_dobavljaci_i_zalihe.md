@@ -68,11 +68,11 @@ Izračunaj CCC ako se zaliha skrati za 10 dana, a dobavljač traži 5 dana ranij
 
 **Rešenje za proveru:** Zaliha 45 − 10 = 35 dana; naplata ostaje 20 dana; plaćanje dobavljaču 30 − 5 = 25 dana. CCC = 35 + 20 − 25 = 30 dana, dakle 5 dana bolje nego pre — ali je ranije plaćanje pojelo deo koristi od kraće zalihe.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Cash conversion cycle povezuje dane zalihe, naplate i plaćanja.
 2. Ciklus u primeru je 35 dana.

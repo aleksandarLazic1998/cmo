@@ -67,11 +67,11 @@ Kupac poredi ponudu prema ishodu, ne samo satnici.
 
 Napiši pet elemenata positioninga za jednu ponudu i proveri da li konkurentska alternativa uključuje i „ne uraditi ništa“.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Positioning objašnjava alternativu, razliku, vrednost, segment i kategoriju.
 2. U primeru je sačuvano 10 sati, dok je novčana vrednost [UNKNOWN].

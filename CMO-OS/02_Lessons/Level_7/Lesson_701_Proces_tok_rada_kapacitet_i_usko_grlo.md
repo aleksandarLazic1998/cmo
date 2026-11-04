@@ -68,11 +68,11 @@ Manje reda i realniji rok kupcu.
 
 Mapiraj pet koraka procesa, kapacitet, vreme čekanja, WIP i najverovatnije usko grlo. Predloži test bez dodatnog zapošljavanja.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Usko grlo određuje maksimalni protok celog procesa.
 2. Kapacitet sistema u primeru je 12 uređaja dnevno.

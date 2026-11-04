@@ -2,7 +2,7 @@
 
 status: `AUTHORED`  
 level: `10 — Strategija, skaliranje i CEO razmišljanje`  
-prerequisite: `1004`  
+prerequisite: `1006`  
 evidence_mode: `[FIXTURE]`
 
 > `AUTHORED` znači da sadržaj postoji i auditiran je za učenje. Ne znači `ACTIVE` ili `COMPLETED`; personal learning state postoji samo u `10_Daily/Learning_Progress.md`.
@@ -67,11 +67,11 @@ Pilot testira kupca, ekonomiku i kapacitet pre nepovratnog skaliranja.
 
 Napiši CEO memo: Problem → Data → Analysis → Options → Recommendation → Cost → Expected result → KPI, sa `[UNKNOWN]` stavkama i stop uslovom.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. CEO scenario povezuje kupca, finansije, operacije, ljude, rizik i strategiju.
 2. Pilot mesečno daje 45.000 RSD posle navedenog fiksnog troška i koristi 60 od 75 raspoloživih sati; tri meseca daju 135.000 RSD na istim pretpostavkama.

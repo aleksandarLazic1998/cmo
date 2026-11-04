@@ -66,11 +66,11 @@ Tražnja je dovoljno jaka za sledeći, skuplji test — ne još za potpuno skali
 
 Napiši najrizičniju pretpostavku, najmanji test, metriku, prag uspeha, stop uslov i sledeću odluku.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. MVP služi učenju o rizičnoj pretpostavci uz unapred definisan kriterijum.
 2. Stopa rezervacije u primeru je 26%, iznad praga 20%.

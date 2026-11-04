@@ -67,11 +67,11 @@ Jasnija poruka, kanal i kriterijum validacije.
 
 Definiši tri moguća segmenta. Oceni ih 1–5 po jačini problema, pristupačnosti, budžetu, konkurenciji i fitu.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Dobar segment deli situaciju, problem, ponašanje i kriterijum odluke.
 2. U simulaciji je stopa problema 75% u računovodstvenim biroima.

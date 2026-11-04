@@ -68,11 +68,11 @@ Prikaži efekat naplate kupca od 100.000 RSD na potraživanja i gotovinu. Objasn
 
 **Rešenje za proveru:** Naplata smanjuje potraživanja za 100.000 RSD i povećava gotovinu za 100.000 RSD. Ukupna imovina se ne menja jer je jedna imovina zamenjena drugom; obaveze i kapital ostaju isti, pa bilans i dalje štima.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Bilans stanja prikazuje imovinu, obaveze i kapital na određeni dan.
 2. Kupovina zaliha na odloženo povećava i imovinu i obaveze za 300.000 RSD.

@@ -27,7 +27,7 @@ Otvori `INDEX.md`. Za learning session koristi `ROADMAP.md` i `10_Daily/Learning
 ```text
 AUTHORITY.md / INDEX.md / AGENTS.md / CLAUDE.md / ROADMAP.md / CHANGELOG.md
 01_Knowledge/
-02_Lessons/            (49 lekcija + visuals/lesson-001)
+02_Lessons/            (54 lekcije, gate scenariji nivoa, visuals/lesson-001)
 04_SOP/
 05_KPI/
 09_Company/Tehnocentar/

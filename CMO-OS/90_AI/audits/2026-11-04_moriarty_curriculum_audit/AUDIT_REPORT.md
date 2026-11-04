@@ -91,3 +91,7 @@ Rezultati su u `checks.json` u ovom folderu.
 - Puni tekstovi istraživačkih radova (čitani sažeci i stranice izdavača).
 - Datumi primene novog Zakona o zaštiti potrošača u Službenom glasniku.
 - Push na GitHub i pull request (403).
+
+## Follow-up — 2026-11-04
+
+Korisnik je odobrio predloge P1–P5 i ADR 009. Implementacija i provere: `90_AI/audits/2026-11-04_curriculum_expansion/AUDIT_REPORT.md`. Odluka o `tmp/pdfs/`: zadržava se kao izvorni korpus za mentora (odluka vlasnika).

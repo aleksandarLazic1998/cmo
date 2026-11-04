@@ -66,11 +66,11 @@ Osoba dobija fer priliku, a odluka se zasniva na evidence-u.
 
 Napiši feedback poruku po modelu situacija–ponašanje–uticaj–očekivanje i četvoronedeljni plan sa podrškom i dokazom.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Dobar feedback je konkretan, vezan za ponašanje, uticaj i očekivanje.
 2. Stopa kašnjenja u primeru je 66,7%.

@@ -26,7 +26,7 @@ Status: `active`
 | Putanja | Svrha |
 |---|---|
 | `01_Knowledge/Knowledge_Graph.md` | Čvorovi i veze između trajnih poslovnih koncepata |
-| `02_Lessons/LESSON_CATALOG.md` | Planiran redosled 49 lekcija; nije live progress |
+| `02_Lessons/LESSON_CATALOG.md` | Planiran redosled 54 lekcije i gate scenariji nivoa; nije live progress |
 | `04_SOP/` | Operativne procedure |
 | `11_Research/Book_Source_Map.md` | Mapa sekundarnih knjiških izvora i ograničenja |
 | `11_Research/book_acquisition/Book_Reading_Ledger.md` | Full-corpus reading status, page coverage i audit evidence |

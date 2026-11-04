@@ -67,11 +67,11 @@ Kapital se ne bira samo po većem nominalnom ROI-ju.
 
 Napravi investment memo za dve opcije: problem, evidence, base/up/down scenario, cash, rizik, owner, decision right i post-audit datum.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Capital allocation poredi povrat, likvidnost, rizik, vreme i strateški fit.
 2. Posle A ostaje 200.000 RSD, što je 300.000 ispod minimalne rezerve; posle B ostaje 600.000 RSD, odnosno 100.000 iznad nje.

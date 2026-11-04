@@ -73,11 +73,11 @@ Izračunaj reorder point, višak zbog MOQ-a i cash izloženost za jedan SKU. Dod
 
 **Rešenje za proveru:** Reorder point = 30 + 10 = 40 komada; zasebni plan porudžbine je 30, pa MOQ 50 znači 20 komada više od plana. Ne oduzimaj prag od količine porudžbine. Cash izloženost ostaje `[UNKNOWN]` dok se ne unese nabavna cena po komadu. Uz pad prodaje 30% (7 komada nedeljno) potražnja tokom lead time-a je 21, reorder point 31, a nova serija od 50 komada sama pokriva oko 7,1 nedelju prodaje umesto 5 (bez prethodne zalihe) — rizik zastarevanja raste.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Zaliha balansira dostupnost, gotovinu i rizik zastarevanja.
 2. Reorder point je prag od 40 komada; plan porudžbine 30 i MOQ 50 zasebno daju količinu od 50, odnosno 20 iznad plana.

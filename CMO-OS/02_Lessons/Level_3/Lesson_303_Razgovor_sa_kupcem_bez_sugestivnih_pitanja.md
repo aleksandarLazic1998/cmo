@@ -66,11 +66,11 @@ Manje lažne sigurnosti, više podataka za eksperiment.
 
 Prepravi pet pitanja koja počinju sa „da li biste“ u pitanja o poslednjem stvarnom ponašanju.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Razgovor treba da istražuje prošlo ponašanje i konkretne događaje.
 2. U primeru su relevantna 4 odlaganja i 2 plaćena servisa, ne 9 komplimenata.

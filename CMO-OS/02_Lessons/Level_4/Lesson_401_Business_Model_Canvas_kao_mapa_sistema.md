@@ -68,11 +68,11 @@ Canvas otkriva da profit zavisi od učestalosti zahteva, ne samo broja pretplata
 
 Popuni devet blokova za jednu ideju i crveno označi tri najrizičnije veze između blokova.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Canvas mapira devet povezanih pretpostavki poslovnog modela.
 2. U primeru 20 klijenata daje 160.000 RSD prihoda i prosečno 4 sata kapaciteta po klijentu.

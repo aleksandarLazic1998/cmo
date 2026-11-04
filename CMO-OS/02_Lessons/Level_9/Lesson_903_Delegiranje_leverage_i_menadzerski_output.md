@@ -66,11 +66,11 @@ Menadžer ulaže u sposobnost tima umesto trajnog popravljanja.
 
 Izaberi jedan ponovljeni problem i uporedi tri opcije: lično uradi, delegiraj sa brief-om, izgradi standard/trening.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Menadžerski output obuhvata rezultat tima i sistema, ne samo lični rad.
 2. Trening u primeru vraća uloženo vreme za manje od jedne nedelje.

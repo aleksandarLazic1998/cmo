@@ -68,11 +68,11 @@ Izračunaj payback ako doprinos padne 25%. Napiši dve pretpostavke koje bi prvo
 
 **Rešenje za proveru:** Doprinos pada sa 75.000 na 56.250 RSD mesečno. Payback = 600.000 ÷ 56.250 = 10,7 meseci umesto 8. Primeri pretpostavki za validaciju: da tražnja ostaje na projektovanom nivou i da doprinos po jedinici ne pada dalje zbog popusta ili rasta troška.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. ROI i payback odgovaraju na različita pitanja o povratu.
 2. U baznom primeru payback je 8 meseci, a jednostavni jednogodišnji ROI 50%.

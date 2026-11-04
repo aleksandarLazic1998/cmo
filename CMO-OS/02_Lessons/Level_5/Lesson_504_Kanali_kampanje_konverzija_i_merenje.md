@@ -67,11 +67,11 @@ Optimizacija prelazi sa jeftinog lead-a na kvalitetan poslovni ishod.
 
 Napravi campaign brief sa ciljem, segmentom, porukom, ponudom, budžetom, KPI-jem, guardrail-om i pravilom odluke.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Kampanja povezuje cilj, publiku, poruku, kanal, budžet i merljiv ishod.
 2. Trošak po kupcu je 10.000 RSD za A i 8.000 RSD za B.

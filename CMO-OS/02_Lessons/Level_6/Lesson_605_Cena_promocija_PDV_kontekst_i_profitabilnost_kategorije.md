@@ -67,11 +67,11 @@ Promocija ne zavisi od nepotvrđenog dobavljačkog novca.
 
 Napravi promo P&L sa baznim, lošijim i boljim scenarijem; odvoji potvrđene stavke od `[UNKNOWN]` rebate-a i PDV tretmana.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Promo rezultat uključuje cenu, doprinos, kampanju, kanibalizaciju i samo potvrđene bonuse.
 2. Uslovni efekat bez rebate-a je 60.000 RSD na zadatoj simuliranoj osnovi; stvarni konačni profit je [UNKNOWN] do provere PDV-a i ostalih isključenih stavki.

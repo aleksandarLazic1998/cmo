@@ -1,7 +1,7 @@
 # ADR 009 — AI Mentor Application
 
 Date: `2026-11-04`
-Status: `accepted for implementation; canonical writes disabled by default`
+Status: `accepted; app assessment approved as evidence by the user on 2026-11-04`
 
 ## Context
 
@@ -26,6 +26,6 @@ Status: `accepted for implementation; canonical writes disabled by default`
 
 Curriculum, knjige, istorijski auditi i postojeći napredak ostaju nepromenjeni. Mock provider omogućava automatske testove bez API troška i nikada se ne predstavlja kao AI. Interaktivna procena postoji samo za Lesson 001; ostale lekcije su vidljive i zaključavaju se prema canonical napretku, ali nemaju interaktivni mentor dok se ne implementiraju i provere. Aplikacija je lokalna i jednokorisnička; javno objavljivanje zahteva autentifikaciju i zasebnu odluku.
 
-## Open question for the user
+## Resolution — 2026-11-04
 
-Da li odobravaš da app assessment (uz gornje uslove) bude dovoljan dokaz za upis `COMPLETED` u Learning Progress? Dok ne odobriš, ostavi `MENTOR_CANONICAL_WRITES=false`; potvrđeni rezultat se čuva kao pending predlog.
+[FACT] Korisnik je odgovorio „odobravam sve“ na pitanje da li app assessment pod navedenim uslovima sme biti dokaz za `COMPLETED`. Posledica: `.env.example` sada predlaže `MENTOR_CANONICAL_WRITES=true`. Kod i dalje podrazumeva `false` kada promenljiva nije podešena, tako da upis ostaje svesna konfiguracija. Svi ostali uslovi (položen pokušaj, „POTVRĐUJEM“, backup, validacija, atomaran upis) ostaju obavezni.

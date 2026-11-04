@@ -67,11 +67,11 @@ Uloga ima jasne ishode i zaštitu od agresivne prodaje.
 
 Napiši scorecard: misija u jednoj rečenici, četiri ishoda, dve kompetencije, tri decision right-a i jedan guardrail.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Uloga se definiše kroz ishode, standarde i decision rights.
 2. Target od 25% na 80 prilika znači 20 dobijenih.

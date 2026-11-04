@@ -66,11 +66,11 @@ Kvalitet i učenje postaju deo procesa.
 
 Napiši SOP od najviše 10 koraka za jedan proces: okidač, input, koraci, owner, kvalitet, evidence i exception.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. SOP standardizuje ponovljiv proces sa owner-om, kontrolama i evidence-om.
 2. FPY u primeru raste sa 88% na 97%, uz 9.000 RSD izbegnute dorade.

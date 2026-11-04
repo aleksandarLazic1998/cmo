@@ -68,11 +68,11 @@ Izračunaj CAC, LTV i payback za bazni i lošiji retention scenario. Odredi stop
 
 **Rešenje za proveru:** Bazni scenario: CAC 10.000 RSD, LTV 8 × 4.000 = 32.000 RSD, LTV:CAC = 3,2, payback 2,5 meseca. Lošiji retention od 5 meseci: LTV 20.000 RSD, LTV:CAC = 2,0, payback ostaje 2,5 meseca. Primer stop uslova: zaustaviti povećanje budžeta kada LTV:CAC na potvrđenim kohortama padne ispod 3.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Profitabilan rast povezuje CAC, LTV, retention, payback i kapacitet.
 2. U primeru su CAC 10.000 RSD, LTV 32.000 RSD i payback 2,5 meseca.

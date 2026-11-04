@@ -67,11 +67,11 @@ Veći GP uz jasan izbor kupca.
 
 Za jednu glavnu kupovinu osmisli relevantan cross-sell, upsell i bundle. Za svaki navedi vrednost, GP i etički guardrail.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Attach rate meri udeo glavnih kupovina sa dodatkom.
 2. Cilj u primeru je 35% attach i 16.000 RSD dodatnog GP-a.

@@ -29,7 +29,7 @@ Razvoj: `npm run dev`.
 | `MENTOR_AI_FALLBACKS` | `default` | Server-side fallback pri odbijanju (Claude API beta); `off` isključuje. |
 | `MENTOR_AI_RATE_LIMIT_PER_MIN` | `20` | AI poziva u minuti po procesu. |
 | `MENTOR_DB_PATH` | `./data/mentor.db` | Operativna baza (pomoćna evidencija, van gita). |
-| `MENTOR_CANONICAL_WRITES` | `false` | `true` dozvoljava upis u `10_Daily/Learning_Progress.md` posle potvrde. |
+| `MENTOR_CANONICAL_WRITES` | `false` u kodu, `true` u `.env.example` | `true` dozvoljava upis u `10_Daily/Learning_Progress.md` posle potvrde (odobreno, ADR 009). |
 | `CMO_OS_ROOT` | auto | Folder sa `AUTHORITY.md`. |
 
 ## Testovi

@@ -66,11 +66,11 @@ Skalira se stabilan sistem, ne stopa greške.
 
 Oceni People, Strategy, Execution i Cash od 1–5 uz dokaz. Izaberi najkritičniji constraint i jedan 30-dnevni test.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Skaliranje zahteva dokazanu ekonomiku, proces, ljude i gotovinu.
 2. Pri istom kvalitetu reklamacije u primeru rastu sa 10 na 20 i trošak na 60.000 RSD.

@@ -66,11 +66,11 @@ Odsustvo postaje test sistema, ne kriza.
 
 Napravi sedmodnevni owner-dependency audit: sve odluke, razlog čekanja, rizik, budući owner i potreban standard.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Owner independence znači da rutinski sistem ne zavisi od stalne intervencije vlasnika.
 2. Zavisnost u primeru pada sa 70% na 15%.

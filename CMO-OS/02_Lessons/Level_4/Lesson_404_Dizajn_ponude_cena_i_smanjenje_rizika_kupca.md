@@ -67,11 +67,11 @@ Rizik kupca pada, a ekonomika ostaje vidljiva.
 
 Dizajniraj tri nivoa ponude. Za svaki napiši rezultat, scope, dokaz, cenu, direktni trošak i mehanizam smanjenja rizika.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Ponuda povezuje rezultat, scope, dokaz, cenu, uslove i rizik kupca.
 2. Očekivani doprinos u primeru je 2.250 RSD po instalaciji.

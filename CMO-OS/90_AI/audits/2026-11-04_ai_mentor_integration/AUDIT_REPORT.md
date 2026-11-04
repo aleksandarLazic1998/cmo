@@ -36,3 +36,8 @@ User-requested AI mentor application under `apps/mentor/` (ADR 009), plus instru
 - Medium, open: free-text domains depend on an AI rubric; in mock mode they are keyword heuristics and must not be presented as AI judgement (UI and responses are labelled `[MOCK]`).
 - Low, open: root `Readme.md` contains a prompt for another learner's instance, not a project README; `Books/MORIJARTI-48/README.md` contains an absolute local path.
 - Low, open: app has no authentication; safe only on 127.0.0.1.
+
+## Follow-up — 2026-11-04
+
+- High finding (app assessment as evidence): resolved, user approved (ADR 009 resolution).
+- Medium finding (`tmp/pdfs/`): closed as owner-accepted; images are retained as the mentor's source corpus.

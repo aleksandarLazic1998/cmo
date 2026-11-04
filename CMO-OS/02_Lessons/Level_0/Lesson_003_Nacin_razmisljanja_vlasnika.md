@@ -17,6 +17,33 @@ Vlasnik ne meri uspeh brojem poruka, sastanaka ili sati rada, već rezultatom ko
 
 Dobro vlasničko razmišljanje gleda i drugu posledicu: šta odluka donosi danas, koji rizik uvodi sutra i da li firma postaje jača ili zavisnija.
 
+### Zašto je ovo važno vlasniku
+
+Vlasnik ima ograničeno vreme i novac. Ako meri aktivnost, firma može biti veoma zauzeta, a da ne napreduje.
+
+### Četiri pitanja vlasnika
+
+1. Koji rezultat želim i kako ću ga izmeriti?
+2. Koje opcije imam, uključujući opciju da ne uradim ništa?
+3. Šta svaka opcija košta, uključujući propuštenu korist najbolje alternative?
+4. Šta može poći naopako i da li se odluka lako poništava?
+
+### Na tabli `[FIXTURE]`
+
+Vlasnik bira: 8 sati lično pakuje porudžbine ili 8 sati piše uputstvo po kojem zaposleni pakuje. Danas pakovanje donosi više isporuka; uputstvo u narednim nedeljama oslobađa vlasnikovo vreme. Propuštena korist prve opcije je vreme koje bi uputstvo uštedelo.
+
+### Povratne i nepovratne odluke
+
+Odluka koju lako poništiš, na primer probna cena tokom jedne nedelje, može se doneti brže i uz manje podataka. Odluka koju teško poništiš, na primer dugačak zakup ili velika zaliha jednog modela, traži više dokaza i proveru najgoreg ishoda.
+
+### Sa čim se meša
+
+Vlasničko razmišljanje nije isto što i raditi sve sam. Vlasnik odgovara za rezultat; ne mora lično da obavi svaki zadatak.
+
+### Veza sa drugim lekcijama
+
+Lesson 002 pokazuje sistem. Ova lekcija uči kako izabrati gde uložiti ograničene resurse. Level 1 daje brojeve kojima se taj izbor proverava.
+
 ## Visual model
 
 1. Cilj → 2. Opcije i rizici → 3. Odluka → 4. Rezultat i učenje
@@ -67,11 +94,11 @@ Manje aktivnosti danas, veća sposobnost konverzije sutra.
 
 Za tri jučerašnje aktivnosti napiši: očekivani ishod, stvarni ishod, rizik i šta si mogao da uradiš umesto toga.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Vlasničko razmišljanje razdvaja aktivnost, ishod, rizik i dugoročnu posledicu.
 2. Ako ponuda nije spremna, 20 leadova ne garantuje nijednu pouzdano zatvorenu prodaju.
