@@ -1,5 +1,11 @@
 # Changelog
 
+## Moriarty pedagogy and curriculum audit — 2026-11-04
+
+- Dodat pedagoški protokol u Morijarti specifikaciju: neocenjeno prisećanje na početku sesije, teorija u celinama sa pauzom za pitanja, lestvica pomoći pre rešenja, drugačija objašnjenja, postepeno povlačenje vođenja, feedback cilj → stanje → sledeći korak, primena uz odluku, proverljive preduzetničke navike i granica AI pomoći. Redosled nastave i autoritet nisu menjani.
+- Nova istraživačka beleška `11_Research/Learning_Science_Evidence.md` sa 12 izvora proverenih 2026-11-04, tipom dokaza i ograničenjima; nov eval scenario za pedagogiju (definisan, nije izvršen).
+- Audit kurikuluma sa verdict-om `REVISE`: kratka teorija u lekcijama, nenapisani gate scenariji nivoa, rupe u nabavci, postprodaji, odlučivanju pod neizvesnošću, organizaciji i etici. Predlog migracije čeka odobrenje; katalog, lekcije i Learning Progress nisu menjani.
+
 ## AI mentor application — 2026-11-04
 
 - Dodata lokalna aplikacija `apps/mentor/` (Next.js, TypeScript, Zod, `node:sqlite`) sa Morijarti mentorom za Lesson 001: teorija iz canonical lekcije, višekružni razgovor, vođeni primer sa simulatorom, samostalna praksa i procena sa novim `[FIXTURE]` scenarijima, povratna informacija sa pogrešnim predstavama, nedostajućim vezama, sokratskim potpitanjima, oznakama dokaza i proverenim izvorima.
