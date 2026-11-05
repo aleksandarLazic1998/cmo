@@ -1,5 +1,11 @@
 # Changelog
 
+## Lesson 001 interactive Claude Artifact — 2026-11-05
+
+- Dodata interaktivna stranica `02_Lessons/visuals/lesson-001-mentor/index.html`, objavljena kao privatni Claude Artifact: teorija sa mapom tokova i mostom rezultata, razgovor sa Morijartijem, simulator, samostalna praksa sa novim `[FIXTURE]` brojevima, brza provera razumevanja, procena u četiri oblasti, remedijacija i povratna informacija.
+- Morijarti radi preko ugrađene `sample` mogućnosti claude.ai, bez API ključa; račun, ključne greške i prolaz proverava stranica deterministički (ista logika kao `apps/mentor`).
+- Pokušaji se čuvaju u bazi artefakta sa pristupom samo za vlasnika; Learning Progress se ažurira tek kada Claude pročita zapis, ponovo proveri uslove i korisnik potvrdi.
+
 ## Theory expansion and verified corpus locators — 2026-11-05
 
 - Teorija proširena u još 41 lekciji po standardu iz šablona (zašto je važno, `[FIXTURE]` primer, sa čim se meša, veza, lokator iz korpusa); ukupno 10.647 reči u „Teach & explain“ umesto 2.477. Originalni tekst sačuvan.

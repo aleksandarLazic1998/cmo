@@ -17,6 +17,8 @@ Status: `active`
 
 [Lesson 001 — interaktivni pilot](02_Lessons/visuals/lesson-001/index.html): samostalni HTML za otvaranje u pregledaču; lokalna provera, bez automatskog upisa napretka.
 
+[Lesson 001 sa Morijartijem — Claude Artifact](02_Lessons/visuals/lesson-001-mentor/index.html): interaktivna verzija za claude.ai (objavljena privatno: https://claude.ai/artifact/5R36n18xNULsv3AnSUYBU6). Morijarti odgovara i ocenjuje slobodan tekst bez API ključa; račun i prolaz proverava stranica; pokušaji se čuvaju u zapisu artefakta i u Learning Progress ulaze tek posle provere i potvrde u razgovoru.
+
 ## AI mentor aplikacija
 
 [`apps/mentor/`](apps/mentor/README.md): lokalna Next.js aplikacija sa Morijarti mentorom za Lesson 001 (teorija → pitanja → vođeni primer → praksa → procena → feedback → potvrđen upis). Mock provider je podrazumevan; kanonski upis napretka je isključen dok ga korisnik ne uključi (ADR 009).
