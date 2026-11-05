@@ -17,6 +17,26 @@ Marketing stvara i usmerava pažnju, prodaja pomaže kupcu da proceni fit i done
 
 Kampanja ne može trajno nadoknaditi lošu isporuku; prodaja ne sme obećati ono što operacije ne mogu da ispune; brend pamti tu razliku.
 
+### Zašto je ovo važno vlasniku
+
+Kada marketing obeća jedno, prodaja kaže drugo, a isporuka uradi treće, firma plaća pažnju koju zatim pretvara u razočaranje.
+
+### Na tabli `[FIXTURE]`
+
+Kampanja obećava „isporuku za 24 sata“. Prodavac zna da je to tačno samo za modele na stanju, a magacin ima zalihu za polovinu ponude. Jedna zajednička metrika za sve tri uloge mogla bi biti „procenat porudžbina isporučenih u obećanom roku“.
+
+### Sa čim se meša
+
+Brend nije logo; to je očekivanje koje nastaje iz poruke i iskustva. Prodaja nije pritisak, već pomoć kupcu da proceni da li ponuda odgovara.
+
+### Veza sa drugim lekcijama
+
+Koristi Level 4; Lesson 502 meri tok kupaca, Lesson 504 kanale.
+
+### Iz korpusa
+
+BK-014 pp. 114–139 (od pažnje do reputacije) provereni u tekstu korpusa. BK-009 za poruku i pozicioniranje (whole-book beleška).
+
 ## Visual model
 
 1. Pažnja → 2. Poverenje → 3. Prodajni razgovor → 4. Iskustvo i odnos
@@ -66,11 +86,11 @@ Marketing, prodaja i operacije ponovo dele isto obećanje.
 
 Za jednu ponudu mapiraj šta obećavaju marketing i prodaja, šta operacije stvarno isporučuju i koju metriku svi dele.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Marketing, prodaja i brend imaju različite, povezane uloge.
 2. Stopa ispunjenog obećanja u primeru je 70%.

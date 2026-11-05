@@ -17,6 +17,26 @@ Ponuda spaja rezultat, sadržaj, cenu, uslove, dokaz i smanjenje rizika kupca. S
 
 Rizik kupca se može smanjiti probnim periodom, jasnim scope-om, etapnim plaćanjem ili garancijom koja ima uslove. Svaki element mora imati trošak i operativnu granicu.
 
+### Zašto je ovo važno vlasniku
+
+Ponuda određuje da li kupac oseća da dobija više nego što daje i da li firma pri tome zarađuje. Popust je najskuplji način da se ponuda „popravi“.
+
+### Na tabli `[FIXTURE]`
+
+Paket montaže televizora ima tri nivoa: osnovni (montaža), standardni (montaža i podešavanje kanala) i premium (sve plus sakrivanje kablova). Rizik kupca smanjuje jasna izjava šta je uključeno i provera rada na licu mesta pre plaćanja. Svaki nivo mora pokriti sopstveni direktni trošak.
+
+### Sa čim se meša
+
+Smanjenje rizika nije neograničena garancija bez procene troška. Više bonusa nije bolja ponuda ako kupcu nisu važni.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 401–403; Level 5 donosi ponudu na tržište.
+
+### Iz korpusa
+
+BK-002, PDF pp. 39–48 (ponuda koja uklanja direktno poređenje cena; whole-book beleška; koristiti kritički). BK-014 pp. 167–168 (Risk Reversal) provereni u tekstu korpusa; raniji lokator „p. 168“ preciziran.
+
 ## Visual model
 
 1. Željeni rezultat → 2. Sadržaj i dokaz → 3. Cena i uslovi → 4. Smanjen rizik
@@ -67,11 +87,11 @@ Rizik kupca pada, a ekonomika ostaje vidljiva.
 
 Dizajniraj tri nivoa ponude. Za svaki napiši rezultat, scope, dokaz, cenu, direktni trošak i mehanizam smanjenja rizika.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Ponuda povezuje rezultat, scope, dokaz, cenu, uslove i rizik kupca.
 2. Očekivani doprinos u primeru je 2.250 RSD po instalaciji.
@@ -83,7 +103,7 @@ Canonical prolaz zahteva najmanje 80/100, najmanje 15/25 u svakoj oblasti, demon
 ## Sources and limits
 
 - CMO OS originalna sinteza · bez prepisivanja knjiga
-- Korpus: `BKB-VAL-002`, `BKB-GTM-003` · BK-002 (dizajn ponude i smanjenje rizika) · BK-014 p. 168 (Risk Reversal)
+- Korpus: `BKB-VAL-002`, `BKB-GTM-003` · BK-002 (dizajn ponude i smanjenje rizika) · BK-014 pp. 167–168 (Risk Reversal)
 - Ministarstvo unutrašnje i spoljne trgovine — propisi zaštite potrošača · provereno 2026-08-22
 
 Knjige su sekundarni izvori. Ova lekcija je originalna CMO OS sinteza i ne kopira dostavljene knjige.

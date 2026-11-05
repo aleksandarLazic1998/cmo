@@ -1,5 +1,43 @@
 # Changelog
 
+## Lesson 001 interactive Claude Artifact — 2026-11-05
+
+- Dodata interaktivna stranica `02_Lessons/visuals/lesson-001-mentor/index.html`, objavljena kao privatni Claude Artifact: teorija sa mapom tokova i mostom rezultata, razgovor sa Morijartijem, simulator, samostalna praksa sa novim `[FIXTURE]` brojevima, brza provera razumevanja, procena u četiri oblasti, remedijacija i povratna informacija.
+- Morijarti radi preko ugrađene `sample` mogućnosti claude.ai, bez API ključa; račun, ključne greške i prolaz proverava stranica deterministički (ista logika kao `apps/mentor`).
+- Pokušaji se čuvaju u bazi artefakta sa pristupom samo za vlasnika; Learning Progress se ažurira tek kada Claude pročita zapis, ponovo proveri uslove i korisnik potvrdi.
+
+## Theory expansion and verified corpus locators — 2026-11-05
+
+- Teorija proširena u još 41 lekciji po standardu iz šablona (zašto je važno, `[FIXTURE]` primer, sa čim se meša, veza, lokator iz korpusa); ukupno 10.647 reči u „Teach & explain“ umesto 2.477. Originalni tekst sačuvan.
+- Provereno 48 BK-014 lokatora u tekstu korpusa: 41 tačan, 6 preciziranih raspona i 1 pogrešan ispravljen (Lesson 603: pp. 383–385 umesto 361–362). Četiri lokatora iz beleški potvrđena na slikama stranica.
+- Lesson 607 i istraživačka beleška usklađeni sa prečišćenim tekstom Zakona o zaštiti potrošača (35/2026): rokovi za reklamacije, odgovornost za nesaobraznost i početak primene.
+- Uočen nedostatak u korpusu slika: BK-013 ima 1 od 125 strana. Pravi razgovor sa modelom i dalje nije izvršen (nema API ključa). Learning Progress i Knowledge Graph nisu menjani.
+
+## Curriculum expansion and level gates — 2026-11-04
+
+- Odobreno od korisnika (ADR 010): katalog 49 → 54 lekcije sa novim lekcijama 606 (nabavka i distributeri), 607 (postprodaja i reklamacije), 805 (kvalitet odluke pod neizvesnošću), 905 (organizaciona struktura) i 1006 (etika i usklađenost); Lesson 1005 sada traži 1006. Curriculum version `2026.11-expanded`.
+- Dodato 10 gate scenarija nivoa (Level 0–9) sa `[FIXTURE]` slučajem, zadacima u četiri oblasti, ključem za mentora i istim pragom prolaza.
+- Šablon lekcije dobio minimum dubine teorije; teorija Lesson 002, 003 i 101–105 proširena bez brisanja originalnog teksta.
+- U svih 49 postojećih lekcija uklonjeno upućivanje na nepostojeći automatski test u aplikaciji; vežba Lesson 002 dobila `[FIXTURE]` alternativu.
+- ADR 009 razrešen: app assessment je odobren kao dokaz; `.env.example` predlaže uključen kanonski upis uz sve postojeće zaštite.
+- Slike stranica knjiga u `tmp/pdfs/` zadržane kao izvorni korpus mentora, po odluci vlasnika.
+- Provere: documentary runner 1.636/1.636, pilot 11/11, Vitest 65 (1 preskočen), E2E 26/26. Learning Progress, Knowledge Graph, knjige i istorijski auditi nisu menjani.
+
+## Moriarty pedagogy and curriculum audit — 2026-11-04
+
+- Dodat pedagoški protokol u Morijarti specifikaciju: neocenjeno prisećanje na početku sesije, teorija u celinama sa pauzom za pitanja, lestvica pomoći pre rešenja, drugačija objašnjenja, postepeno povlačenje vođenja, feedback cilj → stanje → sledeći korak, primena uz odluku, proverljive preduzetničke navike i granica AI pomoći. Redosled nastave i autoritet nisu menjani.
+- Nova istraživačka beleška `11_Research/Learning_Science_Evidence.md` sa 12 izvora proverenih 2026-11-04, tipom dokaza i ograničenjima; nov eval scenario za pedagogiju (definisan, nije izvršen).
+- Audit kurikuluma sa verdict-om `REVISE`: kratka teorija u lekcijama, nenapisani gate scenariji nivoa, rupe u nabavci, postprodaji, odlučivanju pod neizvesnošću, organizaciji i etici. Predlog migracije čeka odobrenje; katalog, lekcije i Learning Progress nisu menjani.
+
+## AI mentor application — 2026-11-04
+
+- Dodata lokalna aplikacija `apps/mentor/` (Next.js, TypeScript, Zod, `node:sqlite`) sa Morijarti mentorom za Lesson 001: teorija iz canonical lekcije, višekružni razgovor, vođeni primer sa simulatorom, samostalna praksa i procena sa novim `[FIXTURE]` scenarijima, povratna informacija sa pogrešnim predstavama, nedostajućim vezama, sokratskim potpitanjima, oznakama dokaza i proverenim izvorima.
+- Server-side state machine sprečava preskakanje faza; račun, prerequisite i prolaz (80/100, 15/25 po oblasti, ispravljene ključne greške) proveravaju se deterministički; AI rubrika je ograničena i nikada nije jedini dokaz.
+- Zamenljiv provider (Claude API ili mock), konfigurabilan model, timeout, limiti i `.env.example` bez tajni; zaštita od prompt injection-a.
+- Trajne sesije, odgovori, pokušaji, pogrešne predstave i raspored ponavljanja u operativnoj bazi; kanonski upis u Learning Progress samo uz potvrdu, backup, validaciju i atomaran upis — podrazumevano isključen (ADR 009).
+- Usklađene instrukcije: `[FIXTURE]` dodat u CLAUDE, AUTHORITY, README i evidence SOP; AUTHORITY dobio domen aplikacionog koda i lokaciju backup-a; zastarela tvrdnja o odsustvu aplikacije u vizuelnom SOP-u pretvorena u datiranu činjenicu; lesson lifecycle upućuje na ADR 009.
+- Testovi: 65 Vitest provera i 26 browser E2E provera prolaze sa mock providerom. Stvarni AI poziv nije izvršen jer u okruženju nema kredencijala. Learning Progress, curriculum, knjige i istorijski auditi nisu menjani.
+
 ## Lesson 001 visual pilot — 2026-11-01
 
 - Dodat samostalni HTML sa mapom tokova, simulatorom prihoda i profita, vođenim primerom, praktičnim zadatkom i testom od 12 pitanja.

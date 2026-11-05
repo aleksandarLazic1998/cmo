@@ -17,6 +17,26 @@ Profitabilnost promocije uključuje ostvarenu cenu, nabavnu cenu, količinu, kan
 
 PDV osnova, rebate, godišnji bonus i co-funded promocija zavise od važećeg pravila i ugovora. Dok dokument nije potvrđen, stavka ostaje `[UNKNOWN]` i ne ulazi kao siguran profit.
 
+### Zašto je ovo važno vlasniku
+
+Promocija koja diže promet može smanjiti profit kategorije. Vlasnik mora znati koliko dodatnih komada popust zahteva.
+
+### Na tabli `[FIXTURE]`
+
+Proizvod se prodaje za 20.000 RSD uz nabavnu cenu 15.000 RSD: 5.000 RSD bruto profita. Uz popust od 10% cena je 18.000 RSD, a bruto profit 3.000 RSD. Ako se redovno prodaje 40 komada (200.000 RSD), za isti bruto profit treba 200.000 ÷ 3.000 = 66,7, odnosno 67 komada.
+
+### Sa čim se meša
+
+Rabat i co-funding nisu profit dok nisu potvrđeni dokumentom. PDV tretman se ne pretpostavlja.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 104 i 601–604; Lesson 606 obrađuje uslove dobavljača.
+
+### Iz korpusa
+
+BK-014 p. 411 (Analytical Honesty) proveren u tekstu korpusa. BK-006 za efekat promocije na maržu (whole-book beleška).
+
 ## Visual model
 
 1. Cena i količina → 2. Direktni trošak → 3. Potvrđeni bonusi / co-funding → 4. Neto efekat promocije
@@ -67,11 +87,11 @@ Promocija ne zavisi od nepotvrđenog dobavljačkog novca.
 
 Napravi promo P&L sa baznim, lošijim i boljim scenarijem; odvoji potvrđene stavke od `[UNKNOWN]` rebate-a i PDV tretmana.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Promo rezultat uključuje cenu, doprinos, kampanju, kanibalizaciju i samo potvrđene bonuse.
 2. Uslovni efekat bez rebate-a je 60.000 RSD na zadatoj simuliranoj osnovi; stvarni konačni profit je [UNKNOWN] do provere PDV-a i ostalih isključenih stavki.

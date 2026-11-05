@@ -106,7 +106,7 @@ Laptop se prodaje za 90.000 RSD uz nabavnu cenu 78.000 RSD i 4.000 RSD pripisani
 
 **Rešenje za proveru:** prihod 90.000 RSD; bruto profit 12.000 RSD; bruto marža 12.000 ÷ 90.000 = 13,3%; posle operativnog troška ostaje 8.000 RSD.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Business scenario
 
@@ -127,7 +127,7 @@ Koja ponuda je bolja i zašto? Odgovor mora razdvojiti vrednost za kupca, prihod
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Prihod je vrednost prodaje, a bruto profit je prihod umanjen za direktni trošak prodate robe.
 2. U primeru su bruto profit 10.000 RSD, bruto marža 16,7% i preostalih 7.000 RSD posle navedenog operativnog troška.

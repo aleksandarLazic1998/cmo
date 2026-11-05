@@ -17,6 +17,26 @@ Strukturisano zapošljavanje koristi isti scorecard, ista ključna pitanja i una
 
 Proces mora biti fer, zakonit i vezan za posao. Lične karakteristike koje nisu relevantne za ulogu ne smeju biti kriterijum; lokalna pravila i obradu podataka proverava odgovorna stručna osoba.
 
+### Zašto je ovo važno vlasniku
+
+Pogrešno zapošljavanje skupo košta: vreme, novac, kupce i atmosferu u timu.
+
+### Na tabli `[FIXTURE]`
+
+Za oba kandidata postavljaju se ista pitanja vezana za ishode iz scorecard-a, npr. „Opišite poslednju reklamaciju koju ste rešili: šta se desilo, šta ste uradili, kakav je bio ishod?“ Svaki odgovor se ocenjuje 1–5 prema unapred napisanim kriterijumima.
+
+### Sa čim se meša
+
+Prvi utisak nije dokaz. Nevažni i nedozvoljeni kriterijumi (lični status, poreklo i slično) ne smeju ući u ocenu.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 901; Lesson 903 i 904 vode čoveka posle zapošljavanja.
+
+### Iz korpusa
+
+BK-015, PDF pp. 86–91 (više ocenjivača sa istim pitanjima i ocenom; whole-book beleška). BK-014 pp. 377–380 (Performance-Based Hiring) provereni u tekstu korpusa; raniji lokator „p. 380“ preciziran.
+
 ## Visual model
 
 1. Scorecard uloge → 2. Isti dokaz za sve → 3. Strukturisana ocena → 4. Reference i odluka
@@ -67,11 +87,11 @@ Odluka je uporediva i auditabilna.
 
 Napravi četiri pitanja vezana za ishode uloge, rubriku 1–5 i listu nedozvoljenih/nevažnih kriterijuma za proces.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Strukturisani proces koristi isti scorecard, pitanja i rubriku za uporedive kandidate.
 2. Kandidat B ima 88/100 i prolazi definisani fixture prag.
@@ -83,7 +103,7 @@ Canonical prolaz zahteva najmanje 80/100, najmanje 15/25 u svakoj oblasti, demon
 ## Sources and limits
 
 - CMO OS originalna sinteza · bez prepisivanja knjiga
-- Korpus: `BKB-PEO-002` · BK-015 (Who) — apsolutno prvenstvo · BK-014 p. 380 (Performance-Based Hiring, uz plaćen probni rad)
+- Korpus: `BKB-PEO-002` · BK-015 (Who) — apsolutno prvenstvo · BK-014 pp. 377–380 (Performance-Based Hiring, uz plaćen probni rad)
 - Pravno-informacioni sistem RS — Zakon o radu · provereno 2026-08-22
 
 Knjige su sekundarni izvori. Ova lekcija je originalna CMO OS sinteza i ne kopira dostavljene knjige.

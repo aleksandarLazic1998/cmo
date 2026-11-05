@@ -17,6 +17,26 @@ Business Model Canvas je mapa devet povezanih pretpostavki: kome služiš, koju 
 
 Canvas nije poslovni plan ni dokaz. Njegova vrednost je da pokaže veze i kontradikcije koje treba testirati.
 
+### Zašto je ovo važno vlasniku
+
+Canvas pokazuje kako delovi poslovanja zavise jedan od drugog. Promena u jednom bloku menja ostale, pa vlasnik vidi posledice pre nego što ih plati.
+
+### Na tabli `[FIXTURE]`
+
+Pretplata na tehničku podršku: segment su male kancelarije; vrednost je brz odgovor; kanal je direktna prodaja; prihod je mesečna pretplata; ključni resurs je serviser. Ako obećamo odziv za 2 sata, a imamo jednog servisera, blok „ključni resursi“ ne podržava blok „vrednost“.
+
+### Sa čim se meša
+
+Canvas nije poslovni plan ni dokaz da model radi. Svaki blok je pretpostavka dok je ne potvrde razgovori, eksperimenti i brojevi.
+
+### Veza sa drugim lekcijama
+
+Koristi Level 3; Lesson 402 razrađuje vrednost, Lesson 404 ponudu i cenu.
+
+### Iz korpusa
+
+BK-016 *Business Model Generation*, PDF pp. 20–21 i 48–55 (canvas kao zajednička mapa poslovnog modela; whole-book beleška). BK-014 p. 61 (Five Parts of Every Business) proveren u tekstu korpusa.
+
 ## Visual model
 
 1. Kupac i vrednost → 2. Kanali i odnos → 3. Resursi i aktivnosti → 4. Prihodi i troškovi
@@ -68,11 +88,11 @@ Canvas otkriva da profit zavisi od učestalosti zahteva, ne samo broja pretplata
 
 Popuni devet blokova za jednu ideju i crveno označi tri najrizičnije veze između blokova.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Canvas mapira devet povezanih pretpostavki poslovnog modela.
 2. U primeru 20 klijenata daje 160.000 RSD prihoda i prosečno 4 sata kapaciteta po klijentu.

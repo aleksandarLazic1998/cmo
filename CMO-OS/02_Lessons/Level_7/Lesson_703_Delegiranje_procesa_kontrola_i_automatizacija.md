@@ -17,6 +17,26 @@ Delegiranje prenosi ishod, granice i ovlašćenje, ali ne briše odgovornost men
 
 Automatizacija dolazi posle razumevanja i stabilizacije procesa. Automatizovan haos samo proizvodi greške brže.
 
+### Zašto je ovo važno vlasniku
+
+Vlasnik koji ne delegira ostaje usko grlo. Delegiranje bez granica i provere stvara greške koje se vraćaju vlasniku.
+
+### Na tabli `[FIXTURE]`
+
+Nedeljni izveštaj o zalihi prenosi se magacioneru: on sam ispravlja razlike do 5 komada, a veće razlike prijavljuje vlasniku do petka. Vlasnik proverava jednu metriku: tačnost zalihe pri mesečnom popisu.
+
+### Sa čim se meša
+
+Delegiranje nije odricanje od odgovornosti. Automatizacija loše urađenog procesa samo brže pravi greške.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 702; Lesson 704 i 905 proširuju na celu firmu i strukturu.
+
+### Iz korpusa
+
+BK-008 *High Output Management*, PDF pp. 33–44 (output umesto aktivnosti; whole-book beleška). BK-014 pp. 291 i 435–437 (delegiranje, paradoks automatizacije) provereni u tekstu korpusa.
+
 ## Visual model
 
 1. Definiši ishod → 2. Dodeli owner-a i granice → 3. Kontrolna tačka → 4. Automatizuj stabilno
@@ -66,11 +86,11 @@ Leverage raste bez gubitka kontrole.
 
 Napiši delegation brief za jedan zadatak i označi šta owner može odlučiti sam, kada eskalira i koju metriku prati.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Delegiranje prenosi ishod i ovlašćenje uz jasne granice i kontrolu.
 2. Vlasnik u primeru oslobađa 3,5 sata nedeljno.

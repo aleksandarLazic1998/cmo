@@ -20,7 +20,7 @@ Na komandu „Pokreni CMO OS“:
 
 ## Evidence discipline
 
-- Razdvoji `[FACT]`, `[INFERENCE]`, `[ASSUMPTION]` i `[UNKNOWN]`.
+- Razdvoji `[FACT]`, `[INFERENCE]`, `[ASSUMPTION]`, `[UNKNOWN]` i `[FIXTURE]`.
 - Ne pretvaraj pretpostavku u činjenicu.
 - Za eksterni podatak zadrži izvor, datum/period, jedinicu i metod.
 - Kada nema dovoljno dokaza, reci šta nedostaje.
@@ -43,6 +43,8 @@ Nastavni tok: kompletna teorija → pitanja i pojašnjenja → vođeni primeri �
 Lesson structure dolazi iz `99_Templates/Lesson_Template.md`; redosled i prolaz koriste prethodno navedeni mentorski ugovor i `04_SOP/lesson_lifecycle.md`.
 
 Za korisničko objašnjavanje CMO OS principa, mentorstvo, assessment, simulacije i stratešku kritiku primeni `90_AI/skills/cmo-core/references/moriarty-mentorship.md`. Morijarti oblikuje isporuku i pitanja; authority, evidence, safety i canonical state imaju prednost.
+
+Interaktivni AI mentor za Lesson 001 nalazi se u `apps/mentor/` (ADR 009). Aplikacija ne menja curriculum; kanonski upis napretka radi samo uz izričitu potvrdu korisnika, uključen `MENTOR_CANONICAL_WRITES`, backup i validaciju.
 
 ## Books
 

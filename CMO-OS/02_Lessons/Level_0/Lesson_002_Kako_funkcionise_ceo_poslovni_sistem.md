@@ -17,6 +17,32 @@ Firma je lanac, a ne gomila odvojenih odeljenja. Kupac pokreće tražnju; ponuda
 
 Ako jedna karika kasni, ceo sistem pati. Zato vlasnik ne popravlja samo najglasniji problem, već proverava gde se vrednost ili novac zaustavljaju.
 
+### Zašto je ovo važno vlasniku
+
+Kada vlasnik vidi firmu kao lanac, problem traži tamo gde nastaje, a ne tamo gde se prvi put primeti. Pad prodaje može početi u ponudi, zalihi, isporuci ili u lošem iskustvu prethodnog kupca.
+
+### Pet karika, običnim jezikom
+
+1. **Kupac i potreba** — neko ima problem koji želi da reši, na primer treba mu laptop za posao.
+2. **Ponuda** — šta firma obećava: proizvod, cenu, rok i garanciju.
+3. **Prodaja** — razgovor i dogovor koji interesovanje pretvara u porudžbinu.
+4. **Isporuka** — roba stiže kupcu u obećanom roku i stanju.
+5. **Novac i učenje** — firma naplaćuje, plaća dobavljače i ljude, i iz rezultata uči šta da promeni.
+
+Ljudi i procesi ponavljaju ovih pet karika svaki dan. Bez njih rezultat zavisi od sreće i od toga ko je tog dana u smeni.
+
+### Na tabli `[FIXTURE]`
+
+Prodavnica nedeljno dobija 40 upita za laptop i proda 10. Ako 15 kupaca odustane jer traženog modela nema na stanju, reklama koja donese još 40 upita povećava i broj razočaranih kupaca. Karika koja koči je zaliha, ne marketing.
+
+### Sa čim se meša
+
+Poslovni sistem nije organizaciona šema. Šema pokazuje ko kome odgovara; sistem pokazuje kako vrednost, roba i novac teku između kupca, firme i dobavljača.
+
+### Veza sa drugim lekcijama
+
+Lesson 001 je pratila novac jedne prodaje. Ovde ta prodaja postaje deo toka koji se ponavlja. Lesson 003 dodaje vlasnički pogled: koju kariku popraviti prvu i po koju cenu.
+
 ## Visual model
 
 1. Potreba kupca → 2. Ponuda i prodaja → 3. Isporuka i naplata → 4. Učenje i poboljšanje
@@ -65,13 +91,13 @@ Sačuvano poverenje i izbegnuta reklamacija.
 
 ## Practical exercise
 
-Nacrtaj svoj tok od prve potrebe kupca do povratne informacije. Obeleži mesto gde najčešće nastaje čekanje.
+Nacrtaj tok od prve potrebe kupca do povratne informacije: za svoj posao ili, ako ga nemaš, za `[FIXTURE]` prodavnicu tehnike iz primera. Obeleži mesto gde najčešće nastaje čekanje.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Poslovni sistem povezuje kupca, ponudu, prodaju, isporuku, novac, ljude i učenje.
 2. Jaz između obećanog i mogućeg roka u primeru je 2 dana.

@@ -17,6 +17,26 @@ Dashboard treba brzo da pokaže: šta je odstupilo, koliko, gde i od kada. Root-
 
 Jedna korelacija nije uzrok. Dobar pregled se spušta sa outcome-a na segment, proizvod, kanal, proces i vreme, pa predlaže najmanji test koji razlikuje hipoteze.
 
+### Zašto je ovo važno vlasniku
+
+Pogrešan uzrok vodi pogrešnoj akciji i trošku bez efekta.
+
+### Na tabli `[FIXTURE]`
+
+Bruto marža padne sa 25% na 22%. Hipoteze: veći popusti, promena miksa ka jeftinijim modelima ili viša nabavna cena. Pre akcije proverava se svaka: popusti po prodavcu, miks po kategoriji i nabavne cene po dobavljaču.
+
+### Sa čim se meša
+
+Korelacija nije uzrok. Prosek može sakriti problem u jednom segmentu.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 801–802; Lesson 804 pretvara nalaz u akciju.
+
+### Iz korpusa
+
+BK-014 pp. 411–413 (Analytical Honesty, Context) provereni u tekstu korpusa. BK-012 za razliku lokalnog i sistemskog optimuma (whole-book beleška).
+
 ## Visual model
 
 1. Signal odstupanja → 2. Razlaganje → 3. Hipoteze → 4. Test i korekcija
@@ -67,11 +87,11 @@ Akcija cilja verovatni driver, ne simptom.
 
 Za jedno odstupanje napravi issue tree sa tri hipoteze, potrebnim podacima, testom i kriterijumom odluke.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Dashboard signalizira odstupanje, a root-cause analiza traži uzrok.
 2. Pad u primeru je 4 procentna poena uz rast low-margin miksa od 20 pp.

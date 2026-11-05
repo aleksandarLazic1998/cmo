@@ -17,6 +17,26 @@ Capital allocation je izbor gde ide sledeći dinar, sat liderstva ili jedinica r
 
 Governance određuje ko predlaže, ko odlučuje, ko izvršava i ko proverava. Veća i nepovratnija odluka traži jači evidence, jasniju nezavisnu proveru i dokumentovan sukob interesa.
 
+### Zašto je ovo važno vlasniku
+
+Ograničen novac i vreme vlasnika moraju ići tamo gde je najbolji odnos povrata i rizika, uključujući opciju da se ne uloži.
+
+### Na tabli `[FIXTURE]`
+
+Dve opcije: novi kanal prodaje firmama ili renoviranje izloga. Za svaku se pišu bazni, bolji i lošiji scenario, potrebna gotovina, najgori ishod i datum provere. Opcija koja u lošijem scenariju troši rezervu gotovine traži jači dokaz ili manji početni korak.
+
+### Sa čim se meša
+
+Raspodela kapitala nije izbor najveće očekivane vrednosti bez obzira na rizik. Upravljanje (governance) nije birokratija, već jasno ko predlaže, odlučuje i proverava.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 205 i 805; Lesson 1006 dodaje etiku i usklađenost.
+
+### Iz korpusa
+
+BK-006, PDF pp. 164–183 (analiza investicije: payback, NPV, prag prinosa; whole-book beleška). BK-014 pp. 442 i 447 (Resilience, Scenario Planning) provereni u tekstu korpusa.
+
 ## Visual model
 
 1. Opcije kapitala → 2. Povrat i downside → 3. Decision rights i provera → 4. Odluka + post-audit
@@ -67,11 +87,11 @@ Kapital se ne bira samo po većem nominalnom ROI-ju.
 
 Napravi investment memo za dve opcije: problem, evidence, base/up/down scenario, cash, rizik, owner, decision right i post-audit datum.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Capital allocation poredi povrat, likvidnost, rizik, vreme i strateški fit.
 2. Posle A ostaje 200.000 RSD, što je 300.000 ispod minimalne rezerve; posle B ostaje 600.000 RSD, odnosno 100.000 iznad nje.

@@ -17,6 +17,26 @@ Standardni rad opisuje najbolji trenutno poznat bezbedan način da se posao urad
 
 Kvalitet se gradi u procesu: definiši šta je dobro, proveri kritične tačke i uči iz grešaka. Završna kontrola sama ne može popraviti loš sistem.
 
+### Zašto je ovo važno vlasniku
+
+Standard omogućava da posao bude dobar i kada ga radi drugi čovek, drugog dana. Bez standarda kvalitet zavisi od pamćenja i raspoloženja.
+
+### Na tabli `[FIXTURE]`
+
+Priprema laptopa za kupca: provera ambalaže i serijskog broja, ažuriranje sistema, kontrola punjača, test ekrana i tastature, potpis zaposlenog. Pet koraka u kontrolnoj listi smanjuju povraćaje zbog previda.
+
+### Sa čim se meša
+
+SOP nije birokratija: ako niko ne koristi dokument, nije standard. Standard se menja kada se pronađe bolji način, uz proveru.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 701; Lesson 703 delegira standardizovan rad.
+
+### Iz korpusa
+
+BK-005 *The E-Myth Revisited*, PDF pp. 65–90 (posao kao prototip koji se standardizuje i ponavlja; whole-book beleška). BK-014 pp. 438 i 440 (SOP, Checklist) provereni u tekstu korpusa.
+
 ## Visual model
 
 1. Standard → 2. Izvršenje → 3. Kontrolna tačka → 4. Greška → poboljšanje
@@ -66,11 +86,11 @@ Kvalitet i učenje postaju deo procesa.
 
 Napiši SOP od najviše 10 koraka za jedan proces: okidač, input, koraci, owner, kvalitet, evidence i exception.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. SOP standardizuje ponovljiv proces sa owner-om, kontrolama i evidence-om.
 2. FPY u primeru raste sa 88% na 97%, uz 9.000 RSD izbegnute dorade.

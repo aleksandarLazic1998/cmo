@@ -1,8 +1,8 @@
-# Authored Curriculum Index — Lessons 002–1005
+# Authored Curriculum Index — Lessons 002–1006
 
 Generated from the audited application content on `2026-08-23`.
 
-This index proves content availability only. It does not change `10_Daily/Learning_Progress.md`.
+Lessons 606, 607, 805, 905 and 1006 were added on 2026-11-04 (ADR 010). Level gate scenarios: `Level_N/Gate_Level_N.md`. This index proves content availability only. It does not change `10_Daily/Learning_Progress.md`.
 
 | ID | Level | Lesson | Content status |
 |---|---:|---|---|
@@ -37,6 +37,8 @@ This index proves content availability only. It does not change `10_Daily/Learni
 | 603 | 6 | [Zalihe, obrt, dostupnost i zastarevanje](Level_6/Lesson_603_Zalihe_obrt_dostupnost_i_zastarevanje.md) | AUTHORED |
 | 604 | 6 | [Prosečna korpa, attach rate, cross-sell, upsell i bundle](Level_6/Lesson_604_Prosecna_korpa_attach_rate_cross_sell_upsell_i_bundle.md) | AUTHORED |
 | 605 | 6 | [Cena, promocija, PDV kontekst i profitabilnost kategorije](Level_6/Lesson_605_Cena_promocija_PDV_kontekst_i_profitabilnost_kategorije.md) | AUTHORED |
+| 606 | 6 | [Nabavka, distributeri i pregovaranje sa dobavljačem](Level_6/Lesson_606_Nabavka_distributeri_i_pregovaranje_sa_dobavljacem.md) | AUTHORED (2026-11-04) |
+| 607 | 6 | [Postprodaja: saobraznost, garancija, reklamacije i servis](Level_6/Lesson_607_Postprodaja_saobraznost_garancija_reklamacije_i_servis.md) | AUTHORED (2026-11-04) |
 | 701 | 7 | [Proces, tok rada, kapacitet i usko grlo](Level_7/Lesson_701_Proces_tok_rada_kapacitet_i_usko_grlo.md) | AUTHORED |
 | 702 | 7 | [Standardni rad, SOP, kvalitet i greške](Level_7/Lesson_702_Standardni_rad_SOP_kvalitet_i_greske.md) | AUTHORED |
 | 703 | 7 | [Delegiranje procesa, kontrola i automatizacija](Level_7/Lesson_703_Delegiranje_procesa_kontrola_i_automatizacija.md) | AUTHORED |
@@ -45,12 +47,15 @@ This index proves content availability only. It does not change `10_Daily/Learni
 | 802 | 8 | [Budžet, forecast i scenario](Level_8/Lesson_802_Budzet_forecast_i_scenario.md) | AUTHORED |
 | 803 | 8 | [Dashboard, odstupanje i root-cause analiza](Level_8/Lesson_803_Dashboard_odstupanje_i_root_cause_analiza.md) | AUTHORED |
 | 804 | 8 | [Poslovni ritam: sastanci, odgovornost i korektivna akcija](Level_8/Lesson_804_Poslovni_ritam_sastanci_odgovornost_i_korektivna_akcija.md) | AUTHORED |
+| 805 | 8 | [Kvalitet odluke pod neizvesnošću](Level_8/Lesson_805_Kvalitet_odluke_pod_neizvesnoscu.md) | AUTHORED (2026-11-04) |
 | 901 | 9 | [Uloga, rezultat, odgovornost i scorecard](Level_9/Lesson_901_Uloga_rezultat_odgovornost_i_scorecard.md) | AUTHORED |
 | 902 | 9 | [Zapošljavanje i strukturisana procena kandidata](Level_9/Lesson_902_Zaposljavanje_i_strukturisana_procena_kandidata.md) | AUTHORED |
 | 903 | 9 | [Delegiranje, leverage i menadžerski output](Level_9/Lesson_903_Delegiranje_leverage_i_menadzerski_output.md) | AUTHORED |
 | 904 | 9 | [Feedback, coaching, performance i teške odluke](Level_9/Lesson_904_Feedback_coaching_performance_i_teske_odluke.md) | AUTHORED |
+| 905 | 9 | [Organizaciona struktura, prava odlučivanja i odgovornost](Level_9/Lesson_905_Organizaciona_struktura_prava_odlucivanja_i_odgovornost.md) | AUTHORED (2026-11-04) |
 | 1001 | 10 | [Dobra strategija: dijagnoza, vodeća politika i povezane akcije](Level_10/Lesson_1001_Dobra_strategija_dijagnoza_vodeca_politika_i_povezane_akcije.md) | AUTHORED |
 | 1002 | 10 | [Konkurencija, prednost, fokus i trade-off](Level_10/Lesson_1002_Konkurencija_prednost_fokus_i_trade_off.md) | AUTHORED |
 | 1003 | 10 | [Skaliranje ljudi, strategije, izvršenja i gotovine](Level_10/Lesson_1003_Skaliranje_ljudi_strategije_izvrsenja_i_gotovine.md) | AUTHORED |
 | 1004 | 10 | [Rizik, capital allocation, governance i odluke CEO-a](Level_10/Lesson_1004_Rizik_capital_allocation_governance_i_odluke_CEO_a.md) | AUTHORED |
+| 1006 | 10 | [Etika, usklađenost i odgovorno vođenje](Level_10/Lesson_1006_Etika_uskladjenost_i_odgovorno_vodjenje.md) | AUTHORED (2026-11-04) |
 | 1005 | 10 | [Integracioni CEO scenario](Level_10/Lesson_1005_Integracioni_CEO_scenario.md) | AUTHORED |

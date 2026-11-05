@@ -13,7 +13,7 @@ Ovaj katalog definiše redosled i scope. `AUTHORED` znači da sadržaj postoji i
 | 002 | Kako funkcioniše ceo poslovni sistem | Povezuje kupca, ponudu, prodaju, isporuku, novac, ljude i procese. | 001 |
 | 003 | Način razmišljanja vlasnika | Razdvaja aktivnost, rezultat, rizik, kratkoročnu korist i dugoročnu posledicu. | 002 |
 
-**Gate nivoa:** objasniti tok vrednosti i novca i doneti odluku između dve `[FIXTURE]` poslovne opcije.
+**Gate nivoa:** objasniti tok vrednosti i novca i doneti odluku između dve `[FIXTURE]` poslovne opcije. Scenario: `Level_0/Gate_Level_0.md`.
 
 ## Level 1 — Ekonomija jednog posla
 
@@ -25,7 +25,7 @@ Ovaj katalog definiše redosled i scope. `AUTHORED` znači da sadržaj postoji i
 | 104 | Cena, popust, volumen i profitni trade-off | Proceni kada veća prodaja smanjuje rezultat. | 103 |
 | 105 | Break-even i contribution margin | Izračuna minimalni potreban obim prodaje. | 104 |
 
-**Gate nivoa:** kompletan obračun ekonomije jednog proizvoda ili usluge.
+**Gate nivoa:** kompletan obračun ekonomije jednog proizvoda ili usluge. Scenario: `Level_1/Gate_Level_1.md`.
 
 ## Level 2 — Finansije vlasnika
 
@@ -38,7 +38,7 @@ Ovaj katalog definiše redosled i scope. `AUTHORED` znači da sadržaj postoji i
 | 205 | Unit economics, ROI i payback | Proceni ekonomiku kupca, proizvoda i investicije. | 204 |
 | 206 | Budžet vlasnika, porezi i pravna forma — orijentacija | Razume koje odluke zahtevaju aktuelan srpski izvor i stručnjaka. | 205 |
 
-**Gate nivoa:** povezati bilans uspeha, bilans stanja i cash flow na jednom `[FIXTURE]` slučaju.
+**Gate nivoa:** povezati bilans uspeha, bilans stanja i cash flow na jednom `[FIXTURE]` slučaju. Scenario: `Level_2/Gate_Level_2.md`.
 
 ## Level 3 — Kupac i validacija ideje
 
@@ -49,7 +49,7 @@ Ovaj katalog definiše redosled i scope. `AUTHORED` znači da sadržaj postoji i
 | 303 | Razgovor sa kupcem bez sugestivnih pitanja | Prikuplja ponašanje i dokaze umesto komplimenata i mišljenja. | 302 |
 | 304 | Pretpostavka, MVP, eksperiment i validacija | Dizajnira mali test sa kriterijumom uspeha i neuspeha. | 303 |
 
-**Gate nivoa:** napraviti plan razgovora i eksperiment za `[FIXTURE]` poslovnu ideju.
+**Gate nivoa:** napraviti plan razgovora i eksperiment za `[FIXTURE]` poslovnu ideju. Scenario: `Level_3/Gate_Level_3.md`.
 
 ## Level 4 — Poslovni model, vrednost i ponuda
 
@@ -60,7 +60,7 @@ Ovaj katalog definiše redosled i scope. `AUTHORED` znači da sadržaj postoji i
 | 403 | Positioning i alternativa u glavi kupca | Objašnjava kome je proizvod namenjen, protiv čega se poredi i zašto je drugačiji. | 402 |
 | 404 | Dizajn ponude, cena i smanjenje rizika kupca | Gradi vrednu i profitabilnu ponudu bez automatskog popusta. | 403 |
 
-**Gate nivoa:** predstaviti povezani business model, value proposition, positioning i ponudu.
+**Gate nivoa:** predstaviti povezani business model, value proposition, positioning i ponudu. Scenario: `Level_4/Gate_Level_4.md`.
 
 ## Level 5 — Prodaja i marketing
 
@@ -72,7 +72,7 @@ Ovaj katalog definiše redosled i scope. `AUTHORED` znači da sadržaj postoji i
 | 504 | Kanali, kampanje, konverzija i merenje | Povezuje cilj, publiku, poruku, kanal, trošak i rezultat. | 503 |
 | 505 | CAC, LTV, retention i profitabilan rast | Proceni da li rast stvara ili uništava vrednost. | 504 |
 
-**Gate nivoa:** napraviti prodajno-marketinški plan sa ekonomikom i jasnim KPI-jima.
+**Gate nivoa:** napraviti prodajno-marketinški plan sa ekonomikom i jasnim KPI-jima. Scenario: `Level_5/Gate_Level_5.md`.
 
 ## Level 6 — Retail i category management
 
@@ -83,8 +83,10 @@ Ovaj katalog definiše redosled i scope. `AUTHORED` znači da sadržaj postoji i
 | 603 | Zalihe, obrt, dostupnost i zastarevanje | Balansira prodaju, gotovinu i rizik zaliha uz lead time, MOQ i rok plaćanja. | 602 |
 | 604 | Prosečna korpa, attach rate, cross-sell, upsell i bundle | Povećava vrednost kupovine i bruto profit etičnom ponudom. | 603 |
 | 605 | Cena, promocija, PDV kontekst i profitabilnost kategorije | Proceni cenu, rebate/bonus, co-funding, PDV osnovu i pun efekat komercijalne odluke. | 604 |
+| 606 | Nabavka, distributeri i pregovaranje sa dobavljačem | Pregovara o ceni, rabatu, roku plaćanja, MOQ i zaštiti od pada cene uz poznatu alternativu. | 605 |
+| 607 | Postprodaja: saobraznost, garancija, reklamacije i servis | Postavlja proces reklamacija i servisa koji poštuje zakon i čuva poverenje i maržu. | 606 |
 
-**Gate nivoa:** izabrati komercijalne akcije za `[FIXTURE]` kategoriju bez optimizacije samo prometa.
+**Gate nivoa:** izabrati komercijalne i nabavne akcije za `[FIXTURE]` kategoriju bez optimizacije samo prometa, uz zakonit proces reklamacija. Scenario: `Level_6/Gate_Level_6.md`.
 
 ## Level 7 — Operacije i poslovni sistemi
 
@@ -95,7 +97,7 @@ Ovaj katalog definiše redosled i scope. `AUTHORED` znači da sadržaj postoji i
 | 703 | Delegiranje procesa, kontrola i automatizacija | Odvaja vlasnika od zadatka bez gubitka odgovornosti. | 702 |
 | 704 | Firma kao sistem koji može raditi bez vlasnika | Proceni owner dependency i prenosivost poslovanja. | 703 |
 
-**Gate nivoa:** mapirati proces, usko grlo, standard, owner-a i meru rezultata.
+**Gate nivoa:** mapirati proces, usko grlo, standard, owner-a i meru rezultata. Scenario: `Level_7/Gate_Level_7.md`.
 
 ## Level 8 — Komercijalno upravljanje
 
@@ -105,8 +107,9 @@ Ovaj katalog definiše redosled i scope. `AUTHORED` znači da sadržaj postoji i
 | 802 | Budžet, forecast i scenario | Planira bazni, bolji i lošiji ishod, uključujući pipeline-to-revenue forecast. | 801 |
 | 803 | Dashboard, odstupanje i root-cause analiza | Razlikuje simptom od verovatnog uzroka i sledećeg testa. | 802 |
 | 804 | Poslovni ritam: sastanci, odgovornost i korektivna akcija | Pretvara pregled rezultata u vlasnika, rok i proveru efekta. | 803 |
+| 805 | Kvalitet odluke pod neizvesnošću | Razlikuje kvalitet odluke od ishoda i koristi očekivanu vrednost, reverzibilnost, pre-mortem i zapis odluke. | 804 |
 
-**Gate nivoa:** voditi simulirani mesečni business review i izabrati korektivnu akciju.
+**Gate nivoa:** voditi simulirani mesečni business review i izabrati korektivnu akciju. Scenario: `Level_8/Gate_Level_8.md`.
 
 ## Level 9 — Ljudi i liderstvo
 
@@ -116,8 +119,9 @@ Ovaj katalog definiše redosled i scope. `AUTHORED` znači da sadržaj postoji i
 | 902 | Zapošljavanje i strukturisana procena kandidata | Smanjuje subjektivnost u izboru ljudi. | 901 |
 | 903 | Delegiranje, leverage i menadžerski output | Povećava rezultat tima, ne samo ličnu zauzetost. | 902 |
 | 904 | Feedback, coaching, performance i teške odluke | Razvija ljude i reaguje na nedovoljan učinak. | 903 |
+| 905 | Organizaciona struktura, prava odlučivanja i odgovornost | Dizajnira strukturu malog tima sa jasnim vlasnikom svake odluke i rezultata. | 904 |
 
-**Gate nivoa:** dizajnirati ulogu, proces izbora, delegirani zadatak i plan feedback-a.
+**Gate nivoa:** dizajnirati ulogu, proces izbora, delegirani zadatak i plan feedback-a. Scenario: `Level_9/Gate_Level_9.md`.
 
 ## Level 10 — Strategija, skaliranje i CEO razmišljanje
 
@@ -127,7 +131,8 @@ Ovaj katalog definiše redosled i scope. `AUTHORED` znači da sadržaj postoji i
 | 1002 | Konkurencija, prednost, fokus i trade-off | Bira gde kompanija igra, kako pobeđuje i čega se odriče. | 1001 |
 | 1003 | Skaliranje ljudi, strategije, izvršenja i gotovine | Prepoznaje šta mora sazreti pre ubrzavanja rasta. | 1002 |
 | 1004 | Rizik, capital allocation, governance i odluke CEO-a | Raspoređuje ograničene resurse prema povratu, riziku i strateškoj važnosti. | 1003 |
-| 1005 | Integracioni CEO scenario | Povezuje kupca, ponudu, finansije, operacije, ljude i strategiju u jednu odluku. | 1004 |
+| 1006 | Etika, usklađenost i odgovorno vođenje | Prepoznaje etički i pravni rizik odluke i bira rešenje koje štiti kupce, ljude i firmu. | 1004 |
+| 1005 | Integracioni CEO scenario | Povezuje kupca, ponudu, finansije, operacije, ljude i strategiju u jednu odluku. | 1006 |
 
 **Finalni gate:** najmanje 80/100 na integracionom scenariju i obrazložena odluka sa KPI-jima, rizicima i planom izvršenja.
 

@@ -17,6 +17,26 @@ Neto obrtni kapital (net working capital) je kratkoročna imovina minus kratkoro
 
 Cash conversion cycle spaja dane zalihe i naplate, pa oduzima dane plaćanja dobavljaču. Što je ciklus duži, više gotovine treba za isti obim.
 
+### Zašto je ovo važno vlasniku
+
+U trgovini je najveći deo novca vezan u zalihi i potraživanjima. Svaki dan kraći ciklus oslobađa gotovinu bez dodatne prodaje.
+
+### Na tabli `[FIXTURE]`
+
+Zaliha stoji u proseku 50 dana, kupci plaćaju za 10 dana, a dobavljaču se plaća za 30 dana. Ciklus konverzije gotovine = 50 + 10 − 30 = 30 dana. Ako je dnevni trošak prodate robe 50.000 RSD, u ciklusu je vezano oko 30 × 50.000 = 1.500.000 RSD.
+
+### Sa čim se meša
+
+Obrtni kapital nije saldo na računu. Duži rok plaćanja dobavljaču pomaže gotovini, ali kašnjenje preko dogovorenog roka narušava odnos i uslove nabavke (Lesson 606).
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 203; koristi se u Lesson 603 (zalihe) i 606 (rok plaćanja).
+
+### Iz korpusa
+
+BK-006, PDF pp. 97–128 (prodaja na odloženo, zalihe i usklađivanje profita sa gotovinom; whole-book beleška). BK-011 *Scaling Up* (ciklus konverzije gotovine; locator nije proveren u ovoj sesiji). BK-014 p. 222 proveren u tekstu korpusa.
+
 ## Visual model
 
 1. Kupi zalihu → 2. Prodaj → 3. Naplatiti kupca → 4. Platiti / osloboditi gotovinu
@@ -68,11 +88,11 @@ Izračunaj CCC ako se zaliha skrati za 10 dana, a dobavljač traži 5 dana ranij
 
 **Rešenje za proveru:** Zaliha 45 − 10 = 35 dana; naplata ostaje 20 dana; plaćanje dobavljaču 30 − 5 = 25 dana. CCC = 35 + 20 − 25 = 30 dana, dakle 5 dana bolje nego pre — ali je ranije plaćanje pojelo deo koristi od kraće zalihe.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Cash conversion cycle povezuje dane zalihe, naplate i plaćanja.
 2. Ciklus u primeru je 35 dana.

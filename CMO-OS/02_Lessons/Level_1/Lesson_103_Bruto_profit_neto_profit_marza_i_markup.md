@@ -17,6 +17,24 @@ Bruto profit je iznos, bruto marža je procenat prihoda, a markup je procenat na
 
 Marža i markup koriste isti bruto profit u brojniku, ali različit imenilac. Zato 50% markup nije 50% marža.
 
+### Zašto je ovo važno vlasniku
+
+Ako dobavljač kaže „markup 25%“, a menadžer čuje „marža 25%“, cena će biti postavljena prenisko.
+
+### Na tabli `[FIXTURE]`
+
+Miš ima nabavnu cenu 2.000 RSD i prodajnu cenu 2.500 RSD. Bruto profit je 500 RSD. Markup = 500 ÷ 2.000 × 100 = 25%. Bruto marža = 500 ÷ 2.500 × 100 = 20%.
+
+Pravilo: kada je bruto profit pozitivan, marža je uvek manja od markup-a, jer je prihod veći od troška robe.
+
+### Od bruto do neto profita
+
+Bruto profit − operativni troškovi (zakup, plate, marketing) = operativni rezultat. Posle kamata i poreza dobija se neto profit. Kada nisu dati svi rashodi, neto profit ostaje `[UNKNOWN]`.
+
+### Veza sa drugim lekcijama
+
+Lesson 104 koristi doprinos pokriću (cena − varijabilni trošak). On je manji od bruto profita kada postoje varijabilni troškovi osim nabavke robe, na primer provizija.
+
 ## Visual model
 
 1. Prodajna cena → 2. Minus direktni trošak → 3. Bruto profit → 4. Marža ili markup
@@ -68,11 +86,11 @@ Za trošak 15.000 i cenu 21.000 izračunaj bruto profit, maržu i markup. Objasn
 
 **Rešenje za proveru:** Bruto profit 21.000 − 15.000 = 6.000 RSD; marža 6.000 ÷ 21.000 = 28,6% (imenilac je prihod); markup 6.000 ÷ 15.000 = 40% (imenilac je trošak).
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Marža deli bruto profit prihodom, a markup troškom.
 2. U primeru su bruto profit 4.000 RSD, marža 33,3% i markup 50%.

@@ -17,6 +17,26 @@ Proces je ponovljiv tok koji ulaz pretvara u ishod za kupca. Kapacitet svake faz
 
 Ubrzavanje dela koji nije usko grlo često samo stvara red i više rada u toku. Prvo zaštiti i iskoristi ograničenje, zatim podredi ostale faze i tek onda investiraj u širenje.
 
+### Zašto je ovo važno vlasniku
+
+Ubrzavanje dela posla koji nije usko grlo troši novac i ne povećava rezultat. Vlasnik prvo traži mesto koje ograničava ceo sistem.
+
+### Na tabli `[FIXTURE]`
+
+Isporuka naručene robe ima tri koraka: priprema porudžbine 20 na sat, pakovanje 8 na sat, otprema 15 na sat. Sistem ne može da isporuči više od 8 porudžbina na sat. Dodatni čovek na pripremi samo pravi red ispred pakovanja.
+
+### Sa čim se meša
+
+Usko grlo nije uvek najsporija osoba; može biti mašina, odobrenje ili pravilo. Visoka iskorišćenost svih ljudi nije cilj.
+
+### Veza sa drugim lekcijama
+
+Uvodi Level 7; Lesson 702 standardizuje rad na uskom grlu.
+
+### Iz korpusa
+
+BK-012 *The Goal*, PDF pp. 260–262 (usko grlo i resurs ograničenog kapaciteta; strana 261 vizuelno proverena 2026-11-05). BK-014 p. 387 (Constraint) proveren u tekstu korpusa.
+
 ## Visual model
 
 1. Ulaz → 2. Faza A → 3. Usko grlo → 4. Ishod
@@ -68,11 +88,11 @@ Manje reda i realniji rok kupcu.
 
 Mapiraj pet koraka procesa, kapacitet, vreme čekanja, WIP i najverovatnije usko grlo. Predloži test bez dodatnog zapošljavanja.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Usko grlo određuje maksimalni protok celog procesa.
 2. Kapacitet sistema u primeru je 12 uređaja dnevno.

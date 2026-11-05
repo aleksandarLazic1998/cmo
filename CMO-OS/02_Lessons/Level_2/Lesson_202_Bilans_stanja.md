@@ -17,6 +17,26 @@ Bilans stanja je fotografija firme na određeni dan. Leva strana pokazuje imovin
 
 Osnovna ravnoteža je: imovina = obaveze + kapital. Profit može povećati kapital, ali kupovina zaliha samo menja oblik imovine iz gotovine u robu.
 
+### Zašto je ovo važno vlasniku
+
+Bilans stanja pokazuje šta firma ima, koliko duguje i koliko pripada vlasniku na određeni dan. Iz njega se vidi da li je rast finansiran sopstvenim novcem ili tuđim dugom.
+
+### Na tabli `[FIXTURE]`
+
+Firma kupi opremu za servis od 300.000 RSD na kredit. Imovina raste za 300.000 RSD (oprema), obaveze rastu za 300.000 RSD (kredit), a kapital se ne menja. Jednačina imovina = obaveze + kapital ostaje u ravnoteži.
+
+### Sa čim se meša
+
+Bilans stanja nije film perioda kao bilans uspeha, već fotografija jednog dana. Veća imovina ne znači bogatiju firmu ako su istovremeno porasle obaveze.
+
+### Veza sa drugim lekcijama
+
+Lesson 201 stvara rezultat koji ulazi u kapital; Lesson 203 i 204 objašnjavaju kretanje gotovine, potraživanja, zaliha i obaveza.
+
+### Iz korpusa
+
+BK-006, PDF pp. 73–103 (imovina, obaveze, kapital i osnovna jednačina; whole-book beleška). BK-014 p. 205 (Balance Sheet) proveren u tekstu korpusa 2026-11-05.
+
 ## Visual model
 
 1. Gotovina, zalihe, oprema → 2. = → 3. Obaveze → 4. + kapital
@@ -68,11 +88,11 @@ Prikaži efekat naplate kupca od 100.000 RSD na potraživanja i gotovinu. Objasn
 
 **Rešenje za proveru:** Naplata smanjuje potraživanja za 100.000 RSD i povećava gotovinu za 100.000 RSD. Ukupna imovina se ne menja jer je jedna imovina zamenjena drugom; obaveze i kapital ostaju isti, pa bilans i dalje štima.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Bilans stanja prikazuje imovinu, obaveze i kapital na određeni dan.
 2. Kupovina zaliha na odloženo povećava i imovinu i obaveze za 300.000 RSD.

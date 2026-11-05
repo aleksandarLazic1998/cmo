@@ -76,6 +76,8 @@ Primer:
 
 # 4. Concept Explanation
 
+Minimum dubine (canonical lekcija, sekcija „Teach & explain“): za svaki novi pojam navesti (1) zašto je važan vlasniku, (2) definiciju običnim jezikom uz engleski termin, (3) najmanje jedan `[FIXTURE]` primer iz prodavnice tehnike sa formulom i jedinicom, (4) sa čim se pojam meša i gde mu je granica, (5) vezu sa prethodnom i sledećom lekcijom. Primer u teoriji ne sme ponoviti brojeve iz praktične vežbe ni procene.
+
 ## Šta je koncept?
 
 Jednostavno objašnjenje bez komplikovanih termina.

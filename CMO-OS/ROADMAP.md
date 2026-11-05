@@ -1,7 +1,7 @@
 # CMO OS Learning Roadmap
 
 System version: `CMO-OS 2.0.0`  
-Curriculum version: `2026.08-expanded`  
+Curriculum version: `2026.11-expanded`  
 Status: `active`
 
 Roadmap definiše program, ne tvrdi šta je trenutni učenik završio. Live napredak, dokaz kompetencije, snage i slabosti postoje samo u `10_Daily/Learning_Progress.md`. Veze između koncepata postoje u `01_Knowledge/Knowledge_Graph.md`.
@@ -47,14 +47,16 @@ Lekcija može biti unapred izrađena i auditirana kao `AUTHORED`. To ne znači d
 | 3 | Kupac i validacija ideje | Razume problem, segment, razgovor sa kupcem, dokaz i eksperiment. | 4 |
 | 4 | Poslovni model, vrednost i ponuda | Oblikuje poslovni model, value proposition, pozicioniranje, cenu i ponudu. | 4 |
 | 5 | Prodaja i marketing | Vodi prodajni tok i meri akviziciju, konverziju, retenciju, CAC i LTV. | 5 |
-| 6 | Retail i category management | Upravlja asortimanom, zalihama, korpom, attach rate-om i profitabilnošću kategorije. | 5 |
+| 6 | Retail i category management | Upravlja asortimanom, zalihama, korpom, attach rate-om, nabavkom, postprodajom i profitabilnošću kategorije. | 7 |
 | 7 | Operacije i poslovni sistemi | Mapira procese, nalazi usko grlo, standardizuje rad i upravlja kvalitetom. | 4 |
-| 8 | Komercijalno upravljanje | Postavlja KPI-je, budžet, forecast, ritam sastanaka i korektivne akcije. | 4 |
-| 9 | Ljudi i liderstvo | Zapošljava, delegira, meri učinak, daje feedback i razvija tim. | 4 |
-| 10 | Strategija, skaliranje i CEO razmišljanje | Donosi povezane odluke o fokusu, riziku, kapitalu, rastu i nezavisnosti firme od vlasnika. | 5 |
-|  | **Ukupno** |  | **49** |
+| 8 | Komercijalno upravljanje | Postavlja KPI-je, budžet, forecast, ritam sastanaka, korektivne akcije i kvalitetne odluke pod neizvesnošću. | 5 |
+| 9 | Ljudi i liderstvo | Zapošljava, delegira, meri učinak, daje feedback, razvija tim i postavlja strukturu odgovornosti. | 5 |
+| 10 | Strategija, skaliranje i CEO razmišljanje | Donosi povezane, etične i zakonite odluke o fokusu, riziku, kapitalu, rastu i nezavisnosti firme od vlasnika. | 6 |
+|  | **Ukupno** |  | **54** |
 
-Detaljan redosled i prerequisites postoje u `02_Lessons/LESSON_CATALOG.md`.
+Detaljan redosled i prerequisites postoje u `02_Lessons/LESSON_CATALOG.md`; integracioni scenario svakog nivoa je `02_Lessons/Level_N/Gate_Level_N.md` (Level 10: Lesson 1005).
+
+Redosled ostaje: finansije (Level 1–2) pre kupca (Level 3). Da bi finansije ostale relevantne, mentor svaki finansijski pojam vezuje za odluku o kupcu, ponudi ili prodavnici iz Level 0 i za konkretnu primenu uskoro posle lekcije (`11_Research/Learning_Science_Evidence.md`, LSE-07).
 
 ## Evidence gate
 

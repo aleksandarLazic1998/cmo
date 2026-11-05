@@ -17,6 +17,26 @@ Popust snižava profit po jedinici. Da bi ukupan profit ostao isti, količina mo
 
 Zato nije dovoljno pitati „koliko više komada prodajemo“. Treba izračunati novi doprinos pokriću po jedinici (contribution margin: prodajna cena minus relevantni varijabilni trošak) i potreban dodatni volumen, uz ograničenje kapaciteta i zaliha.
 
+### Zašto je ovo važno vlasniku
+
+Popust je najbrži način da se poveća promet i najlakši način da se smanji profit.
+
+### Pravilo, običnim jezikom
+
+Potrebna količina za isti doprinos = stari ukupan doprinos ÷ novi doprinos po jedinici.
+
+### Na tabli `[FIXTURE]`
+
+Punjač košta 2.000 RSD, varijabilni trošak je 1.200 RSD, doprinos 800 RSD, a prodaje se 50 komada: ukupno 40.000 RSD doprinosa. Uz popust od 20% cena je 1.600 RSD, a doprinos 400 RSD. Za istih 40.000 RSD treba 40.000 ÷ 400 = 100 komada, dvostruko više. Popust od 20% ovde traži 100% više prodaje, jer je pojeo polovinu doprinosa.
+
+### Sa čim se meša
+
+Veći promet nije veći profit. Takođe, nije svaki dodatni komad inkrementalan: deo kupaca bi kupio i po punoj ceni.
+
+### Veza sa drugim lekcijama
+
+Lesson 105 koristi isti doprinos za break-even; Lesson 605 primenjuje ovu logiku na promociju kategorije.
+
 ## Visual model
 
 1. Stara cena i doprinos → 2. Popust → 3. Novi doprinos → 4. Potreban volumen
@@ -68,11 +88,11 @@ Promeni popust na 15% i izračunaj novi potreban volumen. Dodaj jedan guardrail 
 
 **Rešenje za proveru:** Popust 15% spušta cenu na 8.500 RSD, pa doprinos pada sa 4.000 na 2.500 RSD. Za istih 400.000 RSD doprinosa treba 400.000 ÷ 2.500 = 160 komada, odnosno 60% više prodaje. Guardrail primer: minimalna marža po komadu ili maksimalan udeo popusta u prometu.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Popust se procenjuje preko novog doprinosa po jedinici i potrebnog volumena.
 2. Za isti doprinos u primeru treba najmanje 134 komada.

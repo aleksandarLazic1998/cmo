@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-05",
+  "method": {
+    "BK-014": "page text from tmp/pdfs/full_corpus/BK-014/full.txt split by form feed (PDF page index); heading keyword searched on cited page and +/-2 pages",
+    "images": "rendered PDF page viewed directly from tmp/pdfs/full_corpus/<BK>/rendered/page-NNN.png",
+    "notes": "other locators taken from whole-book notes (11_Research/book_acquisition/notes), PDF page convention"
+  },
+  "bk014_summary": {"checked": 48, "exact": 41, "range_refined": 6, "wrong_corrected": 1},
+  "corrections": [
+    {"lesson": "603", "old": "BK-014 pp. 361-362 (Stock, Slack)", "new": "BK-014 pp. 383-385", "reason": "pp. 361-362 contain Divergence/Social Proof; Stock heading p. 383, Slack p. 384"},
+    {"lesson": "302", "old": "p. 69", "new": "pp. 67-69"},
+    {"lesson": "404", "old": "p. 168", "new": "pp. 167-168"},
+    {"lesson": "604", "old": "p. 209", "new": "pp. 208-209"},
+    {"lesson": "902", "old": "p. 380", "new": "pp. 377-380"},
+    {"lesson": "1003", "old": "p. 452", "new": "pp. 450-452"},
+    {"lesson": "1005", "old": "p. 452", "new": "pp. 450-452"}
+  ],
+  "image_checks": [
+    {"book": "BK-006", "page": 112, "claim": "profitable business without cash (note pp. 110-116)", "result": "confirmed"},
+    {"book": "BK-012", "page": 261, "claim": "bottleneck / capacity constraint resource (note pp. 260-262)", "result": "confirmed (CCR discussion)"},
+    {"book": "BK-015", "page": 22, "claim": "scorecard: mission, outcomes, competencies (note pp. 21-42)", "result": "confirmed"},
+    {"book": "BK-007", "page": 90, "claim": "kernel: diagnosis, guiding policy, coherent actions (note pp. 89-105)", "result": "confirmed"}
+  ],
+  "corpus_gaps": [
+    {"book": "BK-013 The Mom Test", "rendered_pages": 1, "pdf_pages": 125, "impact": "locators for lessons 301/303 cannot be image-verified"},
+    {"book": "BK-003", "rendered_pages": 9, "pdf_pages": 8, "impact": "none for current lessons"}
+  ],
+  "not_verified": ["BK-011 and BK-004 locators (notes do not use the same page format)", "every note locator other than the four image checks"]
+}

@@ -17,6 +17,26 @@ Budžet je odobren plan resursa, forecast je najnovija procena ishoda sa naveden
 
 Pipeline-to-revenue forecast množi vrednost prilika verovatnoćom samo kada su faze i verovatnoće kalibrisane. Uz weighted iznos treba prikazati i rizik koncentracije, vremena i kapaciteta.
 
+### Zašto je ovo važno vlasniku
+
+Plan bez scenarija iznenadi vlasnika onda kada je najkasnije za reakciju.
+
+### Na tabli `[FIXTURE]`
+
+Prilike u pregovoru: 400.000 RSD sa verovatnoćom 50% i 200.000 RSD sa verovatnoćom 25%. Ponderisana prognoza = 400.000 × 0,5 + 200.000 × 0,25 = 250.000 RSD. Loš scenario pretpostavlja da nijedna ne uspe; budžet troškova mora izdržati i taj slučaj.
+
+### Sa čim se meša
+
+Prognoza nije obećanje i ne treba je menjati da bi ličila na budžet. Verovatnoće su procene `[ASSUMPTION]`.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 801; Lesson 805 dodaje kvalitet odluke pod neizvesnošću.
+
+### Iz korpusa
+
+BK-014 pp. 447 i 355 (Scenario Planning, Planning Fallacy) provereni u tekstu korpusa. BK-011 za ritam planiranja (locator nije proveren u ovoj sesiji).
+
 ## Visual model
 
 1. Budžet → 2. Stvarni driver-i → 3. Base / upside / downside → 4. Forecast i akcija
@@ -67,11 +87,11 @@ Forecast ostaje iskren signal, ne prepisani cilj.
 
 Napravi base, upside i downside forecast iz pet prilika. Dodaj očekivani datum, verovatnoću, owner-a i rizik koncentracije.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Budžet je plan, forecast procena, a scenario raspon mogućih ishoda.
 2. Weighted forecast u primeru je 590.000 RSD, 110.000 ispod budžeta.

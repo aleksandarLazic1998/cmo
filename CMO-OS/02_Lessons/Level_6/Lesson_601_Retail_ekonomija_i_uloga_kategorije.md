@@ -17,6 +17,26 @@ Kategorija nije samo grupa sličnih proizvoda. Ona ima ulogu za kupca i firmu: m
 
 Retail ekonomija uključuje i dobavljača: nabavna cena, rok plaćanja, dostupnost, rebate i podrška menjaju stvarni doprinos kategorije, ali nijedan bonus ne popravlja robu koja se ne prodaje.
 
+### Zašto je ovo važno vlasniku
+
+Svaka kategorija ima drugačiji zadatak. Ko ih sve meri istim KPI-jem, može ugasiti kategoriju koja dovodi kupce ili gurati onu koja troši gotovinu.
+
+### Na tabli `[FIXTURE]`
+
+Televizori imaju nisku maržu (npr. 12%), ali dovode kupce u prodavnicu. Kablovi i nosači imaju visoku maržu (npr. 45%) i prodaju se uz televizore. Ako se televizori uklone zbog niske marže, pada i prodaja kablova.
+
+### Sa čim se meša
+
+Niska marža ne znači lošu kategoriju, a visok promet ne znači dobru. Uloga kategorije se dokazuje podacima o korpi, ne pretpostavkom.
+
+### Veza sa drugim lekcijama
+
+Uvodi Level 6; Lesson 602–605 razrađuju asortiman, zalihu, korpu i promociju; Lesson 606 nabavku.
+
+### Iz korpusa
+
+BK-014 pp. 194–196 (Profit, Value Capture) provereni u tekstu korpusa. BK-006 za doprinos kategorije (whole-book beleška).
+
 ## Visual model
 
 1. Uloga kategorije → 2. Kupac i saobraćaj → 3. Marža i obrt → 4. Dobavljačka ekonomika
@@ -66,11 +86,11 @@ Uloga se meri ukupnim doprinosom, ne samo maržom jedne SKU.
 
 Za tri kategorije odredi ulogu, kupca, KPI, profitnu polugu, supplier driver i guardrail.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Uloga kategorije može biti saobraćaj, profit, poverenje ili strateška veza.
 2. Ukupan bruto profit pre bonusa u primeru je 720.000 RSD.

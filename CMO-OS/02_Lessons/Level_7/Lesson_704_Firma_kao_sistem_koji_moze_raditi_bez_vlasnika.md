@@ -17,6 +17,26 @@ Firma zavisna od vlasnika staje kada vlasnik ne odgovori, odobri ili reši izuze
 
 Cilj nije ukloniti vlasnika iz strategije, već iz uloge univerzalnog uskog grla. Owner independence povećava otpornost, kvalitet života i prenosivost firme.
 
+### Zašto je ovo važno vlasniku
+
+Firma koja ne radi bez vlasnika teško se proširuje, prodaje ili preživljava bolest vlasnika.
+
+### Na tabli `[FIXTURE]`
+
+Vlasnik nedelju dana beleži svaku odluku koja je čekala njega: odobrenja popusta, porudžbine, reklamacije. Ako se većina ponavlja i ima jasno pravilo, može se preneti na tim uz standard i granicu odlučivanja.
+
+### Sa čim se meša
+
+Nezavisnost od vlasnika ne znači da vlasnik nije potreban; znači da je oslobođen rutine za strategiju i razvoj.
+
+### Veza sa drugim lekcijama
+
+Spaja Lesson 701–703; Lesson 905 postavlja strukturu odgovornosti.
+
+### Iz korpusa
+
+BK-005, PDF pp. 65–90 (franšizni prototip; whole-book beleška). BK-004 *Built to Sell* (zavisnost od vlasnika; locator nije proveren u ovoj sesiji).
+
 ## Visual model
 
 1. Posao u glavi vlasnika → 2. Dokumentuj i meri → 3. Prenesi decision rights → 4. Sistem radi i u odsustvu
@@ -66,11 +86,11 @@ Odsustvo postaje test sistema, ne kriza.
 
 Napravi sedmodnevni owner-dependency audit: sve odluke, razlog čekanja, rizik, budući owner i potreban standard.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Owner independence znači da rutinski sistem ne zavisi od stalne intervencije vlasnika.
 2. Zavisnost u primeru pada sa 70% na 15%.

@@ -17,6 +17,26 @@ Vlasnički budžet odvaja novac firme, poreze, rezervu i ličnu potrošnju. Prav
 
 Ova lekcija uči proces odluke, ne daje pravni ili poreski savet: definiši poslovni model, proveri aktuelne zvanične izvore, napravi scenarije i potvrdi odluku sa računovođom ili pravnikom.
 
+### Zašto je ovo važno vlasniku
+
+Vlasnik koji ne odvaja novac za poreze, rezervu i ličnu isplatu troši novac firme dva puta. Pravna forma menja odgovornost i obaveze, pa se bira uz stručnjaka.
+
+### Na tabli `[FIXTURE]`
+
+Mesečni priliv je 1.000.000 RSD. Vlasnik pravi pravilo raspodele: prvo izdvaja iznos za poreze koji određuje računovođa (`[UNKNOWN]` dok ga ne potvrdi), zatim 5% za rezervu i dogovorenu ličnu isplatu, a ostatak je budžet za rad firme. Procenti su nastavni primer, ne preporuka.
+
+### Sa čim se meša
+
+Budžet vlasnika nije poreski savet. Metoda raspodele novca je kontrola ponašanja, ne zamena za računovodstvo ni za cash-flow prognozu.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 203 (gotovina); priprema Lesson 802 (budžet i prognoza) i 1006 (usklađenost).
+
+### Iz korpusa
+
+BK-010 *Profit First*, PDF pp. 24–47 (profit kao prva raspodela; whole-book beleška). BK-014 p. 199 (Sufficiency) proveren u tekstu korpusa. Za porez i pravnu formu Srbije važe samo zvanični izvori i računovođa.
+
 ## Visual model
 
 1. Poslovni model → 2. Pravna i poreska opcija → 3. Zvanična provera → 4. Stručna potvrda
@@ -67,11 +87,11 @@ Budžet ne predstavlja nepoznatu poresku obavezu kao činjenicu.
 
 Napravi listu pitanja za računovođu: delatnost, očekivani promet, zaposleni, PDV, odgovornost, isplata vlasniku i rokovi.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Pravna forma i poreski status zavise od konkretnog modela i aktuelnih propisa.
 2. Bez potvrđenog poreza raspoloživi iznos vlasniku ostaje [UNKNOWN].

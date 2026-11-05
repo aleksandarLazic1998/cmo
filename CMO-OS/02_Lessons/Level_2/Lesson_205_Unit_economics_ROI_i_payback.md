@@ -17,6 +17,26 @@ Unit economics proverava da li jedna jedinica, kupac ili porudžbina stvara dovo
 
 Dobar procenat nije dovoljan bez perioda, rizika i apsolutnog iznosa. Brz povrat male investicije i spor povrat velike investicije imaju različite posledice po gotovinu.
 
+### Zašto je ovo važno vlasniku
+
+Investicija ima smisla tek kada se zna koliko vraća, za koliko vremena i šta se dešava ako pretpostavke ne važe.
+
+### Na tabli `[FIXTURE]`
+
+Kasa sa samonaplatom košta 600.000 RSD i štedi rad, pa donosi 25.000 RSD dodatnog doprinosa mesečno. Payback = 600.000 ÷ 25.000 = 24 meseca. Ako se kasa zastari za 36 meseci, preostalih 12 meseci je stvarna zarada, uz rizik da ušteda bude manja.
+
+### Sa čim se meša
+
+Visok ROI u procentima ne znači veliki iznos; brz payback ne znači da je investicija strateški važna. Unit economics jedne prodaje nije isto što i profit cele firme.
+
+### Veza sa drugim lekcijama
+
+Koristi doprinos iz Lesson 104–105 i gotovinu iz Lesson 203; Lesson 1004 proširuje na raspodelu kapitala.
+
+### Iz korpusa
+
+BK-006, PDF pp. 164–183 (početni izdatak, inkrementalni novčani tokovi, payback, NPV; whole-book beleška). BK-014 pp. 212 i 235 (Lifetime Value, ROI) provereni u tekstu korpusa.
+
 ## Visual model
 
 1. Ulaganje → 2. Dodatni doprinos → 3. ROI → 4. Vreme povrata
@@ -68,11 +88,11 @@ Izračunaj payback ako doprinos padne 25%. Napiši dve pretpostavke koje bi prvo
 
 **Rešenje za proveru:** Doprinos pada sa 75.000 na 56.250 RSD mesečno. Payback = 600.000 ÷ 56.250 = 10,7 meseci umesto 8. Primeri pretpostavki za validaciju: da tražnja ostaje na projektovanom nivou i da doprinos po jedinici ne pada dalje zbog popusta ili rasta troška.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. ROI i payback odgovaraju na različita pitanja o povratu.
 2. U baznom primeru payback je 8 meseci, a jednostavni jednogodišnji ROI 50%.

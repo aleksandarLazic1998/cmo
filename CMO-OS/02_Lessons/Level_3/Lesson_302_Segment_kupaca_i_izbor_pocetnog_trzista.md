@@ -17,6 +17,26 @@ Segment nije „svi kojima treba proizvod“. Dobar početni segment deli sličn
 
 Uži početak nije odricanje od rasta. To je način da brže naučiš gde je problem najjači i gde imaš pravo da pobediš.
 
+### Zašto je ovo važno vlasniku
+
+Mala firma ne može da služi sve. Dobar početni segment daje jasnu poruku, jeftiniju prodaju i brže učenje.
+
+### Na tabli `[FIXTURE]`
+
+Prodavnica poredi dva segmenta na skali 1–5: male računovodstvene agencije (problem 4, dostupnost 5, budžet 3) i studente (problem 3, dostupnost 4, budžet 2). Agencije imaju zbir 12, studenti 9, pa su agencije bolji početak za uslugu podešavanja opreme. Ocene su pretpostavke koje treba proveriti razgovorom.
+
+### Sa čim se meša
+
+Segment nije demografija sama po sebi; povezuje ga ista situacija i isti kriterijum odluke. Uži početak nije odricanje od rasta.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 301; Lesson 403 koristi segment za pozicioniranje.
+
+### Iz korpusa
+
+BK-009 *Obviously Awesome*, PDF pp. 75–80 (stvarne alternative kupca; whole-book beleška). BK-014 pp. 67–69 (Ten Ways to Evaluate a Market) proveren u tekstu korpusa; raniji lokator „p. 69“ preciziran.
+
 ## Visual model
 
 1. Široko tržište → 2. Zajednička situacija → 3. Važan problem → 4. Početni segment
@@ -67,11 +87,11 @@ Jasnija poruka, kanal i kriterijum validacije.
 
 Definiši tri moguća segmenta. Oceni ih 1–5 po jačini problema, pristupačnosti, budžetu, konkurenciji i fitu.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Dobar segment deli situaciju, problem, ponašanje i kriterijum odluke.
 2. U simulaciji je stopa problema 75% u računovodstvenim biroima.
@@ -83,6 +103,6 @@ Canonical prolaz zahteva najmanje 80/100, najmanje 15/25 u svakoj oblasti, demon
 ## Sources and limits
 
 - CMO OS originalna sinteza · bez prepisivanja knjiga
-- Korpus: `BKB-POS-002`, `BKB-CUS-001` · BK-009 (izbor tržišnog okvira) · BK-014 p. 69 (Ten Ways to Evaluate a Market)
+- Korpus: `BKB-POS-002`, `BKB-CUS-001` · BK-009 (izbor tržišnog okvira) · BK-014 pp. 67–69 (Ten Ways to Evaluate a Market)
 
 Knjige su sekundarni izvori. Ova lekcija je originalna CMO OS sinteza i ne kopira dostavljene knjige.

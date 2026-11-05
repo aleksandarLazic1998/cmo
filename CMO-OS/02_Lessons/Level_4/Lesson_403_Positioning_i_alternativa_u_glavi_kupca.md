@@ -17,6 +17,26 @@ Positioning određuje u koju kategoriju kupac stavlja ponudu, sa kojim alternati
 
 Počinje od stvarnih alternativa, jedinstvenih sposobnosti, vrednosti koju one stvaraju i kupaca kojima je ta vrednost najvažnija.
 
+### Zašto je ovo važno vlasniku
+
+Kupac uvek poredi. Ako firma ne odredi sa čim je poredi, kupac će je porediti sa najjeftinijom opcijom.
+
+### Na tabli `[FIXTURE]`
+
+Paket „servis + kontinuitet rada“ za male firme ne poredi se sa drugim servisom, već sa stvarnim alternativama kupca: pozivom poznanika, kupovinom novog uređaja ili time da ne uradi ništa i čeka kvar.
+
+### Sa čim se meša
+
+Pozicioniranje nije slogan, logo ni opšta tvrdnja o kvalitetu. „Ne uraditi ništa“ je često najjača konkurencija.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 302 i 402; Lesson 1002 ga povezuje sa konkurentskom prednošću.
+
+### Iz korpusa
+
+BK-009 *Obviously Awesome*, PDF pp. 75–80 (stvarne alternative kupca; whole-book beleška).
+
 ## Visual model
 
 1. Alternativa → 2. Jedinstvena sposobnost → 3. Vrednost → 4. Najbolji segment
@@ -67,11 +87,11 @@ Kupac poredi ponudu prema ishodu, ne samo satnici.
 
 Napiši pet elemenata positioninga za jednu ponudu i proveri da li konkurentska alternativa uključuje i „ne uraditi ništa“.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Positioning objašnjava alternativu, razliku, vrednost, segment i kategoriju.
 2. U primeru je sačuvano 10 sati, dok je novčana vrednost [UNKNOWN].

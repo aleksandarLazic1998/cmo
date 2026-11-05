@@ -17,6 +17,26 @@ Prihod nastaje iz dve poluge: koliko jedinica prodaš i po kojoj prosečnoj ceni
 
 Prosečna prodajna cena nije cenovnik. To je stvarno ostvareni prihod podeljen brojem prodatih jedinica, posle kombinacije modela, popusta i paketa.
 
+### Zašto je ovo važno vlasniku
+
+Kada prihod padne ili poraste, prvo pitanje glasi: da li se promenila količina, ostvarena cena ili miks? Svaki uzrok traži drugačiju akciju.
+
+### Običnim jezikom
+
+Prihod = količina × prosečna prodajna cena. Isti prihod od 20.000 RSD daje 20 kablova po 1.000 RSD ili 2 monitora po 10.000 RSD `[FIXTURE]`.
+
+### Na tabli `[FIXTURE]`
+
+Prošlog meseca prodato je 50 telefona za 1.500.000 RSD, pa je prosečna cena 30.000 RSD. Ovog meseca prodato je opet 50 telefona, ali za 1.350.000 RSD, pa je prosečna cena 27.000 RSD. Količina je ista; pala je ostvarena cena. Uzrok može biti popust ili to što su kupci birali jeftinije modele (miks). Sledeći korak je utvrditi koje od to dvoje.
+
+### Sa čim se meša
+
+Prihod nije gotovina, jer naplata može kasniti, i nije profit (Lesson 001). Prosečna prodajna cena nije cena iz cenovnika.
+
+### Veza sa drugim lekcijama
+
+Lesson 102 objašnjava troškove koji se od prihoda oduzimaju; Lesson 104 pokazuje kako cena i količina zajedno menjaju profit.
+
 ## Visual model
 
 1. Količina → 2. Ostvarena cena → 3. Količina × cena → 4. Prihod
@@ -68,11 +88,11 @@ U novom `[FIXTURE]` scenariju izaberi tri proizvoda sa različitim količinama i
 
 **Rešenje za proveru:** Bazni primer: prihod 6 × 4.000 + 4 × 9.000 = 60.000 RSD; prosečna cena 60.000 ÷ 10 = 6.000 RSD. Promena miksa na 4 osnovna i 6 premium, uz istih 10 jedinica: prihod 16.000 + 54.000 = 70.000 RSD i prosečna cena 7.000 RSD — količina je ista, prihod veći samo zbog miksa.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Prihod je količina pomnožena ostvarenom cenom, sabrano kroz prodaje.
 2. Prosečna ostvarena cena u primeru je 6.000 RSD.

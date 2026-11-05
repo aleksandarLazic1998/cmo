@@ -17,6 +17,30 @@ Trošak se klasifikuje prema pitanju koje postavljaš. Fiksni i varijabilni govo
 
 Isti trošak može biti fiksan u jednom periodu, a promenljiv u dužem. Klasifikacija nije etiketa zauvek, već alat za odluku.
 
+### Zašto je ovo važno vlasniku
+
+Pogrešna klasifikacija vodi pogrešnoj odluci. Na primer, dodatna porudžbina se odbije jer joj je „pripisan“ deo zakupa koji se plaća u svakom slučaju.
+
+### Dva pitanja za svaki trošak
+
+1. Da li trošak raste kada prodam još jednu jedinicu? Da → varijabilni; ne, u posmatranom opsegu → fiksni.
+2. Mogu li ga pouzdano vezati za konkretan proizvod ili posao? Da → direktni; ne → indirektni.
+
+### Na tabli `[FIXTURE]`
+
+- Naknada banke po kartičnoj transakciji: varijabilna i direktna, jer nastaje uz svaku konkretnu prodaju.
+- Poklon-ambalaža koju kupac dobija uz kupovinu: varijabilna i direktna.
+- Mesečna licenca softvera za kasu: fiksna i indirektna, jer služi svim prodajama.
+- Mesečni honorar računovodstvene agencije: fiksan i indirektan.
+
+### Sa čim se meša
+
+Fiksni ne znači „zauvek isti“: druga prodavnica podiže zakup. Indirektni ne znači nevažan; i on mora biti pokriven iz doprinosa svih prodaja.
+
+### Veza sa drugim lekcijama
+
+Lesson 103 koristi direktni trošak za bruto profit; Lesson 105 koristi varijabilne i fiksne troškove za break-even.
+
 ## Visual model
 
 1. Trošak → 2. Veza sa obimom → 3. Veza sa proizvodom → 4. Prava odluka
@@ -66,11 +90,11 @@ Izbegnuto dvostruko računanje zakupa po jedinici.
 
 Klasifikuj zakup, proviziju, platu, dostavu i robu po obe ose. Za svaki napiši period i odluku.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Fiksno/varijabilno i direktno/indirektno su dve različite klasifikacije.
 2. Varijabilni troškovi u primeru iznose 3.020.000 RSD.

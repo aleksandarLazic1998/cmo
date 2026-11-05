@@ -17,6 +17,26 @@ Etičan prodajni razgovor prvo dijagnostikuje situaciju i kriterijum odluke, zat
 
 Pregovaranje menja više elemenata od cene: scope, količinu, rok, rizik i uslove. Zatvaranje znači dogovoren sledeći korak, ne manipulaciju.
 
+### Zašto je ovo važno vlasniku
+
+Prodajni razgovor odlučuje da li će kupac kupiti pravu stvar i ostati zadovoljan. Pritisak može doneti prodaju danas i reklamaciju sutra.
+
+### Na tabli `[FIXTURE]`
+
+Kupac kaže: „Skupo je.“ Umesto popusta prodavac pita sa čim poredi, šta mu je najvažnije i šta se dešava ako uređaj otkaže. Ako je kupcu ključna pouzdanost, prodavac pokazuje garanciju i servis; ako je ključna cena, nudi jeftiniji model koji i dalje rešava potrebu.
+
+### Sa čim se meša
+
+Pregovaranje nije samo cena: može se menjati obim, rok, količina ili uslov. Zatvaranje je dogovoren sledeći korak, ne trik.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 502; Lesson 606 primenjuje pregovaranje na dobavljače, Lesson 1006 daje etičke granice.
+
+### Iz korpusa
+
+BK-014 pp. 161–168 (otpor ubeđivanju, barijere kupovini, preuzimanje rizika) provereni u tekstu korpusa. BK-002 koristiti kritički.
+
 ## Visual model
 
 1. Dijagnoza → 2. Vrednost i dokaz → 3. Prigovor / pregovor → 4. Jasan sledeći korak
@@ -66,11 +86,11 @@ Cena se razmatra uz vrednost i uslove.
 
 Odigraj razgovor: 5 dijagnostičkih pitanja, potvrda potrebe, jedan dokaz, prigovor, dve opcije i sledeći korak.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Prodajni razgovor dijagnostikuje potrebu pre predstavljanja rešenja.
 2. Razlika cena u primeru raspoređena na 20 sati iznosi 1.500 RSD po satu.

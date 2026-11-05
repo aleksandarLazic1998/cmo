@@ -17,6 +17,26 @@ Menadžerski output nije ono što menadžer lično uradi, već rezultat tima i s
 
 Delegiranje bez konteksta stvara vraćanje zadataka; mikroupravljanje guši ownerstvo. Pravi nivo kontrole zavisi od rizika, sposobnosti i povratnosti odluke.
 
+### Zašto je ovo važno vlasniku
+
+Menadžer meri sebe po rezultatu tima, ne po sopstvenoj zauzetosti.
+
+### Na tabli `[FIXTURE]`
+
+Vlasnik provede 1 sat obučavajući 10 prodavaca kako da proveravaju garanciju. Ako svako uštedi 15 minuta nedeljno, tim dobija 10 × 15 = 150 minuta, odnosno 2,5 sata nedeljno. Jedan sat obuke se vraća već prve nedelje.
+
+### Sa čim se meša
+
+Leverage nije prebacivanje posla na druge bez konteksta. Mikroupravljanje smanjuje output jer menadžer postaje usko grlo.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 703; Lesson 904 razvija ljude kroz feedback.
+
+### Iz korpusa
+
+BK-008, PDF pp. 33–44 (output i poluge menadžera; whole-book beleška).
+
 ## Visual model
 
 1. Jasan ishod → 2. Kontekst i ovlašćenje → 3. Timsko izvršenje → 4. Feedback i leverage
@@ -66,11 +86,11 @@ Menadžer ulaže u sposobnost tima umesto trajnog popravljanja.
 
 Izaberi jedan ponovljeni problem i uporedi tri opcije: lično uradi, delegiraj sa brief-om, izgradi standard/trening.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Menadžerski output obuhvata rezultat tima i sistema, ne samo lični rad.
 2. Trening u primeru vraća uloženo vreme za manje od jedne nedelje.

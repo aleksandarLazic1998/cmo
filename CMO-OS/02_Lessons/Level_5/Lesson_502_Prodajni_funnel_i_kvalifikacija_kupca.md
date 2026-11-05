@@ -17,6 +17,26 @@ Funnel prikazuje koliko kupaca prolazi kroz jasno definisane faze. Lead nije ist
 
 Konverzija se uvek vezuje za dve faze, period i populaciju. Bez toga procenat izgleda precizno, ali ništa ne znači.
 
+### Zašto je ovo važno vlasniku
+
+Funnel pokazuje gde se kupci gube. Bez jasnih faza vlasnik ne zna da li mu treba više upita ili bolja prodaja.
+
+### Na tabli `[FIXTURE]`
+
+Mesec: 200 upita, od toga 60 kvalifikovanih prilika (30%), od toga 15 prodaja (25%). Ako se kvalifikacija ne popravi, dupliranje upita duplira i rad na neodgovarajućim kupcima.
+
+### Sa čim se meša
+
+Upit nije prilika. Procenat konverzije bez definisanih faza, perioda i populacije ne znači ništa.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 501; Lesson 503 vodi razgovor u fazi prilike, Lesson 505 povezuje funnel sa ekonomikom.
+
+### Iz korpusa
+
+BK-014 pp. 117 i 123 (Probable Purchaser, Qualification) provereni u tekstu korpusa.
+
 ## Visual model
 
 1. Lead → 2. Kvalifikovan → 3. Ponuda → 4. Dobijeno / izgubljeno
@@ -67,11 +87,11 @@ Prioritet je sredina funnel-a, ne automatski veći marketing budžet.
 
 Definiši ulazni i izlazni kriterijum za četiri faze, owner-a, rok i razlog gubitka.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Funnel zahteva jasne faze i kvalifikaciona pravila.
 2. Ukupna lead-to-customer konverzija u primeru je 8%.

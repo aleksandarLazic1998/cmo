@@ -17,6 +17,26 @@ Kampanja povezuje poslovni cilj, publiku, poruku, kanal, budžet i očekivanu ak
 
 Merenje treba da prati put od troška do kvalitetnog ishoda, uz guardrail za profit, kvalitet lead-a i iskustvo kupca.
 
+### Zašto je ovo važno vlasniku
+
+Kanal koji donosi mnogo kupaca može gubiti novac, a manji kanal može biti profitabilniji. Kampanja se ocenjuje po rezultatu posle troška.
+
+### Na tabli `[FIXTURE]`
+
+Kanal A košta 50.000 RSD i donosi 10 prodaja po 4.000 RSD bruto profita: 40.000 − 50.000 = −10.000 RSD. Kanal B košta 30.000 RSD i donosi 9 prodaja: 36.000 − 30.000 = 6.000 RSD. Kanal A ima više prodaja, ali B zarađuje.
+
+### Sa čim se meša
+
+Broj klikova i pregleda nije ishod. Prihod iz kanala ne dokazuje da je kampanja uzrok kupovine bez poređenja ili kontrolne grupe.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 502–503; Lesson 505 dodaje vrednost kupca kroz vreme.
+
+### Iz korpusa
+
+BK-017, PDF pp. 41–57 (metrike koje mere promenu ponašanja; whole-book beleška). BK-014 p. 406 (Key Performance Indicator) proveren u tekstu korpusa.
+
 ## Visual model
 
 1. Cilj i publika → 2. Poruka i kanal → 3. Akcija i konverzija → 4. Trošak i kvalitet
@@ -67,11 +87,11 @@ Optimizacija prelazi sa jeftinog lead-a na kvalitetan poslovni ishod.
 
 Napravi campaign brief sa ciljem, segmentom, porukom, ponudom, budžetom, KPI-jem, guardrail-om i pravilom odluke.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Kampanja povezuje cilj, publiku, poruku, kanal, budžet i merljiv ishod.
 2. Trošak po kupcu je 10.000 RSD za A i 8.000 RSD za B.

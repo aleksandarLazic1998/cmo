@@ -17,6 +17,26 @@ Prosečna korpa raste kada kupac dobije relevantniji komplet rešenja. Attach ra
 
 Etička granica je fit: dodatak mora imati objašnjenu vrednost i slobodan izbor. Skriveni dodatak, pritisak ili proizvod koji kupcu ne treba nije komercijalna veština.
 
+### Zašto je ovo važno vlasniku
+
+Dodatna prodaja može povećati vrednost za kupca i bruto profit iste posete, ali samo kada kupcu zaista koristi.
+
+### Na tabli `[FIXTURE]`
+
+Od 100 prodatih laptopova, 30 je prodato sa torbom: attach rate je 30%. Ako prodavci nude torbu samo kupcima koji nose laptop van kuće, attach rate može rasti, a reklamacije i povraćaji ostati niski.
+
+### Sa čim se meša
+
+Cross-sell nije upsell: prvi dodaje povezanu potrebu, drugi vodi ka vrednijoj verziji. Skrivena stavka na računu nije dodatna prodaja, već obmana.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 001 (paket telefon + maska) i 602; Lesson 1006 daje etičke granice.
+
+### Iz korpusa
+
+BK-014 pp. 208–209 (četiri načina povećanja prihoda) provereni u tekstu korpusa; raniji lokator „p. 209“ preciziran. BK-002 koristiti uz etički guardrail.
+
 ## Visual model
 
 1. Glavna potreba → 2. Relevantan dodatak → 3. Jasna vrednost → 4. Veća korisna korpa
@@ -67,11 +87,11 @@ Veći GP uz jasan izbor kupca.
 
 Za jednu glavnu kupovinu osmisli relevantan cross-sell, upsell i bundle. Za svaki navedi vrednost, GP i etički guardrail.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Attach rate meri udeo glavnih kupovina sa dodatkom.
 2. Cilj u primeru je 35% attach i 16.000 RSD dodatnog GP-a.
@@ -83,7 +103,7 @@ Canonical prolaz zahteva najmanje 80/100, najmanje 15/25 u svakoj oblasti, demon
 ## Sources and limits
 
 - CMO OS originalna sinteza · bez prepisivanja knjiga
-- Korpus: `BKB-GTM-003`, `BKB-VAL-002` · BK-014 p. 209 (četiri načina rasta prihoda) · BK-002 — uz obavezan etički guardrail
+- Korpus: `BKB-GTM-003`, `BKB-VAL-002` · BK-014 pp. 208–209 (četiri načina rasta prihoda) · BK-002 — uz obavezan etički guardrail
 - Ministarstvo unutrašnje i spoljne trgovine — propisi zaštite potrošača · provereno 2026-08-22
 
 Knjige su sekundarni izvori. Ova lekcija je originalna CMO OS sinteza i ne kopira dostavljene knjige.

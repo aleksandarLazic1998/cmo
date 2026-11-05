@@ -17,6 +17,26 @@ Value proposition je jasno obećanje napretka za određenog kupca. Povezuje važ
 
 Dobra poruka ne nabraja sve funkcije. Ona bira nekoliko koristi koje su kupcu važne, različite od alternative i dokazive.
 
+### Zašto je ovo važno vlasniku
+
+Kupac ne kupuje funkcije, već napredak koji veruje da će dobiti. Jasan value proposition skraćuje prodaju i smanjuje potrebu za popustom.
+
+### Na tabli `[FIXTURE]`
+
+Umesto „Backup uređaj od 2 TB“: „Za kancelariju od pet ljudi koja ne sme da izgubi račune: automatska rezervna kopija svake noći i provera vraćanja podataka jednom mesečno.“ Poruka navodi kupca, situaciju, ishod i dokaz.
+
+### Sa čim se meša
+
+Value proposition nije slogan niti spisak svih funkcija. Obećanje bez dokaza i bez sposobnosti isporuke šteti poverenju.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 401; Lesson 403 ga stavlja u odnos prema alternativama.
+
+### Iz korpusa
+
+BK-018, PDF pp. 41–50 (profil kupca); BK-002 *$100M Offers*, PDF pp. 79–94 (jednačina vrednosti: željeni ishod, verovatnoća, vreme, napor; whole-book beleška). BK-002 koristiti kritički, kako navodi Book Source Map.
+
 ## Visual model
 
 1. Posao kupca → 2. Problem / željena korist → 3. Rešenje → 4. Dokaz
@@ -67,11 +87,11 @@ Vrednost je vezana za poslovni kontinuitet.
 
 Prepiši jednu funkcionalnu poruku u formu: za koga, u kojoj situaciji, koji napredak, protiv koje alternative i koji dokaz.
 
-**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; automatski test u aplikaciji proverava razumevanje principa, ne sam zadatak.
+**Kriterijum prihvatanja:** odgovor mora zadovoljiti sva četiri principa iz rubrike ispod. Otvoreni deo zadatka ocenjuje mentor; procena proverava i razumevanje principa i sam zadatak.
 
 ## Assessment rubric
 
-Automatski test u aplikaciji proverava znanje, račun/dokaz, primenu i poslovnu odluku sa po tri pitanja po oblasti; svaka oblast nosi 25 poena. Očekivani principi:
+Procena proverava znanje, račun/dokaz, primenu i poslovnu odluku; svaka oblast nosi 25 poena. Očekivani principi:
 
 1. Value proposition povezuje važan posao kupca, korist i dokaz.
 2. U primeru oporavak smanjuje simuliranu izloženost sa 24 na najviše 12 radnih sati.

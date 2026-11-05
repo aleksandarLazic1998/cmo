@@ -17,12 +17,18 @@ Status: `active`
 
 [Lesson 001 — interaktivni pilot](02_Lessons/visuals/lesson-001/index.html): samostalni HTML za otvaranje u pregledaču; lokalna provera, bez automatskog upisa napretka.
 
+[Lesson 001 sa Morijartijem — Claude Artifact](02_Lessons/visuals/lesson-001-mentor/index.html): interaktivna verzija za claude.ai (objavljena privatno: https://claude.ai/artifact/5R36n18xNULsv3AnSUYBU6). Morijarti odgovara i ocenjuje slobodan tekst bez API ključa; račun i prolaz proverava stranica; pokušaji se čuvaju u zapisu artefakta i u Learning Progress ulaze tek posle provere i potvrde u razgovoru.
+
+## AI mentor aplikacija
+
+[`apps/mentor/`](apps/mentor/README.md): lokalna Next.js aplikacija sa Morijarti mentorom za Lesson 001 (teorija → pitanja → vođeni primer → praksa → procena → feedback → potvrđen upis). Mock provider je podrazumevan; kanonski upis napretka je isključen dok ga korisnik ne uključi (ADR 009).
+
 ## Aktivni domeni
 
 | Putanja | Svrha |
 |---|---|
 | `01_Knowledge/Knowledge_Graph.md` | Čvorovi i veze između trajnih poslovnih koncepata |
-| `02_Lessons/LESSON_CATALOG.md` | Planiran redosled 49 lekcija; nije live progress |
+| `02_Lessons/LESSON_CATALOG.md` | Planiran redosled 54 lekcije i gate scenariji nivoa; nije live progress |
 | `04_SOP/` | Operativne procedure |
 | `11_Research/Book_Source_Map.md` | Mapa sekundarnih knjiških izvora i ograničenja |
 | `11_Research/book_acquisition/Book_Reading_Ledger.md` | Full-corpus reading status, page coverage i audit evidence |
@@ -38,6 +44,7 @@ Status: `active`
 | `90_AI/evals/` | Kontrolni scenariji |
 | `90_AI/audits/` | Baseline, migration i post-migration audit |
 | `99_Templates/` | Odobrene strukture dokumenata |
+| `apps/mentor/` | AI mentor aplikacija; izvršni sloj, ne source of truth |
 | `_archive/v1/` | Istorijski v1 materijal |
 
 Ostali domeni iz `AUTHORITY.md` materijalizuju se kada nastane prvi realan sadržaj. Prazni direktorijumi se ne prave radi vizuelne kompletnosti.
