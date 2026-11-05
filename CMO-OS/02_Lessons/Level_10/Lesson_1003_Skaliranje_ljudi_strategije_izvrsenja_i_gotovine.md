@@ -17,6 +17,26 @@ Skaliranje uvećava ono što već postoji. Ako su ekonomika, proces ili liderstv
 
 Četiri discipline moraju sazrevati zajedno: ljudi, strategija, izvršenje i gotovina. Tempo određuje najslabija kritična disciplina, ne ambicija vlasnika.
 
+### Zašto je ovo važno vlasniku
+
+Rast uvećava i dobre i loše delove firme. Ako proces i gotovina nisu spremni, brži rast znači brži haos.
+
+### Na tabli `[FIXTURE]`
+
+Plan dupliranja prodaje zahteva dvostruko više zalihe. Ako je u zalihi već vezano 3.000.000 RSD, rast traži još oko toliko gotovine pre nego što prodaja počne da je vraća. Bez finansiranja ili boljeg ciklusa gotovine, rast se zaustavlja.
+
+### Sa čim se meša
+
+Rast prometa nije isto što i rast vrednosti. Zapošljavanje pre jasnih procesa umnožava greške.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 204, 701–704 i 901–905; Lesson 1004 raspoređuje kapital.
+
+### Iz korpusa
+
+BK-011 *Scaling Up* ima prvenstvo (ljudi, strategija, izvršenje, gotovina; locator nije proveren u ovoj sesiji). BK-014 pp. 450–452 (Sustainable Growth Cycle) provereni u tekstu korpusa; raniji lokator „p. 452“ preciziran.
+
 ## Visual model
 
 1. Dokazana ekonomika → 2. Stabilan proces → 3. Ljudi i odgovornost → 4. Gotovina za tempo rasta
@@ -82,6 +102,6 @@ Canonical prolaz zahteva najmanje 80/100, najmanje 15/25 u svakoj oblasti, demon
 ## Sources and limits
 
 - CMO OS originalna sinteza · bez prepisivanja knjiga
-- Korpus: `BKB-GRO-002`, `BKB-FIN-005`, `BKB-SCN-002` · BK-011 (Scaling Up) — apsolutno prvenstvo: People, Strategy, Execution, Cash · BK-014 p. 452
+- Korpus: `BKB-GRO-002`, `BKB-FIN-005`, `BKB-SCN-002` · BK-011 (Scaling Up) — apsolutno prvenstvo: People, Strategy, Execution, Cash · BK-014 pp. 450–452
 
 Knjige su sekundarni izvori. Ova lekcija je originalna CMO OS sinteza i ne kopira dostavljene knjige.

@@ -17,6 +17,26 @@ Etičan prodajni razgovor prvo dijagnostikuje situaciju i kriterijum odluke, zat
 
 Pregovaranje menja više elemenata od cene: scope, količinu, rok, rizik i uslove. Zatvaranje znači dogovoren sledeći korak, ne manipulaciju.
 
+### Zašto je ovo važno vlasniku
+
+Prodajni razgovor odlučuje da li će kupac kupiti pravu stvar i ostati zadovoljan. Pritisak može doneti prodaju danas i reklamaciju sutra.
+
+### Na tabli `[FIXTURE]`
+
+Kupac kaže: „Skupo je.“ Umesto popusta prodavac pita sa čim poredi, šta mu je najvažnije i šta se dešava ako uređaj otkaže. Ako je kupcu ključna pouzdanost, prodavac pokazuje garanciju i servis; ako je ključna cena, nudi jeftiniji model koji i dalje rešava potrebu.
+
+### Sa čim se meša
+
+Pregovaranje nije samo cena: može se menjati obim, rok, količina ili uslov. Zatvaranje je dogovoren sledeći korak, ne trik.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 502; Lesson 606 primenjuje pregovaranje na dobavljače, Lesson 1006 daje etičke granice.
+
+### Iz korpusa
+
+BK-014 pp. 161–168 (otpor ubeđivanju, barijere kupovini, preuzimanje rizika) provereni u tekstu korpusa. BK-002 koristiti kritički.
+
 ## Visual model
 
 1. Dijagnoza → 2. Vrednost i dokaz → 3. Prigovor / pregovor → 4. Jasan sledeći korak

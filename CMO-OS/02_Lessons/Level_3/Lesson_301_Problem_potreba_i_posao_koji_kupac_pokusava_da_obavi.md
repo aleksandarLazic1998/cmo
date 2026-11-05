@@ -17,6 +17,26 @@ Kupac ne kupuje proizvod zbog funkcije same po sebi, već da napravi napredak u 
 
 Ideja postaje vredna tek kada dokaz pokaže da problem postoji, dovoljno je važan i da kupac već ulaže vreme, novac ili trud da ga reši.
 
+### Zašto je ovo važno vlasniku
+
+Ko razume posao koji kupac pokušava da obavi, pravi ponudu za stvarni problem, a ne za sopstvenu ideju.
+
+### Na tabli `[FIXTURE]`
+
+Terenski serviser ne „kupuje laptop sa jakom baterijom“. On želi da završi radni dan kod klijenta bez traženja utičnice i bez gubitka podataka. Funkcionalni ishod je ceo dan rada; emocionalni ishod je sigurnost pred klijentom; trenutna alternativa je nošenje rezervne baterije.
+
+### Sa čim se meša
+
+Problem nije rešenje. „Kupcu treba naš novi paket“ opisuje proizvod, a ne posao kupca. Jedan oduševljen razgovor nije dokaz da problem postoji kod većeg broja kupaca.
+
+### Veza sa drugim lekcijama
+
+Uvodi Level 3; Lesson 302 bira segment, Lesson 303 proverava problem razgovorom, Lesson 402 pretvara ga u value proposition.
+
+### Iz korpusa
+
+BK-018 *Value Proposition Design*, PDF pp. 41–50 (jobs, pains i gains u profilu kupca; whole-book beleška). BK-013 *The Mom Test* ima prvenstvo za tehniku razgovora; njen lokator nije vizuelno proveren jer korpus slika sadrži samo 1 od 125 strana.
+
 ## Visual model
 
 1. Situacija kupca → 2. Prepreka → 3. Željeni napredak → 4. Izabrano rešenje

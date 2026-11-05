@@ -17,6 +17,26 @@ Positioning određuje u koju kategoriju kupac stavlja ponudu, sa kojim alternati
 
 Počinje od stvarnih alternativa, jedinstvenih sposobnosti, vrednosti koju one stvaraju i kupaca kojima je ta vrednost najvažnija.
 
+### Zašto je ovo važno vlasniku
+
+Kupac uvek poredi. Ako firma ne odredi sa čim je poredi, kupac će je porediti sa najjeftinijom opcijom.
+
+### Na tabli `[FIXTURE]`
+
+Paket „servis + kontinuitet rada“ za male firme ne poredi se sa drugim servisom, već sa stvarnim alternativama kupca: pozivom poznanika, kupovinom novog uređaja ili time da ne uradi ništa i čeka kvar.
+
+### Sa čim se meša
+
+Pozicioniranje nije slogan, logo ni opšta tvrdnja o kvalitetu. „Ne uraditi ništa“ je često najjača konkurencija.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 302 i 402; Lesson 1002 ga povezuje sa konkurentskom prednošću.
+
+### Iz korpusa
+
+BK-009 *Obviously Awesome*, PDF pp. 75–80 (stvarne alternative kupca; whole-book beleška).
+
 ## Visual model
 
 1. Alternativa → 2. Jedinstvena sposobnost → 3. Vrednost → 4. Najbolji segment

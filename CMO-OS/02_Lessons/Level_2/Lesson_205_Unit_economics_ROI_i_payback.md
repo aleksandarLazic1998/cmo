@@ -17,6 +17,26 @@ Unit economics proverava da li jedna jedinica, kupac ili porudžbina stvara dovo
 
 Dobar procenat nije dovoljan bez perioda, rizika i apsolutnog iznosa. Brz povrat male investicije i spor povrat velike investicije imaju različite posledice po gotovinu.
 
+### Zašto je ovo važno vlasniku
+
+Investicija ima smisla tek kada se zna koliko vraća, za koliko vremena i šta se dešava ako pretpostavke ne važe.
+
+### Na tabli `[FIXTURE]`
+
+Kasa sa samonaplatom košta 600.000 RSD i štedi rad, pa donosi 25.000 RSD dodatnog doprinosa mesečno. Payback = 600.000 ÷ 25.000 = 24 meseca. Ako se kasa zastari za 36 meseci, preostalih 12 meseci je stvarna zarada, uz rizik da ušteda bude manja.
+
+### Sa čim se meša
+
+Visok ROI u procentima ne znači veliki iznos; brz payback ne znači da je investicija strateški važna. Unit economics jedne prodaje nije isto što i profit cele firme.
+
+### Veza sa drugim lekcijama
+
+Koristi doprinos iz Lesson 104–105 i gotovinu iz Lesson 203; Lesson 1004 proširuje na raspodelu kapitala.
+
+### Iz korpusa
+
+BK-006, PDF pp. 164–183 (početni izdatak, inkrementalni novčani tokovi, payback, NPV; whole-book beleška). BK-014 pp. 212 i 235 (Lifetime Value, ROI) provereni u tekstu korpusa.
+
 ## Visual model
 
 1. Ulaganje → 2. Dodatni doprinos → 3. ROI → 4. Vreme povrata

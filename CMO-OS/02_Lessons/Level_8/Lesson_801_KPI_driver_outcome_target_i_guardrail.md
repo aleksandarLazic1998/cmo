@@ -17,6 +17,26 @@ Outcome govori šta je postignuto, driver pokazuje šta verovatno utiče na isho
 
 Dobar KPI ima formulu, grain, period, owner-a, izvor, prag i odluku koju pokreće. Bez odluke, dashboard je samo dekoracija.
 
+### Zašto je ovo važno vlasniku
+
+Pogrešan KPI vodi pogrešnom ponašanju: tim poboljša broj, a pokvari posao.
+
+### Na tabli `[FIXTURE]`
+
+Outcome: procenat porudžbina isporučenih u obećanom roku. Driver: tačnost zalihe. Guardrail: broj reklamacija zbog oštećenja pri brzom pakovanju. Brža isporuka koja povećava oštećenja nije uspeh.
+
+### Sa čim se meša
+
+Metrika aktivnosti (broj poziva) nije ishod. Cilj bez guardrail-a podstiče varanje sistema.
+
+### Veza sa drugim lekcijama
+
+Uvodi Level 8; Lesson 802 planira, Lesson 803 analizira odstupanja.
+
+### Iz korpusa
+
+BK-008, PDF pp. 33–44 (uparivanje pokazatelja: količina uz kvalitet; whole-book beleška). BK-014 pp. 406–413 (KPI, Analytical Honesty, Context) provereni u tekstu korpusa.
+
 ## Visual model
 
 1. Poslovni cilj → 2. Outcome KPI → 3. Driver KPI → 4. Guardrail i akcija

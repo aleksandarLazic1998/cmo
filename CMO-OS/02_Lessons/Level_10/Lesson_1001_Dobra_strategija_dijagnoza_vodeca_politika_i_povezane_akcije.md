@@ -17,6 +17,26 @@ Dobra strategija ima dijagnozu ključnog izazova, vodeću politiku koja usmerava
 
 Strategija fokusira ograničene resurse na polugu koja može promeniti ishod. Koherentnost znači da akcije podržavaju jedna drugu umesto da se takmiče za iste ljude i novac.
 
+### Zašto je ovo važno vlasniku
+
+Cilj bez strategije je želja. Strategija kaže šta je glavna prepreka i kako se resursi usmeravaju na nju.
+
+### Na tabli `[FIXTURE]`
+
+Dijagnoza: prodavnica raste, ali servis ne stiže da isporuči obećano, pa nezadovoljni kupci ne dolaze ponovo. Vodeća politika: rast samo u obimu koji servis može da isporuči. Povezane akcije: kontrolna lista na prijemu, ograničen broj termina i obuka drugog servisera.
+
+### Sa čim se meša
+
+Slogan, budžet ili lista ciljeva nije strategija. Strategija koja ne kaže šta se neće raditi nije izbor.
+
+### Veza sa drugim lekcijama
+
+Uvodi Level 10; Lesson 1002 bira gde i kako se takmičiti.
+
+### Iz korpusa
+
+BK-007 *Good Strategy Bad Strategy*, PDF pp. 89–105 (jezgro strategije: dijagnoza, vodeća politika, povezane akcije; strana 90 vizuelno proverena 2026-11-05).
+
 ## Visual model
 
 1. Dijagnoza → 2. Vodeća politika → 3. Povezane akcije → 4. Učenje iz rezultata

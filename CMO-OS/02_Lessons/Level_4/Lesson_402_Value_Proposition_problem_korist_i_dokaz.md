@@ -17,6 +17,26 @@ Value proposition je jasno obećanje napretka za određenog kupca. Povezuje važ
 
 Dobra poruka ne nabraja sve funkcije. Ona bira nekoliko koristi koje su kupcu važne, različite od alternative i dokazive.
 
+### Zašto je ovo važno vlasniku
+
+Kupac ne kupuje funkcije, već napredak koji veruje da će dobiti. Jasan value proposition skraćuje prodaju i smanjuje potrebu za popustom.
+
+### Na tabli `[FIXTURE]`
+
+Umesto „Backup uređaj od 2 TB“: „Za kancelariju od pet ljudi koja ne sme da izgubi račune: automatska rezervna kopija svake noći i provera vraćanja podataka jednom mesečno.“ Poruka navodi kupca, situaciju, ishod i dokaz.
+
+### Sa čim se meša
+
+Value proposition nije slogan niti spisak svih funkcija. Obećanje bez dokaza i bez sposobnosti isporuke šteti poverenju.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 401; Lesson 403 ga stavlja u odnos prema alternativama.
+
+### Iz korpusa
+
+BK-018, PDF pp. 41–50 (profil kupca); BK-002 *$100M Offers*, PDF pp. 79–94 (jednačina vrednosti: željeni ishod, verovatnoća, vreme, napor; whole-book beleška). BK-002 koristiti kritički, kako navodi Book Source Map.
+
 ## Visual model
 
 1. Posao kupca → 2. Problem / željena korist → 3. Rešenje → 4. Dokaz

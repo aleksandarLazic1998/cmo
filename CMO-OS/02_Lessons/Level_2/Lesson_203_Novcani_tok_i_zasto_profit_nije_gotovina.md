@@ -17,6 +17,26 @@ Profit i gotovina odgovaraju na različita pitanja. Profit meri stvoreni obraču
 
 Prodaja na odloženo može povećati prihod i profit pre naplate. Kupovina zaliha ili otplata kredita može smanjiti gotovinu bez istog trenutnog uticaja na profit.
 
+### Zašto je ovo važno vlasniku
+
+Firma ne propada zato što nema profit na papiru, već zato što nema novca da plati obaveze kada dospeju. Vlasnik mora pratiti oba broja.
+
+### Na tabli `[FIXTURE]`
+
+U martu prodavnica isporuči opremu firmi za 200.000 RSD sa rokom plaćanja 45 dana. Prihod i profit se pojavljuju u martu, a novac stiže tek sredinom maja. Ako dobavljača treba platiti u aprilu, firma u aprilu mora imati gotovinu iz drugog izvora.
+
+### Sa čim se meša
+
+Profit nije gotovina, a pozitivan novčani tok nije uvek dobar znak: može doći od novog kredita ili prodaje imovine, ne od poslovanja.
+
+### Veza sa drugim lekcijama
+
+Lesson 201 i 202 daju izveštaje koje novčani tok povezuje; Lesson 204 objašnjava obrtni kapital koji pravi razliku između profita i gotovine.
+
+### Iz korpusa
+
+BK-006, PDF pp. 110–116 (profitabilna firma bez gotovine; strana 112 vizuelno proverena 2026-11-05) i pp. 117–134 (izveštaj o novčanim tokovima). BK-014 p. 201 (Cash Flow) proveren u tekstu korpusa.
+
 ## Visual model
 
 1. Prodaja → 2. Prihod i potraživanje → 3. Naplata → 4. Gotovina

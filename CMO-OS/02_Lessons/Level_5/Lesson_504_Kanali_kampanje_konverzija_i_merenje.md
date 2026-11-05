@@ -17,6 +17,26 @@ Kampanja povezuje poslovni cilj, publiku, poruku, kanal, budžet i očekivanu ak
 
 Merenje treba da prati put od troška do kvalitetnog ishoda, uz guardrail za profit, kvalitet lead-a i iskustvo kupca.
 
+### Zašto je ovo važno vlasniku
+
+Kanal koji donosi mnogo kupaca može gubiti novac, a manji kanal može biti profitabilniji. Kampanja se ocenjuje po rezultatu posle troška.
+
+### Na tabli `[FIXTURE]`
+
+Kanal A košta 50.000 RSD i donosi 10 prodaja po 4.000 RSD bruto profita: 40.000 − 50.000 = −10.000 RSD. Kanal B košta 30.000 RSD i donosi 9 prodaja: 36.000 − 30.000 = 6.000 RSD. Kanal A ima više prodaja, ali B zarađuje.
+
+### Sa čim se meša
+
+Broj klikova i pregleda nije ishod. Prihod iz kanala ne dokazuje da je kampanja uzrok kupovine bez poređenja ili kontrolne grupe.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 502–503; Lesson 505 dodaje vrednost kupca kroz vreme.
+
+### Iz korpusa
+
+BK-017, PDF pp. 41–57 (metrike koje mere promenu ponašanja; whole-book beleška). BK-014 p. 406 (Key Performance Indicator) proveren u tekstu korpusa.
+
 ## Visual model
 
 1. Cilj i publika → 2. Poruka i kanal → 3. Akcija i konverzija → 4. Trošak i kvalitet

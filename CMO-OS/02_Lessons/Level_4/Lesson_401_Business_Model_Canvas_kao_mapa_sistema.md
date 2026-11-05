@@ -17,6 +17,26 @@ Business Model Canvas je mapa devet povezanih pretpostavki: kome služiš, koju 
 
 Canvas nije poslovni plan ni dokaz. Njegova vrednost je da pokaže veze i kontradikcije koje treba testirati.
 
+### Zašto je ovo važno vlasniku
+
+Canvas pokazuje kako delovi poslovanja zavise jedan od drugog. Promena u jednom bloku menja ostale, pa vlasnik vidi posledice pre nego što ih plati.
+
+### Na tabli `[FIXTURE]`
+
+Pretplata na tehničku podršku: segment su male kancelarije; vrednost je brz odgovor; kanal je direktna prodaja; prihod je mesečna pretplata; ključni resurs je serviser. Ako obećamo odziv za 2 sata, a imamo jednog servisera, blok „ključni resursi“ ne podržava blok „vrednost“.
+
+### Sa čim se meša
+
+Canvas nije poslovni plan ni dokaz da model radi. Svaki blok je pretpostavka dok je ne potvrde razgovori, eksperimenti i brojevi.
+
+### Veza sa drugim lekcijama
+
+Koristi Level 3; Lesson 402 razrađuje vrednost, Lesson 404 ponudu i cenu.
+
+### Iz korpusa
+
+BK-016 *Business Model Generation*, PDF pp. 20–21 i 48–55 (canvas kao zajednička mapa poslovnog modela; whole-book beleška). BK-014 p. 61 (Five Parts of Every Business) proveren u tekstu korpusa.
+
 ## Visual model
 
 1. Kupac i vrednost → 2. Kanali i odnos → 3. Resursi i aktivnosti → 4. Prihodi i troškovi

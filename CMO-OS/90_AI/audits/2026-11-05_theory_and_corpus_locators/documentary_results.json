@@ -1,0 +1,22 @@
+{
+  "scope": "documentary structure and references; targeted policy review recorded separately",
+  "baseline": "823a08ea8abfa351c3ea9092b2f2753f863fb76b",
+  "link_method": "local files plus pinned GitHub tree metadata",
+  "counts": {
+    "active_documents": 164,
+    "lessons": 54,
+    "catalog_ids": 54,
+    "levels": 11,
+    "source_concepts": 63,
+    "checks": 1636
+  },
+  "status": "PASS",
+  "failures": [],
+  "not_run": [
+    "PDF byte or extraction verification",
+    "new full-book semantic reading",
+    "application or browser runtime",
+    "student assessment",
+    "independent second-model review"
+  ]
+}

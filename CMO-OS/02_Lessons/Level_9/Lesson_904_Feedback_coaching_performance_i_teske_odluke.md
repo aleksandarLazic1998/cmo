@@ -17,6 +17,26 @@ Feedback opisuje konkretno ponašanje, njegov uticaj i očekivanu promenu. Coach
 
 Teška odluka ne sme nastati iz jednog lošeg dana ili lične nesklonosti. Dokumentacija, doslednost, fer proces i važeće radno pravo su obavezne granice; konkretan slučaj zahteva HR/pravnu proveru.
 
+### Zašto je ovo važno vlasniku
+
+Odlaganje teškog razgovora pogoršava problem i šalje timu poruku da standard nije važan.
+
+### Na tabli `[FIXTURE]`
+
+Izveštaj o prodaji kasni tri nedelje zaredom. Feedback: „U poslednje tri nedelje izveštaj je stigao u utorak umesto u ponedeljak. Zbog toga porudžbine kasne jedan dan. Od sledeće nedelje potreban je u ponedeljak do 12 h. Šta ti treba da to bude moguće?“
+
+### Sa čim se meša
+
+Feedback nije ocena ličnosti. Jedan loš dan nije obrazac; odluka se donosi na osnovu dokaza i podrške koja je pružena.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 901–903; Lesson 905 određuje odgovornost i prava odlučivanja.
+
+### Iz korpusa
+
+BK-008, PDF pp. 133–149 (sposobnost i motivacija; zrelost za konkretan zadatak; whole-book beleška). BK-014 pp. 349–350 (Safety, Golden Trifecta) provereni u tekstu korpusa.
+
 ## Visual model
 
 1. Činjenica o ponašanju → 2. Uticaj → 3. Očekivanje i podrška → 4. Provera i fer odluka

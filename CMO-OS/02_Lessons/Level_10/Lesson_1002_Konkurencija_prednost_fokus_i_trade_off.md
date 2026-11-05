@@ -17,6 +17,26 @@ Konkurentska prednost je sposobnost da dosledno stvaraš vrednost ili troškovnu
 
 Biti „najbolji za sve“ nije pozicija. Prednost postoji kada aktivnosti, resursi i reputacija podržavaju isti izbor i kada konkurent ne može lako da ga imitira bez žrtve.
 
+### Zašto je ovo važno vlasniku
+
+Mala firma ne može pobediti velike u svemu. Prednost nastaje kada svesno izabere gde igra i čega se odriče.
+
+### Na tabli `[FIXTURE]`
+
+Prodavnica bira da bude specijalista za opremu i podršku malim kancelarijama u svom gradu, a ne najjeftiniji onlajn prodavac. Odriče se cenovnih ratova za popularne telefone i ulaže u servis i brzu zamenu opreme.
+
+### Sa čim se meša
+
+Biti „najbolji za sve“ nije pozicija. Prednost koju konkurent lako kopira nije trajna.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 403 i 1001; Lesson 1003 proverava da li sistem može da izdrži rast.
+
+### Iz korpusa
+
+BK-007, PDF p. 124 (bliski cilj i spremnost organizacije; whole-book beleška). BK-011 za slojeve odbrane niše (locator nije proveren u ovoj sesiji).
+
 ## Visual model
 
 1. Gde igramo → 2. Kako pobeđujemo → 3. Šta nas podržava → 4. Čega se odričemo

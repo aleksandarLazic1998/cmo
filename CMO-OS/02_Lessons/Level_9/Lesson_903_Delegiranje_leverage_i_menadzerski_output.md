@@ -17,6 +17,26 @@ Menadžerski output nije ono što menadžer lično uradi, već rezultat tima i s
 
 Delegiranje bez konteksta stvara vraćanje zadataka; mikroupravljanje guši ownerstvo. Pravi nivo kontrole zavisi od rizika, sposobnosti i povratnosti odluke.
 
+### Zašto je ovo važno vlasniku
+
+Menadžer meri sebe po rezultatu tima, ne po sopstvenoj zauzetosti.
+
+### Na tabli `[FIXTURE]`
+
+Vlasnik provede 1 sat obučavajući 10 prodavaca kako da proveravaju garanciju. Ako svako uštedi 15 minuta nedeljno, tim dobija 10 × 15 = 150 minuta, odnosno 2,5 sata nedeljno. Jedan sat obuke se vraća već prve nedelje.
+
+### Sa čim se meša
+
+Leverage nije prebacivanje posla na druge bez konteksta. Mikroupravljanje smanjuje output jer menadžer postaje usko grlo.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 703; Lesson 904 razvija ljude kroz feedback.
+
+### Iz korpusa
+
+BK-008, PDF pp. 33–44 (output i poluge menadžera; whole-book beleška).
+
 ## Visual model
 
 1. Jasan ishod → 2. Kontekst i ovlašćenje → 3. Timsko izvršenje → 4. Feedback i leverage

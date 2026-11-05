@@ -17,6 +17,26 @@ Dobar razgovor sa kupcem istražuje prošlo ponašanje, konkretne događaje i po
 
 Cilj nije da kupac potvrdi ideju, već da razumeš šta se zaista dogodilo, kako je problem rešavao i šta ga je taj pokušaj koštao.
 
+### Zašto je ovo važno vlasniku
+
+Loša pitanja daju lažnu sigurnost. Vlasnik tada ulaže u ideju koju su kupci samo ljubazno pohvalili.
+
+### Na tabli `[FIXTURE]`
+
+Slabo pitanje: „Da li biste platili servis na licu mesta?“ Bolje pitanje: „Kada vam se poslednji put pokvario računar u kancelariji? Šta ste uradili i koliko vas je to koštalo?“ Drugo pitanje traži događaj, trošak i postojeće rešenje.
+
+### Sa čim se meša
+
+Kompliment nije dokaz. Mišljenje o budućnosti („sigurno bih kupio“) slabije je od prošlog ponašanja i od obaveze kupca: vreme, novac ili sledeći korak.
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 301–302; Lesson 304 pretvara nalaze u eksperiment.
+
+### Iz korpusa
+
+BK-013 *The Mom Test*, whole-book beleška pp. 24–41 (komplimenti, prazne priče i nepozvane ideje kao loši podaci); vizuelna provera nije moguća jer korpus slika za BK-013 sadrži samo 1 od 125 strana.
+
 ## Visual model
 
 1. Konkretan događaj → 2. Prethodno ponašanje → 3. Trošak problema → 4. Dokaz / sledeći test

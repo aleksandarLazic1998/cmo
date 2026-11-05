@@ -17,6 +17,26 @@ Pretpostavka je tvrdnja koja još nema dovoljan dokaz. MVP je najmanji test koji
 
 Validacija nije „dobio sam jedan pozitivan signal“. Potrebni su kriterijum, uzorak, period i odluka za uspeh, neuspeh ili nejasan rezultat.
 
+### Zašto je ovo važno vlasniku
+
+Eksperiment smanjuje rizik pre velikog ulaganja. Unapred zadat kriterijum sprečava da se rezultat naknadno protumači kao uspeh.
+
+### Na tabli `[FIXTURE]`
+
+Prodavnica nudi 30 kupaca plaćenu rezervaciju servisa. Kriterijum uspeha unapred: najmanje 20%, odnosno 6 rezervacija. Ako stigne 4, ideja nije potvrđena u ovom obliku, bez obzira na pozitivne komentare.
+
+### Sa čim se meša
+
+MVP nije loš proizvod niti mora biti softver. Validacija nije jedan pozitivan signal, već rezultat prema unapred zadatom pragu.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 303; Lesson 805 dodaje kvalitet odluke pod neizvesnošću.
+
+### Iz korpusa
+
+BK-017 *The Lean Startup*, PDF pp. 88–106 (MVP kao test cele petlje) i pp. 41–57 (validirano učenje meri promenu ponašanja kupaca; whole-book beleška). BK-014 pp. 106–108 (Critical Assumptions, Shadow Testing, MVO) provereni u tekstu korpusa.
+
 ## Visual model
 
 1. Rizična pretpostavka → 2. Mali test → 3. Merljiv signal → 4. Nastavi, promeni ili stani

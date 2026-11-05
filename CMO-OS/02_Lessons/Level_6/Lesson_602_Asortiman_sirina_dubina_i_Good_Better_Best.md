@@ -17,6 +17,26 @@ Oblikuje izbor koji kupcu olakšava odluku.
 
 Good-Better-Best organizuje jasne korake vrednosti. Svaki nivo treba da ima stvarnu razliku za kupca i ulogu u ekonomici, ne samo nasumično višu cenu.
 
+### Zašto je ovo važno vlasniku
+
+Previše modela zbunjuje kupca i veže gotovinu; premalo modela gubi kupce. Asortiman je odluka o tome kome pomažeš da izabere.
+
+### Na tabli `[FIXTURE]`
+
+Slušalice u tri nivoa: osnovni model za svakodnevnu upotrebu, srednji sa poništavanjem buke i premium za putovanja i posao. Svaki korak ima jasnu dodatnu korist koju prodavac može objasniti u jednoj rečenici.
+
+### Sa čim se meša
+
+Širina (broj potreba) nije isto što i dubina (broj varijanti za istu potrebu). Više modela ne znači više prodaje.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 601; Lesson 603 povezuje asortiman sa zalihom.
+
+### Iz korpusa
+
+BK-014 pp. 89–91 (Perceived Value, Modularity, Bundling) provereni u tekstu korpusa.
+
 ## Visual model
 
 1. Potreba → 2. Good → 3. Better → 4. Best

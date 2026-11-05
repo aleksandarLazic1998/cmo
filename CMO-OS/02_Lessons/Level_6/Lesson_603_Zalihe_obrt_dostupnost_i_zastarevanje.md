@@ -17,6 +17,26 @@ Zaliha omogućava dostupnost, ali vezuje gotovinu i nosi rizik krađe, oštećen
 
 Odluka o količini mora povezati potražnju, lead time, minimalnu porudžbinu (MOQ), rok plaćanja dobavljaču i brzinu zastarevanja.
 
+### Zašto je ovo važno vlasniku
+
+Zaliha je novac na polici. U tehnici se brzo menjaju modeli, pa višak zalihe gubi vrednost.
+
+### Na tabli `[FIXTURE]`
+
+Model se prodaje 3 komada dnevno, dobavljač isporučuje za 10 dana, a sigurnosna zaliha je 6 komada. Tačka ponovne porudžbine = 3 × 10 + 6 = 36 komada: kada zaliha padne na 36, naručuje se.
+
+### Sa čim se meša
+
+Visoka dostupnost nije besplatna, a mala zaliha nije uvek ušteda: nedostatak robe gubi prodaju i poverenje. MOQ dobavljača može nametnuti višak (Lesson 606).
+
+### Veza sa drugim lekcijama
+
+Koristi Lesson 204 (obrtni kapital) i 602 (asortiman); Lesson 606 pregovara MOQ i rok plaćanja.
+
+### Iz korpusa
+
+BK-012 *The Goal*, PDF pp. 51–53, 62–63 i 74–77 (zaliha kao deo merenja sistema; whole-book beleška). BK-014 pp. 383–385 (Stock, Slack) provereni u tekstu korpusa. Raniji lokator „pp. 361–362“ bio je pogrešan i ispravljen je 2026-11-05.
+
 ## Visual model
 
 1. Potražnja → 2. Lead time i MOQ → 3. Naručena zaliha → 4. Prodaja ili zastarevanje
@@ -89,6 +109,6 @@ Canonical prolaz zahteva najmanje 80/100, najmanje 15/25 u svakoj oblasti, demon
 ## Sources and limits
 
 - CMO OS originalna sinteza · bez prepisivanja knjiga
-- Korpus: `BKB-OPS-008`, `BKB-FIN-005` · BK-012 (zaliha kao trošak sistema) · BK-014 pp. 361–362 (Stock, Slack)
+- Korpus: `BKB-OPS-008`, `BKB-FIN-005` · BK-012 (zaliha kao trošak sistema) · BK-014 pp. 383–385 (Stock, Slack; ispravljeno 2026-11-05)
 
 Knjige su sekundarni izvori. Ova lekcija je originalna CMO OS sinteza i ne kopira dostavljene knjige.

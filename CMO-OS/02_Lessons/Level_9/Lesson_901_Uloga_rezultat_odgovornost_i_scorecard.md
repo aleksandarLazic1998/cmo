@@ -17,6 +17,26 @@ Uloga nije spisak aktivnosti, već skup rezultata za koje je osoba odgovorna. Sc
 
 Jasan scorecard pomaže zapošljavanju, onboarding-u, feedback-u i nagrađivanju. Bez njega zaposleni može biti vrlo zauzet, a da tim ne zna šta znači uspeh.
 
+### Zašto je ovo važno vlasniku
+
+Bez jasnog scorecard-a zaposleni ne zna šta je uspeh, a vlasnik nema osnovu za izbor, feedback ni nagradu.
+
+### Na tabli `[FIXTURE]`
+
+Uloga vođe smene: misija je da prodavnica radi tačno i ljubazno bez vlasnika. Ishodi: najmanje 95% porudžbina isporučenih u roku, tačnost kase bez manjka većeg od 500 RSD mesečno, reklamacije odgovorene u zakonskom roku. Brojke su nastavni primer.
+
+### Sa čim se meša
+
+Opis posla (lista aktivnosti) nije scorecard (lista rezultata). Ličnost nije kompetencija.
+
+### Veza sa drugim lekcijama
+
+Uvodi Level 9; Lesson 902 koristi scorecard za izbor kandidata, Lesson 905 za prava odlučivanja.
+
+### Iz korpusa
+
+BK-015 *Who*, PDF pp. 21–42 (scorecard: misija, ishodi, kompetencije; strana 22 vizuelno proverena 2026-11-05).
+
 ## Visual model
 
 1. Svrha uloge → 2. Ključni ishodi → 3. Mere i standardi → 4. Decision rights

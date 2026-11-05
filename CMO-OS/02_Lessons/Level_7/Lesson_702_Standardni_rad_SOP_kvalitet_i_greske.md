@@ -17,6 +17,26 @@ Standardni rad opisuje najbolji trenutno poznat bezbedan način da se posao urad
 
 Kvalitet se gradi u procesu: definiši šta je dobro, proveri kritične tačke i uči iz grešaka. Završna kontrola sama ne može popraviti loš sistem.
 
+### Zašto je ovo važno vlasniku
+
+Standard omogućava da posao bude dobar i kada ga radi drugi čovek, drugog dana. Bez standarda kvalitet zavisi od pamćenja i raspoloženja.
+
+### Na tabli `[FIXTURE]`
+
+Priprema laptopa za kupca: provera ambalaže i serijskog broja, ažuriranje sistema, kontrola punjača, test ekrana i tastature, potpis zaposlenog. Pet koraka u kontrolnoj listi smanjuju povraćaje zbog previda.
+
+### Sa čim se meša
+
+SOP nije birokratija: ako niko ne koristi dokument, nije standard. Standard se menja kada se pronađe bolji način, uz proveru.
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 701; Lesson 703 delegira standardizovan rad.
+
+### Iz korpusa
+
+BK-005 *The E-Myth Revisited*, PDF pp. 65–90 (posao kao prototip koji se standardizuje i ponavlja; whole-book beleška). BK-014 pp. 438 i 440 (SOP, Checklist) provereni u tekstu korpusa.
+
 ## Visual model
 
 1. Standard → 2. Izvršenje → 3. Kontrolna tačka → 4. Greška → poboljšanje

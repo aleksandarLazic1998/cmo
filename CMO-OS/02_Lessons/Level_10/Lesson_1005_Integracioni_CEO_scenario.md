@@ -17,6 +17,26 @@ CEO odluka povezuje kupca, ponudu, ekonomiku, gotovinu, operacije, ljude, rizik 
 
 Integracioni scenario traži jasan problem, podatke i nepoznanice, opcije, preporuku, cost, očekivani rezultat, KPI, guardrail, owner-a i plan učenja.
 
+### Zašto je ovo važno vlasniku
+
+CEO odluka spaja sve što je naučeno. Rešenje koje popravlja jednu oblast, a kvari drugu, nije dobra odluka.
+
+### Na tabli `[FIXTURE]`
+
+Paket servisa za firme deluje profitabilno. CEO proverava: da li kupci postoje (Level 3), da li je ponuda jasna (Level 4), da li ekonomika i gotovina izdržavaju (Level 1–2), da li servis ima kapacitet (Level 7), ko je vlasnik rezultata (Level 9) i da li je ponuda zakonita i etična (Lesson 1006).
+
+### Sa čim se meša
+
+Integracioni scenario nije zbir lekcija, već jedna odluka sa jasnim kompromisima. Preporuka bez KPI-ja i uslova za prekid nije plan.
+
+### Veza sa drugim lekcijama
+
+Koristi sve nivoe; posebno Lesson 805, 1001–1004 i 1006.
+
+### Iz korpusa
+
+BK-007, PDF pp. 89–105 (povezane akcije; strana 90 vizuelno proverena). BK-014 p. 61 (Five Parts) i pp. 450–452 (Sustainable Growth Cycle) provereni u tekstu korpusa; raniji lokator „p. 452“ preciziran.
+
 ## Visual model
 
 1. Kupac i ponuda → 2. Profit i cash → 3. Operacije i ljudi → 4. Strategija, rizik i odluka
@@ -83,6 +103,6 @@ Canonical prolaz zahteva najmanje 80/100, najmanje 15/25 u svakoj oblasti, demon
 ## Sources and limits
 
 - CMO OS originalna sinteza · bez prepisivanja knjiga
-- Korpus: `BKB-VAL-006`, `BKB-SCN-002`, `BKB-MET-006` · BK-007 (koherentna akcija) · BK-014 p. 61, p. 452 · BK-011 (izvršenje)
+- Korpus: `BKB-VAL-006`, `BKB-SCN-002`, `BKB-MET-006` · BK-007 (koherentna akcija) · BK-014 p. 61, pp. 450–452 · BK-011 (izvršenje)
 
 Knjige su sekundarni izvori. Ova lekcija je originalna CMO OS sinteza i ne kopira dostavljene knjige.

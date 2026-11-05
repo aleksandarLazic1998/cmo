@@ -17,6 +17,26 @@ Bilans stanja je fotografija firme na određeni dan. Leva strana pokazuje imovin
 
 Osnovna ravnoteža je: imovina = obaveze + kapital. Profit može povećati kapital, ali kupovina zaliha samo menja oblik imovine iz gotovine u robu.
 
+### Zašto je ovo važno vlasniku
+
+Bilans stanja pokazuje šta firma ima, koliko duguje i koliko pripada vlasniku na određeni dan. Iz njega se vidi da li je rast finansiran sopstvenim novcem ili tuđim dugom.
+
+### Na tabli `[FIXTURE]`
+
+Firma kupi opremu za servis od 300.000 RSD na kredit. Imovina raste za 300.000 RSD (oprema), obaveze rastu za 300.000 RSD (kredit), a kapital se ne menja. Jednačina imovina = obaveze + kapital ostaje u ravnoteži.
+
+### Sa čim se meša
+
+Bilans stanja nije film perioda kao bilans uspeha, već fotografija jednog dana. Veća imovina ne znači bogatiju firmu ako su istovremeno porasle obaveze.
+
+### Veza sa drugim lekcijama
+
+Lesson 201 stvara rezultat koji ulazi u kapital; Lesson 203 i 204 objašnjavaju kretanje gotovine, potraživanja, zaliha i obaveza.
+
+### Iz korpusa
+
+BK-006, PDF pp. 73–103 (imovina, obaveze, kapital i osnovna jednačina; whole-book beleška). BK-014 p. 205 (Balance Sheet) proveren u tekstu korpusa 2026-11-05.
+
 ## Visual model
 
 1. Gotovina, zalihe, oprema → 2. = → 3. Obaveze → 4. + kapital

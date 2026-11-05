@@ -25,9 +25,17 @@ Reklamacije imaju direktan trošak (prevoz, servis, administracija), pravni rizi
 2. **Komercijalna garancija** — dodatno, dobrovoljno obećanje proizvođača ili trgovca; ne umanjuje zakonsku odgovornost.
 3. **Reklamacija** — zahtev kupca da se nesaobraznost otkloni; trgovac je dužan da je primi i reši u zakonskim rokovima.
 
-### Šta propisuje zakon `[FACT]` uz obavezu provere
+### Šta propisuje zakon `[FACT]`
 
-Novi Zakon o zaštiti potrošača objavljen je u „Sl. glasniku RS“ br. 35/2026 (tekst na paragraf.rs, provereno 2026-11-04). Prema tekstu i stručnim prikazima: trgovac mora da isporuči saobraznu robu; reklamacija se može izjaviti usmeno, pisano ili elektronski uz dokaz o kupovini; trgovac odgovara u roku od osam dana, a rešava u roku od 15 dana, odnosno 30 dana za tehničku robu; evidencija reklamacija čuva se najmanje dve godine. Pre primene proveri važeći tekst u Službenom glasniku; ovo nije pravni savet.
+Zakon o zaštiti potrošača, „Sl. glasnik RS“ br. 35/2026, prečišćeni tekst na paragraf.rs, proveren 2026-11-04:
+
+- trgovac odgovara za nesaobraznost koja se pojavi u roku od dve godine od isporuke; kupac obaveštava trgovca u roku od dva meseca od saznanja, a najkasnije dve godine od isporuke (čl. 59);
+- trgovac mora da primi reklamaciju, ne sme da naplati utvrđivanje nesaobraznosti i ne sme da uslovi rešavanje ambalažom;
+- odgovor kupcu stiže najkasnije za osam dana od prijema; rešavanje traje najviše 15 dana, odnosno 30 dana za tehničku robu i nameštaj; rok se može produžiti samo jednom i samo uz saglasnost kupca;
+- evidencija reklamacija čuva se najmanje dve godine;
+- zakon stupa na snagu osmog dana od objavljivanja, a primenjuje se po isteku tri meseca od stupanja na snagu (čl. 220); tada prestaje da važi zakon iz „Sl. glasnika RS“ br. 88/21 (čl. 219).
+
+Paragraf.rs je komercijalna pravna baza, ne sam Službeni glasnik. Datum početka primene (2. avgust 2026) naveden je samo u sekundarnom izvoru, ali je u skladu sa pravilom iz čl. 220. Ovo nije pravni savet.
 
 ### Na tabli `[FIXTURE]`
 
@@ -111,7 +119,7 @@ Canonical prolaz zahteva najmanje 80/100, najmanje 15/25 u svakoj oblasti, demon
 
 - CMO OS originalna sinteza · bez prepisivanja knjiga
 - Korpus: `BKB-MET-004`, `BKB-VAL-002`
-- Zakon o zaštiti potrošača, „Sl. glasnik RS“ br. 35/2026 — [paragraf.rs](https://www.paragraf.rs/propisi/zakon-o-zastiti-potrosaca-2026.html) · provereno 2026-11-04; rokovi provereni i na sekundarnom izvoru, pre primene proveriti zvanični tekst
+- Zakon o zaštiti potrošača, „Sl. glasnik RS“ br. 35/2026 — [paragraf.rs](https://www.paragraf.rs/propisi/zakon-o-zastiti-potrosaca-2026.html) · prečišćeni tekst proveren 2026-11-04 (rokovi iz čl. 59, odredbe o reklamaciji, čl. 219–220); datum početka primene iz sekundarnog izvora
 
 Knjige su sekundarni izvori. Ova lekcija je originalna CMO OS sinteza i ne kopira dostavljene knjige.
 

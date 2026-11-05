@@ -1,5 +1,12 @@
 # Changelog
 
+## Theory expansion and verified corpus locators — 2026-11-05
+
+- Teorija proširena u još 41 lekciji po standardu iz šablona (zašto je važno, `[FIXTURE]` primer, sa čim se meša, veza, lokator iz korpusa); ukupno 10.647 reči u „Teach & explain“ umesto 2.477. Originalni tekst sačuvan.
+- Provereno 48 BK-014 lokatora u tekstu korpusa: 41 tačan, 6 preciziranih raspona i 1 pogrešan ispravljen (Lesson 603: pp. 383–385 umesto 361–362). Četiri lokatora iz beleški potvrđena na slikama stranica.
+- Lesson 607 i istraživačka beleška usklađeni sa prečišćenim tekstom Zakona o zaštiti potrošača (35/2026): rokovi za reklamacije, odgovornost za nesaobraznost i početak primene.
+- Uočen nedostatak u korpusu slika: BK-013 ima 1 od 125 strana. Pravi razgovor sa modelom i dalje nije izvršen (nema API ključa). Learning Progress i Knowledge Graph nisu menjani.
+
 ## Curriculum expansion and level gates — 2026-11-04
 
 - Odobreno od korisnika (ADR 010): katalog 49 → 54 lekcije sa novim lekcijama 606 (nabavka i distributeri), 607 (postprodaja i reklamacije), 805 (kvalitet odluke pod neizvesnošću), 905 (organizaciona struktura) i 1006 (etika i usklađenost); Lesson 1005 sada traži 1006. Curriculum version `2026.11-expanded`.

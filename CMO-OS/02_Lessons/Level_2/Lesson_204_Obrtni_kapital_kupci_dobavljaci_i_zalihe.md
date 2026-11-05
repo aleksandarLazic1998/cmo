@@ -17,6 +17,26 @@ Neto obrtni kapital (net working capital) je kratkoročna imovina minus kratkoro
 
 Cash conversion cycle spaja dane zalihe i naplate, pa oduzima dane plaćanja dobavljaču. Što je ciklus duži, više gotovine treba za isti obim.
 
+### Zašto je ovo važno vlasniku
+
+U trgovini je najveći deo novca vezan u zalihi i potraživanjima. Svaki dan kraći ciklus oslobađa gotovinu bez dodatne prodaje.
+
+### Na tabli `[FIXTURE]`
+
+Zaliha stoji u proseku 50 dana, kupci plaćaju za 10 dana, a dobavljaču se plaća za 30 dana. Ciklus konverzije gotovine = 50 + 10 − 30 = 30 dana. Ako je dnevni trošak prodate robe 50.000 RSD, u ciklusu je vezano oko 30 × 50.000 = 1.500.000 RSD.
+
+### Sa čim se meša
+
+Obrtni kapital nije saldo na računu. Duži rok plaćanja dobavljaču pomaže gotovini, ali kašnjenje preko dogovorenog roka narušava odnos i uslove nabavke (Lesson 606).
+
+### Veza sa drugim lekcijama
+
+Nastavlja Lesson 203; koristi se u Lesson 603 (zalihe) i 606 (rok plaćanja).
+
+### Iz korpusa
+
+BK-006, PDF pp. 97–128 (prodaja na odloženo, zalihe i usklađivanje profita sa gotovinom; whole-book beleška). BK-011 *Scaling Up* (ciklus konverzije gotovine; locator nije proveren u ovoj sesiji). BK-014 p. 222 proveren u tekstu korpusa.
+
 ## Visual model
 
 1. Kupi zalihu → 2. Prodaj → 3. Naplatiti kupca → 4. Platiti / osloboditi gotovinu

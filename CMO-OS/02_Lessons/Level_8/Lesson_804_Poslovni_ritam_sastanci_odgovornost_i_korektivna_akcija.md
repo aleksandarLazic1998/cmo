@@ -17,6 +17,26 @@ Poslovni ritam je ponovljiv ciklus pregleda rezultata, odluke, owner-a, roka i p
 
 Dobar review odvaja informaciju, odluku i akciju. Svaka akcija ima jednog odgovornog vlasnika i jasan datum, a sledeći sastanak prvo proverava prethodne obaveze.
 
+### Zašto je ovo važno vlasniku
+
+Sastanak bez odluke, vlasnika i roka troši vreme celog tima. Ritam pregleda pretvara podatke u akciju.
+
+### Na tabli `[FIXTURE]`
+
+Mesečni pregled od 30 minuta: šta je dogovoreno prošli put i da li je urađeno; tri ključna signala; jedna ili dve odluke; za svaku akciju jedan vlasnik i datum. Sledeći put prvo se proverava efekat.
+
+### Sa čim se meša
+
+Izveštavanje nije odlučivanje. Akcija bez vlasnika ostaje namera.
+
+### Veza sa drugim lekcijama
+
+Spaja Lesson 801–803; Lesson 905 određuje ko odlučuje.
+
+### Iz korpusa
+
+BK-008, PDF pp. 74–85 (sastanci usmereni na proces i na odluku; whole-book beleška). BK-011 ima prvenstvo za ritam sastanaka (locator nije proveren u ovoj sesiji).
+
 ## Visual model
 
 1. Pre-read i signal → 2. Odluka → 3. Owner i rok → 4. Provera efekta

@@ -17,6 +17,26 @@ CAC je trošak sticanja kupca, LTV procenjuje doprinos koji kupac donosi kroz od
 
 LTV nije sigurna činjenica o budućnosti. Mora imati cohort, period, maržu, stopu zadržavanja i jasno navedene pretpostavke.
 
+### Zašto je ovo važno vlasniku
+
+Rast koji košta više nego što kupac vraća uništava vrednost, čak i kada promet raste.
+
+### Na tabli `[FIXTURE]`
+
+Kupac u proseku napravi 2,5 kupovine godišnje sa 3.000 RSD bruto profita po kupovini: godišnja vrednost 7.500 RSD. Ako je trošak sticanja kupca 2.500 RSD, odnos LTV/CAC je 3. Ako se zadržavanje kupaca prepolovi, odnos pada i rast postaje rizičan.
+
+### Sa čim se meša
+
+LTV nije sigurna činjenica o budućnosti, već procena sa pretpostavkama. LTV na prihodu umesto na bruto profitu precenjuje vrednost kupca.
+
+### Veza sa drugim lekcijama
+
+Spaja Lesson 104 (doprinos), 504 (kanali) i 205 (payback).
+
+### Iz korpusa
+
+BK-014 pp. 212–214 (Lifetime Value, Allowable Acquisition Cost) provereni u tekstu korpusa. BK-002 za ekonomiku ponude (koristiti kritički).
+
 ## Visual model
 
 1. Trošak akvizicije → 2. Prva kupovina → 3. Ponovljene kupovine → 4. LTV i povrat
